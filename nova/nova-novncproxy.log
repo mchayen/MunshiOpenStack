@@ -1,0 +1,368 @@
+2015-06-22 21:15:29.887 23480 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-06-22 21:15:29.889 23480 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-06-22 21:15:29.889 23480 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-06-22 21:15:29.889 23480 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-06-22 21:15:29.890 23480 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-06-22 21:15:29.890 23480 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-06-22 21:15:29.896 23480 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-06-22 21:32:01.414 23480 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-06-22 21:32:01.420 23480 INFO nova.console.websocketproxy [-] In exit
+2015-06-22 22:07:15.999 1045 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-06-22 22:07:16.053 1045 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-06-22 22:07:16.053 1045 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-06-22 22:07:16.054 1045 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-06-22 22:07:16.054 1045 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-06-22 22:07:16.055 1045 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-06-22 22:07:16.113 1045 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-06-22 22:37:01.630 1045 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-06-22 22:37:01.635 1045 INFO nova.console.websocketproxy [-] In exit
+2015-09-30 19:05:34.891 990 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-09-30 19:05:34.899 990 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-09-30 19:05:34.900 990 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-09-30 19:05:34.900 990 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-09-30 19:05:34.901 990 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-09-30 19:05:34.901 990 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-09-30 19:05:34.909 990 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-09-30 21:09:04.131 990 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-09-30 21:09:04.133 990 INFO nova.console.websocketproxy [-] In exit
+2015-09-30 21:09:05.702 3629 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-09-30 21:09:05.702 3629 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-09-30 21:09:05.703 3629 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-09-30 21:09:05.703 3629 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-09-30 21:09:05.703 3629 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-09-30 21:09:05.704 3629 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-09-30 21:09:05.707 3629 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-09-30 21:55:25.271 3629 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-09-30 21:55:25.274 3629 INFO nova.console.websocketproxy [-] In exit
+2015-09-30 22:02:00.661 982 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-09-30 22:02:00.662 982 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-09-30 22:02:00.663 982 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-09-30 22:02:00.663 982 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-09-30 22:02:00.663 982 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-09-30 22:02:00.664 982 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-09-30 22:02:00.668 982 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-09-30 22:10:12.943 982 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-09-30 22:10:12.947 982 INFO nova.console.websocketproxy [-] In exit
+2015-09-30 22:11:11.069 986 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-09-30 22:11:11.075 986 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-09-30 22:11:11.076 986 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-09-30 22:11:11.144 986 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-09-30 22:11:11.145 986 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-09-30 22:11:11.145 986 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-09-30 22:11:11.152 986 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-09-30 23:01:58.273 986 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-09-30 23:01:58.276 986 INFO nova.console.websocketproxy [-] In exit
+2015-09-30 23:02:00.219 7176 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-09-30 23:02:00.220 7176 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-09-30 23:02:00.221 7176 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-09-30 23:02:00.221 7176 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-09-30 23:02:00.222 7176 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-09-30 23:02:00.222 7176 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-09-30 23:02:00.228 7176 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-10-01 03:29:55.358 7176 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-10-01 03:29:55.366 7176 INFO nova.console.websocketproxy [-] In exit
+2015-10-01 03:31:14.092 1031 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-10-01 03:31:14.121 1031 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-10-01 03:31:14.121 1031 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-10-01 03:31:14.122 1031 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-10-01 03:31:14.122 1031 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-10-01 03:31:14.123 1031 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-10-01 03:31:14.128 1031 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-10-01 03:59:40.979 1031 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-10-01 03:59:41.307 1031 INFO nova.console.websocketproxy [-] In exit
+2015-10-02 20:23:42.147 1043 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-10-02 20:23:42.151 1043 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-10-02 20:23:42.151 1043 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-10-02 20:23:42.152 1043 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-10-02 20:23:42.153 1043 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-10-02 20:23:42.153 1043 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-10-02 20:23:42.159 1043 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-10-02 23:20:37.012 1043 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-10-02 23:20:37.014 1043 INFO nova.console.websocketproxy [-] In exit
+2015-10-02 23:20:38.806 20980 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-10-02 23:20:38.807 20980 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-10-02 23:20:38.807 20980 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-10-02 23:20:38.807 20980 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-10-02 23:20:38.808 20980 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-10-02 23:20:38.808 20980 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-10-02 23:20:38.812 20980 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-10-02 23:30:12.485 21804 INFO nova.console.websocketproxy [-] 71.251.147.235: ignoring empty handshake
+2015-10-02 23:58:53.827 23937 INFO nova.console.websocketproxy [-] handler exception: [Errno 1] _ssl.c:1419: error:14094418:SSL routines:SSL3_READ_BYTES:tlsv1 alert unknown ca
+2015-10-02 23:58:54.401 23938 INFO nova.console.websocketproxy [-] handler exception: [Errno 1] _ssl.c:1419: error:14094418:SSL routines:SSL3_READ_BYTES:tlsv1 alert unknown ca
+2015-10-02 23:58:56.122 23940 INFO nova.console.websocketproxy [-] handler exception: [Errno 1] _ssl.c:1419: error:14094418:SSL routines:SSL3_READ_BYTES:tlsv1 alert unknown ca
+2015-10-02 23:58:56.157 23941 INFO nova.console.websocketproxy [-] handler exception: [Errno 1] _ssl.c:1419: error:14094418:SSL routines:SSL3_READ_BYTES:tlsv1 alert unknown ca
+2015-10-02 23:59:01.625 23947 INFO nova.console.websocketproxy [-] handler exception: [Errno 1] _ssl.c:1419: error:14094418:SSL routines:SSL3_READ_BYTES:tlsv1 alert unknown ca
+2015-10-02 23:59:17.412 23976 WARNING oslo_config.cfg [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-10-02 23:59:17.416 23976 WARNING oslo_config.cfg [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-10-02 23:59:17.416 23976 WARNING oslo_config.cfg [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-10-02 23:59:17.418 23976 WARNING oslo_config.cfg [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-10-02 23:59:17.419 23976 WARNING oslo_config.cfg [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-10-02 23:59:17.420 23976 WARNING oslo_config.cfg [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-10-02 23:59:17.471 23976 INFO oslo_messaging._drivers.impl_rabbit [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2015-10-02 23:59:17.495 23976 INFO oslo_messaging._drivers.impl_rabbit [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2015-10-02 23:59:17.497 23976 WARNING oslo_config.cfg [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-10-02 23:59:17.510 23976 INFO oslo_messaging._drivers.impl_rabbit [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2015-10-02 23:59:17.531 23976 INFO oslo_messaging._drivers.impl_rabbit [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2015-10-02 23:59:17.739 23976 INFO nova.console.websocketproxy [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -]  17: connect info: {u'instance_uuid': u'07334a4c-dac3-474b-83f0-1d8f4db1f093', u'internal_access_path': None, u'last_activity_at': 1443830333.037223, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'cab7c0de-a914-4ed8-b3a9-a67dc2d6d490', u'access_url': u'https://153.92.32.108:6080/vnc_auto.html?token=cab7c0de-a914-4ed8-b3a9-a67dc2d6d490', u'port': u'5900'}
+2015-10-02 23:59:17.740 23976 INFO nova.console.websocketproxy [req-b76df346-3ffd-45b0-af78-5d0725f50cb1 - - - - -]  17: connecting to: 192.168.0.12:5900
+2015-10-03 00:04:14.549 24362 WARNING oslo_config.cfg [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-10-03 00:04:14.553 24362 WARNING oslo_config.cfg [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-10-03 00:04:14.553 24362 WARNING oslo_config.cfg [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-10-03 00:04:14.555 24362 WARNING oslo_config.cfg [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-10-03 00:04:14.556 24362 WARNING oslo_config.cfg [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-10-03 00:04:14.556 24362 WARNING oslo_config.cfg [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-10-03 00:04:14.602 24362 INFO oslo_messaging._drivers.impl_rabbit [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2015-10-03 00:04:14.619 24362 INFO oslo_messaging._drivers.impl_rabbit [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2015-10-03 00:04:14.621 24362 WARNING oslo_config.cfg [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-10-03 00:04:14.630 24362 INFO oslo_messaging._drivers.impl_rabbit [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2015-10-03 00:04:14.648 24362 INFO oslo_messaging._drivers.impl_rabbit [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2015-10-03 00:04:14.752 24362 INFO nova.console.websocketproxy [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -]  19: connect info: {u'instance_uuid': u'07334a4c-dac3-474b-83f0-1d8f4db1f093', u'internal_access_path': None, u'last_activity_at': 1443830653.024941, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'7f81d41e-c2ec-4d5d-bb57-da9969ef2d78', u'access_url': u'https://153.92.32.108:6080/vnc_auto.html?token=7f81d41e-c2ec-4d5d-bb57-da9969ef2d78', u'port': u'5900'}
+2015-10-03 00:04:14.753 24362 INFO nova.console.websocketproxy [req-3f981e90-52e9-4b4a-8094-f976bc787dd8 - - - - -]  19: connecting to: 192.168.0.12:5900
+2015-10-03 02:40:13.036 20980 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-10-03 02:40:13.043 20980 INFO nova.console.websocketproxy [-] In exit
+2015-10-03 02:40:15.410 11195 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-10-03 02:40:15.411 11195 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-10-03 02:40:15.411 11195 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-10-03 02:40:15.412 11195 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-10-03 02:40:15.412 11195 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-10-03 02:40:15.412 11195 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-10-03 02:40:15.417 11195 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-10-03 03:13:23.794 11195 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-10-03 03:13:23.799 11195 INFO nova.console.websocketproxy [-] In exit
+2015-10-04 14:48:11.308 1030 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-10-04 14:48:11.310 1030 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-10-04 14:48:11.310 1030 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-10-04 14:48:11.311 1030 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-10-04 14:48:11.311 1030 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-10-04 14:48:11.312 1030 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-10-04 14:48:11.359 1030 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-10-04 15:39:57.745 1030 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-10-04 15:39:57.747 1030 INFO nova.console.websocketproxy [-] In exit
+2015-10-04 15:40:50.061 976 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-10-04 15:40:50.065 976 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-10-04 15:40:50.065 976 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-10-04 15:40:50.066 976 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-10-04 15:40:50.066 976 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-10-04 15:40:50.066 976 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-10-04 15:40:50.070 976 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-10-04 22:48:01.475 976 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-10-04 22:48:01.479 976 INFO nova.console.websocketproxy [-] In exit
+2015-10-16 14:53:31.671 955 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2015-10-16 14:53:31.730 955 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2015-10-16 14:53:31.731 955 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2015-10-16 14:53:31.731 955 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2015-10-16 14:53:31.731 955 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2015-10-16 14:53:31.732 955 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2015-10-16 14:53:31.742 955 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2015-10-16 15:23:22.985 955 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2015-10-16 15:23:23.121 955 INFO nova.console.websocketproxy [-] In exit
+2016-02-16 21:33:19.431 977 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2016-02-16 21:33:19.441 977 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2016-02-16 21:33:19.442 977 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2016-02-16 21:33:19.443 977 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2016-02-16 21:33:19.443 977 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2016-02-16 21:33:19.443 977 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2016-02-16 21:33:19.449 977 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2016-02-16 21:56:22.471 977 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2016-02-16 21:56:22.474 977 INFO nova.console.websocketproxy [-] In exit
+2016-02-22 19:24:31.365 1004 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2016-02-22 19:24:31.385 1004 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2016-02-22 19:24:31.385 1004 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2016-02-22 19:24:31.386 1004 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2016-02-22 19:24:31.386 1004 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2016-02-22 19:24:31.386 1004 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2016-02-22 19:24:31.391 1004 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2016-02-22 19:26:01.723 1004 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2016-02-22 19:26:01.729 1004 INFO nova.console.websocketproxy [-] In exit
+2016-02-22 19:39:52.783 1032 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2016-02-22 19:39:52.811 1032 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2016-02-22 19:39:52.812 1032 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2016-02-22 19:39:52.812 1032 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2016-02-22 19:39:52.813 1032 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2016-02-22 19:39:52.813 1032 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2016-02-22 19:39:52.818 1032 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2016-02-22 22:54:05.980 1032 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2016-02-22 22:54:05.984 1032 INFO nova.console.websocketproxy [-] In exit
+2016-02-23 19:47:04.628 1036 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2016-02-23 19:47:04.641 1036 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2016-02-23 19:47:04.642 1036 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2016-02-23 19:47:04.642 1036 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2016-02-23 19:47:04.643 1036 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2016-02-23 19:47:04.643 1036 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2016-02-23 19:47:04.650 1036 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2016-02-23 23:40:02.711 1036 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2016-02-23 23:40:02.716 1036 INFO nova.console.websocketproxy [-] In exit
+2016-02-24 19:46:15.812 1036 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2016-02-24 19:46:15.833 1036 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2016-02-24 19:46:15.834 1036 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2016-02-24 19:46:15.834 1036 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2016-02-24 19:46:15.834 1036 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2016-02-24 19:46:15.835 1036 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2016-02-24 19:46:15.840 1036 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2016-02-24 23:17:47.919 1036 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2016-02-24 23:17:48.132 1036 INFO nova.console.websocketproxy [-] In exit
+2016-02-25 19:46:50.043 1033 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2016-02-25 19:46:50.057 1033 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2016-02-25 19:46:50.057 1033 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2016-02-25 19:46:50.058 1033 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2016-02-25 19:46:50.058 1033 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2016-02-25 19:46:50.058 1033 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2016-02-25 19:46:50.062 1033 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2016-02-25 23:00:58.187 1033 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2016-02-25 23:00:58.190 1033 INFO nova.console.websocketproxy [-] In exit
+2016-02-25 23:01:00.446 21562 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2016-02-25 23:01:00.447 21562 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2016-02-25 23:01:00.448 21562 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2016-02-25 23:01:00.448 21562 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2016-02-25 23:01:00.448 21562 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2016-02-25 23:01:00.449 21562 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2016-02-25 23:01:00.454 21562 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2016-02-25 23:02:42.801 21767 INFO nova.console.websocketproxy [-] 8.28.16.254: non-SSL connection received but disallowed
+2016-02-25 23:03:09.137 21838 WARNING oslo_config.cfg [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:03:09.141 21838 WARNING oslo_config.cfg [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:03:09.142 21838 WARNING oslo_config.cfg [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:03:09.143 21838 WARNING oslo_config.cfg [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:03:09.144 21838 WARNING oslo_config.cfg [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:03:09.145 21838 WARNING oslo_config.cfg [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:03:09.195 21838 INFO oslo_messaging._drivers.impl_rabbit [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:03:09.221 21838 INFO oslo_messaging._drivers.impl_rabbit [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:03:09.222 21838 WARNING oslo_config.cfg [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:03:09.236 21838 INFO oslo_messaging._drivers.impl_rabbit [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:03:09.255 21838 INFO oslo_messaging._drivers.impl_rabbit [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:03:09.441 21838 INFO nova.console.websocketproxy [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -]  13: connect info: {u'instance_uuid': u'0412636b-19e1-4ca3-b069-ab816e700fef', u'internal_access_path': None, u'last_activity_at': 1456441348.560549, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'114ae457-7b27-467a-b647-534a52c42dcd', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=114ae457-7b27-467a-b647-534a52c42dcd', u'port': u'5900'}
+2016-02-25 23:03:09.442 21838 INFO nova.console.websocketproxy [req-0d2a5950-3e2e-4448-a05a-541042d55ec9 - - - - -]  13: connecting to: 192.168.0.12:5900
+2016-02-25 23:04:31.138 21932 WARNING oslo_config.cfg [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:04:31.143 21932 WARNING oslo_config.cfg [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:04:31.144 21932 WARNING oslo_config.cfg [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:04:31.145 21932 WARNING oslo_config.cfg [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:04:31.146 21932 WARNING oslo_config.cfg [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:04:31.147 21932 WARNING oslo_config.cfg [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:04:31.214 21932 INFO oslo_messaging._drivers.impl_rabbit [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:04:31.244 21932 INFO oslo_messaging._drivers.impl_rabbit [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:04:31.245 21932 WARNING oslo_config.cfg [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:04:31.258 21932 INFO oslo_messaging._drivers.impl_rabbit [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:04:31.276 21932 INFO oslo_messaging._drivers.impl_rabbit [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:04:31.411 21932 INFO nova.console.websocketproxy [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -]  18: connect info: {u'instance_uuid': u'0412636b-19e1-4ca3-b069-ab816e700fef', u'internal_access_path': None, u'last_activity_at': 1456441348.560549, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'114ae457-7b27-467a-b647-534a52c42dcd', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=114ae457-7b27-467a-b647-534a52c42dcd', u'port': u'5900'}
+2016-02-25 23:04:31.412 21932 INFO nova.console.websocketproxy [req-d1a3c5ae-e3c0-4386-a396-86f08f384c27 - - - - -]  18: connecting to: 192.168.0.12:5900
+2016-02-25 23:07:05.193 22127 WARNING oslo_config.cfg [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:07:05.197 22127 WARNING oslo_config.cfg [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:07:05.198 22127 WARNING oslo_config.cfg [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:07:05.199 22127 WARNING oslo_config.cfg [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:07:05.200 22127 WARNING oslo_config.cfg [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:07:05.201 22127 WARNING oslo_config.cfg [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:07:05.255 22127 INFO oslo_messaging._drivers.impl_rabbit [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:07:05.283 22127 INFO oslo_messaging._drivers.impl_rabbit [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:07:05.284 22127 WARNING oslo_config.cfg [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:07:05.295 22127 INFO oslo_messaging._drivers.impl_rabbit [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:07:05.314 22127 INFO oslo_messaging._drivers.impl_rabbit [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:07:05.455 22127 INFO nova.console.websocketproxy [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -]  22: connect info: {u'instance_uuid': u'0412636b-19e1-4ca3-b069-ab816e700fef', u'internal_access_path': None, u'last_activity_at': 1456441454.461534, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'e7deeaa8-9543-4d55-9d27-651c160d22f1', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=e7deeaa8-9543-4d55-9d27-651c160d22f1', u'port': u'5900'}
+2016-02-25 23:07:05.456 22127 INFO nova.console.websocketproxy [req-7bdc5193-24e1-445a-b6e5-446c80060a5b - - - - -]  22: connecting to: 192.168.0.12:5900
+2016-02-25 23:08:11.818 22220 WARNING oslo_config.cfg [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:11.822 22220 WARNING oslo_config.cfg [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:11.823 22220 WARNING oslo_config.cfg [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:11.824 22220 WARNING oslo_config.cfg [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:11.825 22220 WARNING oslo_config.cfg [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:11.825 22220 WARNING oslo_config.cfg [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:11.879 22220 INFO oslo_messaging._drivers.impl_rabbit [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:08:11.908 22220 INFO oslo_messaging._drivers.impl_rabbit [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:08:11.909 22220 WARNING oslo_config.cfg [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:11.921 22220 INFO oslo_messaging._drivers.impl_rabbit [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:08:11.939 22220 INFO oslo_messaging._drivers.impl_rabbit [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:08:12.069 22220 INFO nova.console.websocketproxy [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -]  27: connect info: {u'instance_uuid': u'0412636b-19e1-4ca3-b069-ab816e700fef', u'internal_access_path': None, u'last_activity_at': 1456441454.461534, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'e7deeaa8-9543-4d55-9d27-651c160d22f1', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=e7deeaa8-9543-4d55-9d27-651c160d22f1', u'port': u'5900'}
+2016-02-25 23:08:12.070 22220 INFO nova.console.websocketproxy [req-314867de-7438-4fdf-91e4-f5aa394757c9 - - - - -]  27: connecting to: 192.168.0.12:5900
+2016-02-25 23:08:44.484 22259 WARNING oslo_config.cfg [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:44.489 22259 WARNING oslo_config.cfg [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:44.490 22259 WARNING oslo_config.cfg [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:44.495 22259 WARNING oslo_config.cfg [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:44.496 22259 WARNING oslo_config.cfg [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:44.498 22259 WARNING oslo_config.cfg [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:44.586 22259 INFO oslo_messaging._drivers.impl_rabbit [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:08:44.619 22259 INFO oslo_messaging._drivers.impl_rabbit [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:08:44.620 22259 WARNING oslo_config.cfg [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:08:44.634 22259 INFO oslo_messaging._drivers.impl_rabbit [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:08:44.656 22259 INFO oslo_messaging._drivers.impl_rabbit [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:08:44.839 22259 INFO nova.console.websocketproxy [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -]  31: connect info: {u'instance_uuid': u'0412636b-19e1-4ca3-b069-ab816e700fef', u'internal_access_path': None, u'last_activity_at': 1456441708.793735, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'44b8d489-4a3d-4a70-9041-215679ad9748', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=44b8d489-4a3d-4a70-9041-215679ad9748', u'port': u'5900'}
+2016-02-25 23:08:44.841 22259 INFO nova.console.websocketproxy [req-7bace38f-bd14-4a0d-87b1-4686756b735a - - - - -]  31: connecting to: 192.168.0.12:5900
+2016-02-25 23:10:00.636 22351 WARNING oslo_config.cfg [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:10:00.640 22351 WARNING oslo_config.cfg [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:10:00.641 22351 WARNING oslo_config.cfg [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:10:00.642 22351 WARNING oslo_config.cfg [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:10:00.644 22351 WARNING oslo_config.cfg [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:10:00.645 22351 WARNING oslo_config.cfg [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:10:00.721 22351 INFO oslo_messaging._drivers.impl_rabbit [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:10:00.746 22351 INFO oslo_messaging._drivers.impl_rabbit [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:10:00.747 22351 WARNING oslo_config.cfg [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:10:00.763 22351 INFO oslo_messaging._drivers.impl_rabbit [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:10:00.785 22351 INFO oslo_messaging._drivers.impl_rabbit [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:10:00.955 22351 INFO nova.console.websocketproxy [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -]  34: connect info: {u'instance_uuid': u'0412636b-19e1-4ca3-b069-ab816e700fef', u'internal_access_path': None, u'last_activity_at': 1456441708.793735, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'44b8d489-4a3d-4a70-9041-215679ad9748', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=44b8d489-4a3d-4a70-9041-215679ad9748', u'port': u'5900'}
+2016-02-25 23:10:00.956 22351 INFO nova.console.websocketproxy [req-a17a1c88-e400-4a72-839f-31586d6f2bcf - - - - -]  34: connecting to: 192.168.0.12:5900
+2016-02-25 23:29:40.760 24069 WARNING oslo_config.cfg [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:29:40.766 24069 WARNING oslo_config.cfg [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:29:40.767 24069 WARNING oslo_config.cfg [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:29:40.768 24069 WARNING oslo_config.cfg [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:29:40.768 24069 WARNING oslo_config.cfg [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:29:40.769 24069 WARNING oslo_config.cfg [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:29:40.831 24069 INFO oslo_messaging._drivers.impl_rabbit [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:29:40.862 24069 INFO oslo_messaging._drivers.impl_rabbit [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:29:40.864 24069 WARNING oslo_config.cfg [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:29:40.876 24069 INFO oslo_messaging._drivers.impl_rabbit [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:29:40.899 24069 INFO oslo_messaging._drivers.impl_rabbit [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:29:41.019 24069 INFO nova.console.websocketproxy [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -]  51: connect info: {u'instance_uuid': u'e7d9df27-42b0-4ae7-a181-89a0acdc9764', u'internal_access_path': None, u'last_activity_at': 1456442948.779255, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'6a17fa2b-ac79-47bc-8e7c-ec674e6c7e10', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=6a17fa2b-ac79-47bc-8e7c-ec674e6c7e10', u'port': u'5901'}
+2016-02-25 23:29:41.020 24069 INFO nova.console.websocketproxy [req-e49b4480-48df-4182-9eee-a78a633138fc - - - - -]  51: connecting to: 192.168.0.12:5901
+2016-02-25 23:30:31.304 24147 WARNING oslo_config.cfg [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:30:31.310 24147 WARNING oslo_config.cfg [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:30:31.312 24147 WARNING oslo_config.cfg [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:30:31.313 24147 WARNING oslo_config.cfg [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:30:31.314 24147 WARNING oslo_config.cfg [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:30:31.315 24147 WARNING oslo_config.cfg [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:30:31.388 24147 INFO oslo_messaging._drivers.impl_rabbit [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:30:31.417 24147 INFO oslo_messaging._drivers.impl_rabbit [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:30:31.419 24147 WARNING oslo_config.cfg [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:30:31.432 24147 INFO oslo_messaging._drivers.impl_rabbit [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:30:31.451 24147 INFO oslo_messaging._drivers.impl_rabbit [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:30:31.581 24147 INFO nova.console.websocketproxy [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -]  77: connect info: {u'instance_uuid': u'e7d9df27-42b0-4ae7-a181-89a0acdc9764', u'internal_access_path': None, u'last_activity_at': 1456443010.98232, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'41a288cb-93d3-411e-be4f-810fd6b39f83', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=41a288cb-93d3-411e-be4f-810fd6b39f83', u'port': u'5901'}
+2016-02-25 23:30:31.582 24147 INFO nova.console.websocketproxy [req-467d6b6e-b5dc-49b2-b1bf-5864f559870b - - - - -]  77: connecting to: 192.168.0.12:5901
+2016-02-25 23:32:17.862 24280 WARNING oslo_config.cfg [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:32:17.866 24280 WARNING oslo_config.cfg [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:32:17.867 24280 WARNING oslo_config.cfg [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:32:17.868 24280 WARNING oslo_config.cfg [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:32:17.869 24280 WARNING oslo_config.cfg [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:32:17.870 24280 WARNING oslo_config.cfg [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:32:17.923 24280 INFO oslo_messaging._drivers.impl_rabbit [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:32:17.948 24280 INFO oslo_messaging._drivers.impl_rabbit [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:32:17.949 24280 WARNING oslo_config.cfg [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:32:17.962 24280 INFO oslo_messaging._drivers.impl_rabbit [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:32:17.980 24280 INFO oslo_messaging._drivers.impl_rabbit [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:32:18.108 24280 INFO nova.console.websocketproxy [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -]  80: connect info: {u'instance_uuid': u'e7d9df27-42b0-4ae7-a181-89a0acdc9764', u'internal_access_path': None, u'last_activity_at': 1456443136.125004, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'2c2023f4-a73c-4f86-9b5b-741dac1d5ccb', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=2c2023f4-a73c-4f86-9b5b-741dac1d5ccb', u'port': u'5901'}
+2016-02-25 23:32:18.109 24280 INFO nova.console.websocketproxy [req-98ad2d5d-fb94-458c-a448-6bef9bd277cd - - - - -]  80: connecting to: 192.168.0.12:5901
+2016-02-25 23:38:40.491 24783 WARNING oslo_config.cfg [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 23:38:40.497 24783 WARNING oslo_config.cfg [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 23:38:40.497 24783 WARNING oslo_config.cfg [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 23:38:40.499 24783 WARNING oslo_config.cfg [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 23:38:40.500 24783 WARNING oslo_config.cfg [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 23:38:40.500 24783 WARNING oslo_config.cfg [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 23:38:40.551 24783 INFO oslo_messaging._drivers.impl_rabbit [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:38:40.571 24783 INFO oslo_messaging._drivers.impl_rabbit [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:38:40.575 24783 WARNING oslo_config.cfg [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 23:38:40.586 24783 INFO oslo_messaging._drivers.impl_rabbit [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 23:38:40.606 24783 INFO oslo_messaging._drivers.impl_rabbit [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 23:38:40.713 24783 INFO nova.console.websocketproxy [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -]  100: connect info: {u'instance_uuid': u'e7d9df27-42b0-4ae7-a181-89a0acdc9764', u'internal_access_path': None, u'last_activity_at': 1456443515.720539, u'console_type': u'novnc', u'host': u'192.168.0.12', u'token': u'd912b3f8-a502-4bef-aafb-166096681b93', u'access_url': u'https://153.92.33.108:6080/vnc_auto.html?token=d912b3f8-a502-4bef-aafb-166096681b93', u'port': u'5901'}
+2016-02-25 23:38:40.714 24783 INFO nova.console.websocketproxy [req-c75cb437-caec-4934-a264-6948e25ed65b - - - - -]  100: connecting to: 192.168.0.12:5901
+2016-02-26 00:02:02.969 21562 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2016-02-26 00:02:03.171 21562 INFO nova.console.websocketproxy [-] In exit
+2016-02-26 14:48:06.775 1051 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2016-02-26 14:48:06.785 1051 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2016-02-26 14:48:06.786 1051 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2016-02-26 14:48:06.786 1051 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2016-02-26 14:48:06.787 1051 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2016-02-26 14:48:06.787 1051 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2016-02-26 14:48:06.795 1051 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
+2016-02-26 15:42:01.588 1051 INFO nova.console.websocketproxy [-] Got SIGTERM, exiting
+2016-02-26 15:42:01.593 1051 INFO nova.console.websocketproxy [-] In exit
+2016-02-26 19:39:55.565 1051 INFO nova.console.websocketproxy [-] WebSocket server settings:
+2016-02-26 19:39:55.571 1051 INFO nova.console.websocketproxy [-]   - Listen on 0.0.0.0:6080
+2016-02-26 19:39:55.571 1051 INFO nova.console.websocketproxy [-]   - Flash security policy server
+2016-02-26 19:39:55.571 1051 INFO nova.console.websocketproxy [-]   - Web server. Web root: /usr/share/novnc
+2016-02-26 19:39:55.572 1051 INFO nova.console.websocketproxy [-]   - SSL/TLS support
+2016-02-26 19:39:55.572 1051 INFO nova.console.websocketproxy [-]   - Deny non-SSL/TLS connections
+2016-02-26 19:39:55.576 1051 INFO nova.console.websocketproxy [-]   - proxying from 0.0.0.0:6080 to None:None
