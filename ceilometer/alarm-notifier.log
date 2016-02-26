@@ -1,0 +1,410 @@
+2015-06-22 21:21:32.868 29199 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-06-22 21:21:32.869 29199 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-06-22 21:21:32.870 29199 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-06-22 21:21:32.871 29199 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-06-22 21:21:32.872 29199 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-06-22 21:21:32.872 29199 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-06-22 21:21:32.873 29199 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-06-22 21:21:32.873 29199 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-06-22 21:21:32.899 29199 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-06-22 21:21:32.923 29199 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-06-22 21:32:03.233 29199 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2015-06-22 22:07:13.076 1137 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-06-22 22:07:13.079 1137 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-06-22 22:07:13.080 1137 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-06-22 22:07:13.082 1137 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-06-22 22:07:13.082 1137 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-06-22 22:07:13.084 1137 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-06-22 22:07:13.084 1137 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-06-22 22:07:13.085 1137 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-06-22 22:07:13.514 1137 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-06-22 22:07:13.683 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2015-06-22 22:07:14.737 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-06-22 22:07:15.765 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-06-22 22:07:16.786 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-06-22 22:07:17.832 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-06-22 22:07:18.856 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-06-22 22:07:19.868 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-06-22 22:07:20.887 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-06-22 22:07:21.904 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-06-22 22:07:22.928 1137 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-06-22 22:07:24.029 1137 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2015-06-22 22:07:24.031 1137 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-06-22 22:37:02.473 1137 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2015-09-30 19:05:29.972 1062 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-09-30 19:05:30.067 1062 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-09-30 19:05:30.068 1062 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-09-30 19:05:30.069 1062 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-09-30 19:05:30.069 1062 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-09-30 19:05:30.070 1062 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-09-30 19:05:30.070 1062 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-09-30 19:05:30.070 1062 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-09-30 19:05:30.430 1062 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-09-30 19:05:30.540 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2015-09-30 19:05:31.583 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:32.758 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:33.884 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:34.944 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:35.978 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:37.126 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:38.198 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:39.244 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:40.273 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:41.308 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:42.331 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:43.349 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:44.371 1062 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 19:05:45.428 1062 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2015-09-30 19:05:45.429 1062 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-09-30 21:55:26.258 1062 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2015-09-30 22:01:58.840 1068 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-09-30 22:01:58.907 1068 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-09-30 22:01:58.908 1068 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-09-30 22:01:58.908 1068 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-09-30 22:01:58.909 1068 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-09-30 22:01:58.909 1068 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-09-30 22:01:58.910 1068 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-09-30 22:01:58.911 1068 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-09-30 22:01:59.209 1068 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-09-30 22:01:59.247 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2015-09-30 22:02:00.281 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:02:01.299 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:02:02.318 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:02:03.353 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:02:04.374 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:02:05.386 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:02:06.416 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:02:07.447 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:02:08.477 1068 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:02:09.550 1068 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2015-09-30 22:02:09.551 1068 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-09-30 22:10:14.840 1068 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2015-09-30 22:11:08.989 1102 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-09-30 22:11:09.023 1102 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-09-30 22:11:09.024 1102 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-09-30 22:11:09.025 1102 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-09-30 22:11:09.025 1102 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-09-30 22:11:09.026 1102 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-09-30 22:11:09.026 1102 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-09-30 22:11:09.027 1102 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-09-30 22:11:09.603 1102 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-09-30 22:11:09.748 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2015-09-30 22:11:10.802 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:11.826 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:12.864 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:13.943 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:15.006 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:16.033 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:17.075 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:18.139 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:19.207 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:20.228 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:21.281 1102 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-09-30 22:11:22.399 1102 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2015-09-30 22:11:22.407 1102 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-10-01 03:29:56.414 1102 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2015-10-01 03:31:11.294 1120 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-10-01 03:31:11.296 1120 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-10-01 03:31:11.297 1120 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-10-01 03:31:11.297 1120 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-10-01 03:31:11.298 1120 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-10-01 03:31:11.298 1120 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-10-01 03:31:11.299 1120 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-10-01 03:31:11.299 1120 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-10-01 03:31:11.728 1120 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-10-01 03:31:11.773 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2015-10-01 03:31:12.805 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:13.955 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:14.988 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:16.099 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:17.557 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:18.626 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:19.666 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:20.690 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:21.743 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:22.797 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:23.822 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:24.890 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:25.924 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:26.943 1120 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-01 03:31:28.126 1120 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2015-10-01 03:31:28.127 1120 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-10-01 03:59:42.783 1120 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2015-10-02 20:23:39.319 1116 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-10-02 20:23:39.335 1116 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-10-02 20:23:39.337 1116 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-10-02 20:23:39.338 1116 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-10-02 20:23:39.338 1116 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-10-02 20:23:39.338 1116 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-10-02 20:23:39.338 1116 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-10-02 20:23:39.339 1116 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-10-02 20:23:39.657 1116 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-10-02 20:23:39.804 1116 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2015-10-02 20:23:40.874 1116 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-02 20:23:41.911 1116 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-02 20:23:42.935 1116 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-02 20:23:44.007 1116 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-02 20:23:45.030 1116 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-02 20:23:46.066 1116 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-02 20:23:47.102 1116 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-02 20:23:48.141 1116 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-02 20:23:49.178 1116 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2015-10-02 20:23:49.179 1116 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-10-03 03:13:24.691 1116 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2015-10-04 14:48:06.852 1112 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-10-04 14:48:06.931 1112 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-10-04 14:48:06.932 1112 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-10-04 14:48:06.933 1112 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-10-04 14:48:06.933 1112 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-10-04 14:48:06.934 1112 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-10-04 14:48:06.935 1112 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-10-04 14:48:06.935 1112 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-10-04 14:48:08.062 1112 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-10-04 14:48:08.171 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2015-10-04 14:48:09.231 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:10.259 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:11.297 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:12.350 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:13.443 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:14.471 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:15.613 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:16.673 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:17.698 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:18.722 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:19.768 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:20.788 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:21.801 1112 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 14:48:22.853 1112 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2015-10-04 14:48:22.855 1112 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-10-04 15:39:58.231 1112 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2015-10-04 15:40:48.043 1047 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-10-04 15:40:48.107 1047 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-10-04 15:40:48.108 1047 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-10-04 15:40:48.108 1047 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-10-04 15:40:48.108 1047 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-10-04 15:40:48.109 1047 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-10-04 15:40:48.109 1047 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-10-04 15:40:48.109 1047 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-10-04 15:40:48.423 1047 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-10-04 15:40:48.501 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2015-10-04 15:40:49.545 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 15:40:50.590 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 15:40:51.643 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 15:40:52.678 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 15:40:53.751 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 15:40:54.780 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 15:40:55.809 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 15:40:56.822 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 15:40:57.837 1047 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-04 15:40:58.889 1047 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2015-10-04 15:40:58.890 1047 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-10-04 22:48:02.973 1047 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2015-10-16 14:53:31.676 1100 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2015-10-16 14:53:31.822 1100 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2015-10-16 14:53:31.823 1100 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2015-10-16 14:53:31.823 1100 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2015-10-16 14:53:31.824 1100 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2015-10-16 14:53:31.825 1100 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2015-10-16 14:53:31.825 1100 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2015-10-16 14:53:31.825 1100 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2015-10-16 14:53:32.050 1100 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2015-10-16 14:53:32.201 1100 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2015-10-16 14:53:33.239 1100 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-16 14:53:34.261 1100 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-16 14:53:35.289 1100 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-16 14:53:36.374 1100 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-16 14:53:37.403 1100 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-16 14:53:38.436 1100 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-16 14:53:39.462 1100 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2015-10-16 14:53:40.583 1100 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2015-10-16 14:53:40.585 1100 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2015-10-16 15:23:24.146 1100 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2016-02-16 21:33:15.831 1049 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-16 21:33:15.862 1049 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-16 21:33:15.863 1049 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-16 21:33:15.863 1049 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-16 21:33:15.864 1049 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-16 21:33:15.865 1049 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-16 21:33:15.865 1049 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-16 21:33:15.866 1049 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-16 21:33:16.256 1049 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-16 21:33:16.406 1049 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2016-02-16 21:33:17.455 1049 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-16 21:33:18.515 1049 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-16 21:33:19.546 1049 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-16 21:33:20.614 1049 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-16 21:33:21.714 1049 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-16 21:33:22.757 1049 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-16 21:33:23.808 1049 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-16 21:33:24.836 1049 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-16 21:33:25.906 1049 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2016-02-16 21:33:25.908 1049 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2016-02-16 21:56:23.314 1049 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2016-02-22 19:24:27.729 1064 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-22 19:24:27.770 1064 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-22 19:24:27.770 1064 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-22 19:24:27.771 1064 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-22 19:24:27.772 1064 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-22 19:24:27.773 1064 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-22 19:24:27.773 1064 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-22 19:24:27.774 1064 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-22 19:24:28.016 1064 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-22 19:24:28.090 1064 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2016-02-22 19:24:29.120 1064 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:24:30.175 1064 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:24:31.215 1064 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:24:32.239 1064 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:24:33.307 1064 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:24:34.327 1064 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:24:35.339 1064 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:24:36.384 1064 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:24:37.434 1064 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2016-02-22 19:24:37.435 1064 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2016-02-22 19:26:02.317 1064 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2016-02-22 19:39:49.585 1107 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-22 19:39:49.613 1107 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-22 19:39:49.613 1107 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-22 19:39:49.614 1107 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-22 19:39:49.614 1107 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-22 19:39:49.615 1107 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-22 19:39:49.616 1107 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-22 19:39:49.616 1107 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-22 19:39:49.953 1107 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-22 19:39:50.030 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2016-02-22 19:39:51.080 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:39:52.119 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:39:53.161 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:39:54.194 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:39:55.229 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:39:56.249 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:39:57.282 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:39:58.296 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:39:59.323 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:40:00.339 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-22 19:40:01.395 1107 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2016-02-22 19:40:01.396 1107 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2016-02-22 22:54:06.738 1107 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2016-02-23 19:46:58.951 1096 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-23 19:46:58.986 1096 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-23 19:46:58.987 1096 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-23 19:46:58.988 1096 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-23 19:46:58.988 1096 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-23 19:46:58.989 1096 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-23 19:46:58.990 1096 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-23 19:46:58.990 1096 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-23 19:46:59.410 1096 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-23 19:46:59.540 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2016-02-23 19:47:00.575 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:01.704 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:02.816 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:03.871 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:04.899 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:05.918 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:07.013 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:08.042 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:09.078 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:10.110 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:11.127 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:12.161 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:13.185 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:14.211 1096 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-23 19:47:15.261 1096 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2016-02-23 19:47:15.263 1096 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2016-02-23 23:40:03.372 1096 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2016-02-24 19:46:12.360 1107 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:12.446 1107 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:12.447 1107 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:12.448 1107 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:12.448 1107 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:12.449 1107 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:12.449 1107 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:12.450 1107 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:12.783 1107 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-24 19:46:12.946 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2016-02-24 19:46:13.975 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-24 19:46:15.021 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-24 19:46:16.050 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-24 19:46:17.102 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-24 19:46:18.166 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-24 19:46:19.184 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-24 19:46:20.211 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-24 19:46:21.231 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-24 19:46:22.301 1107 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2016-02-24 19:46:22.302 1107 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2016-02-24 23:17:49.303 1107 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2016-02-24 23:17:49.387 1107 ERROR oslo_messaging._drivers.impl_rabbit [-] Failed to consume message from queue: 
+2016-02-25 19:46:46.599 1104 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 19:46:46.669 1104 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-25 19:46:46.669 1104 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 19:46:46.670 1104 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 19:46:46.670 1104 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 19:46:46.670 1104 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 19:46:46.671 1104 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 19:46:46.671 1104 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 19:46:46.896 1104 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 19:46:46.983 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2016-02-25 19:46:48.005 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:49.029 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:50.043 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:51.081 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:52.117 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:53.144 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:54.185 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:55.203 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:56.219 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:57.237 1104 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-25 19:46:58.327 1104 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2016-02-25 19:46:58.330 1104 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2016-02-26 00:02:04.711 1104 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2016-02-26 14:47:58.522 1119 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-26 14:47:58.535 1119 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-26 14:47:58.535 1119 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-26 14:47:58.536 1119 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-26 14:47:58.537 1119 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-26 14:47:58.538 1119 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-26 14:47:58.538 1119 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-26 14:47:58.539 1119 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-26 14:47:58.938 1119 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-26 14:47:59.101 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2016-02-26 14:48:00.128 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:01.204 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:02.409 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:03.438 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:04.502 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:05.610 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:06.730 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:07.781 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:08.835 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:09.867 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:10.879 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:11.924 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:12.995 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:14.020 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:15.045 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:16.142 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:17.172 1119 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 14:48:18.246 1119 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2016-02-26 14:48:18.249 1119 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
+2016-02-26 15:42:02.995 1119 INFO ceilometer.openstack.common.service [-] Caught SIGTERM, exiting
+2016-02-26 19:39:50.368 1113 WARNING oslo_config.cfg [-] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-26 19:39:50.376 1113 WARNING oslo_config.cfg [-] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-26 19:39:50.377 1113 WARNING oslo_config.cfg [-] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-26 19:39:50.378 1113 WARNING oslo_config.cfg [-] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-26 19:39:50.379 1113 WARNING oslo_config.cfg [-] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-26 19:39:50.379 1113 WARNING oslo_config.cfg [-] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-26 19:39:50.380 1113 WARNING oslo_config.cfg [-] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-26 19:39:50.381 1113 WARNING oslo_config.cfg [-] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-26 19:39:50.831 1113 INFO oslo_messaging._drivers.impl_rabbit [-] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-26 19:39:50.968 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.
+2016-02-26 19:39:52.018 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:39:53.081 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:39:54.101 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:39:55.161 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:39:56.198 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:39:57.237 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:39:58.270 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:39:59.282 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:40:00.304 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:40:01.322 1113 ERROR oslo_messaging._drivers.impl_rabbit [-] AMQP server on 192.168.0.10:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 2 seconds.
+2016-02-26 19:40:02.435 1113 INFO oslo_messaging._drivers.impl_rabbit [-] Reconnected to AMQP server on 192.168.0.10:5672
+2016-02-26 19:40:02.436 1113 INFO oslo_messaging._drivers.impl_rabbit [-] Connected to AMQP server on 192.168.0.10:5672
