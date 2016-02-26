@@ -1,0 +1,1242 @@
+2016-02-22 20:48:39.732 2711 INFO cinder.volume.manager [req-678d427d-3783-40b5-8572-a14f85dc27c6 - - - - -] Updating volume status
+2016-02-22 20:49:39.727 2711 INFO cinder.volume.manager [req-3ad59670-aee5-43dd-8f02-47a488f4b1c2 - - - - -] Updating volume status
+2016-02-22 20:50:39.732 2711 INFO cinder.volume.manager [req-5f028da4-add7-45f0-84c7-8f537a9327d4 - - - - -] Updating volume status
+2016-02-22 20:51:39.727 2711 INFO cinder.volume.manager [req-c9e8fcf7-2c74-4ac7-bb34-fd6bde385c34 - - - - -] Updating volume status
+2016-02-22 20:52:39.730 2711 INFO cinder.volume.manager [req-b76f07de-75d2-44eb-a185-ad4984c07f36 - - - - -] Updating volume status
+2016-02-22 20:53:39.728 2711 INFO cinder.volume.manager [req-79c557cb-f9a7-4bba-9d5d-87e90affdf0f - - - - -] Updating volume status
+2016-02-22 20:54:39.728 2711 INFO cinder.volume.manager [req-72786008-6bb4-4dad-97c6-8d3d4b0a3922 - - - - -] Updating volume status
+2016-02-22 20:55:39.732 2711 INFO cinder.volume.manager [req-c8b34753-480f-4fc5-afde-56ee4bee4a88 - - - - -] Updating volume status
+2016-02-22 20:56:39.733 2711 INFO cinder.volume.manager [req-3eec2fd1-4c86-48b5-a849-06b5f04e4e07 - - - - -] Updating volume status
+2016-02-22 20:57:39.732 2711 INFO cinder.volume.manager [req-94404aa9-14b3-430c-be8e-b1deab535b60 - - - - -] Updating volume status
+2016-02-22 20:58:39.732 2711 INFO cinder.volume.manager [req-9aa4aa68-ded5-4987-a92e-fec75953c76a - - - - -] Updating volume status
+2016-02-22 20:59:39.732 2711 INFO cinder.volume.manager [req-b8ca5c6e-04b3-43b1-9def-5467ec32b1dd - - - - -] Updating volume status
+2016-02-22 21:00:39.731 2711 INFO cinder.volume.manager [req-b371dd0b-c4be-48d6-983e-fc85e8822fa7 - - - - -] Updating volume status
+2016-02-22 21:01:39.732 2711 INFO cinder.volume.manager [req-0c60a642-c198-460e-ba41-e1ee15ca7942 - - - - -] Updating volume status
+2016-02-22 21:02:39.732 2711 INFO cinder.volume.manager [req-d6f17226-ba42-4c15-8522-f522c0bc7a5e - - - - -] Updating volume status
+2016-02-22 21:03:39.733 2711 INFO cinder.volume.manager [req-791b398b-76b3-4fa6-b159-a24d9c0701f9 - - - - -] Updating volume status
+2016-02-22 21:04:39.734 2711 INFO cinder.volume.manager [req-3c7c216f-598c-4da9-bdcb-b0305d182240 - - - - -] Updating volume status
+2016-02-22 21:05:39.736 2711 INFO cinder.volume.manager [req-cad38cce-6abe-4ccc-a5dd-4e4090bf775e - - - - -] Updating volume status
+2016-02-22 21:06:39.733 2711 INFO cinder.volume.manager [req-96dad458-b87d-4990-9bf5-f8b866531707 - - - - -] Updating volume status
+2016-02-22 21:07:39.736 2711 INFO cinder.volume.manager [req-abe14f4c-c93b-42f7-9044-7ed246b839c9 - - - - -] Updating volume status
+2016-02-22 21:08:39.737 2711 INFO cinder.volume.manager [req-9ed313a0-680e-4813-a4de-5bae4d473eec - - - - -] Updating volume status
+2016-02-22 21:09:39.737 2711 INFO cinder.volume.manager [req-c982688b-acd2-4e33-9cb2-e803c27dd9fc - - - - -] Updating volume status
+2016-02-22 21:10:39.736 2711 INFO cinder.volume.manager [req-7a07f18c-901f-4ed8-a2f1-56c94f31d3a7 - - - - -] Updating volume status
+2016-02-22 21:11:39.738 2711 INFO cinder.volume.manager [req-be5abf78-6a22-4e8e-a914-197a53a65adc - - - - -] Updating volume status
+2016-02-22 21:12:39.738 2711 INFO cinder.volume.manager [req-6861f99b-e80a-4ea5-ae6d-75aa381b314f - - - - -] Updating volume status
+2016-02-22 21:13:39.739 2711 INFO cinder.volume.manager [req-522df5de-dee6-4708-b73f-9fb46dd871b4 - - - - -] Updating volume status
+2016-02-22 21:14:39.739 2711 INFO cinder.volume.manager [req-e4c77d9f-a99a-4d79-ad62-a18746ac8926 - - - - -] Updating volume status
+2016-02-22 21:15:39.738 2711 INFO cinder.volume.manager [req-5f7e1cc9-dd45-44b5-bf92-6122276982f4 - - - - -] Updating volume status
+2016-02-22 21:16:39.739 2711 INFO cinder.volume.manager [req-674c08ef-fa81-44b9-8147-c847d8f3de4e - - - - -] Updating volume status
+2016-02-22 21:17:39.740 2711 INFO cinder.volume.manager [req-44319075-c92d-4245-ae1e-fd5c7de50802 - - - - -] Updating volume status
+2016-02-22 21:18:39.741 2711 INFO cinder.volume.manager [req-21827247-a16f-4763-981b-d733cc70ce95 - - - - -] Updating volume status
+2016-02-22 21:19:39.745 2711 INFO cinder.volume.manager [req-261a30fe-1907-46f7-82d4-9cd1edb48d0b - - - - -] Updating volume status
+2016-02-22 21:20:39.741 2711 INFO cinder.volume.manager [req-cd38be37-81e2-4215-824c-bc9f50b5734b - - - - -] Updating volume status
+2016-02-22 21:21:39.743 2711 INFO cinder.volume.manager [req-a6866db7-5ca9-4d74-9fc6-7044f2bfa96b - - - - -] Updating volume status
+2016-02-22 21:22:39.744 2711 INFO cinder.volume.manager [req-909bef21-cea2-4a63-b5ba-bf3d84c59c38 - - - - -] Updating volume status
+2016-02-22 21:23:39.742 2711 INFO cinder.volume.manager [req-4e19cd63-1747-4e5d-93ae-c9bb32992693 - - - - -] Updating volume status
+2016-02-22 21:24:39.748 2711 INFO cinder.volume.manager [req-291d5586-31eb-4a80-b45a-4785ddef8e3e - - - - -] Updating volume status
+2016-02-22 21:25:39.743 2711 INFO cinder.volume.manager [req-1eafc2f1-b672-4194-847b-17f988534f8e - - - - -] Updating volume status
+2016-02-22 21:26:39.746 2711 INFO cinder.volume.manager [req-70921705-4f66-4570-a40c-daa250110e82 - - - - -] Updating volume status
+2016-02-22 21:28:39.739 2711 INFO cinder.volume.manager [req-05cc34ed-2ad7-4521-b254-978b69f7d513 - - - - -] Updating volume status
+2016-02-22 21:29:39.745 2711 INFO cinder.volume.manager [req-50490748-065c-4d75-b288-e952e9f693ad - - - - -] Updating volume status
+2016-02-22 21:30:39.745 2711 INFO cinder.volume.manager [req-938ebb6e-4d2c-42de-b15c-844e4c5aacca - - - - -] Updating volume status
+2016-02-22 21:31:39.747 2711 INFO cinder.volume.manager [req-1bbc50a8-00d4-4a2e-9134-d1b3e93c214c - - - - -] Updating volume status
+2016-02-22 21:32:39.746 2711 INFO cinder.volume.manager [req-f66fa787-354a-416d-acb1-fa4b7e5eb08b - - - - -] Updating volume status
+2016-02-22 21:33:39.748 2711 INFO cinder.volume.manager [req-d77484d5-0268-4862-b6d5-92b592eb14c7 - - - - -] Updating volume status
+2016-02-22 21:34:39.751 2711 INFO cinder.volume.manager [req-0159e98f-ff19-4fd6-81d5-60f8e6c35866 - - - - -] Updating volume status
+2016-02-22 21:35:39.748 2711 INFO cinder.volume.manager [req-95ac5ed7-d5f4-4ce3-9342-1f8bb3ec8842 - - - - -] Updating volume status
+2016-02-22 21:36:39.749 2711 INFO cinder.volume.manager [req-13d03f89-a4be-4ca7-b4d7-fbc8a92c4f43 - - - - -] Updating volume status
+2016-02-22 21:37:39.741 2711 INFO cinder.volume.manager [req-12d48151-1b56-4425-8bf4-8a51c6717879 - - - - -] Updating volume status
+2016-02-22 21:38:39.750 2711 INFO cinder.volume.manager [req-fc2cfe7f-6706-4e6e-8b2a-8dd455d50d85 - - - - -] Updating volume status
+2016-02-22 21:39:39.753 2711 INFO cinder.volume.manager [req-6e0894a9-4c68-44a6-af1f-5bd00ee27294 - - - - -] Updating volume status
+2016-02-22 21:40:39.753 2711 INFO cinder.volume.manager [req-638c387d-8a12-432f-bbae-8e17f57dad64 - - - - -] Updating volume status
+2016-02-22 21:41:39.755 2711 INFO cinder.volume.manager [req-e71fb1cf-f7ab-4332-8e87-afd5bbbacc17 - - - - -] Updating volume status
+2016-02-22 21:42:39.751 2711 INFO cinder.volume.manager [req-eb291232-4eb7-494a-a12b-5283f149dd7d - - - - -] Updating volume status
+2016-02-22 21:43:39.756 2711 INFO cinder.volume.manager [req-519ee850-d336-4485-b8ee-e5fc434a8998 - - - - -] Updating volume status
+2016-02-22 21:44:39.752 2711 INFO cinder.volume.manager [req-e56cb82b-32ab-4104-a847-7fe0695f53fb - - - - -] Updating volume status
+2016-02-22 21:45:39.754 2711 INFO cinder.volume.manager [req-5e0d863c-0d1e-4f9b-99ee-bc5bb0ecdd9e - - - - -] Updating volume status
+2016-02-22 21:46:39.759 2711 INFO cinder.volume.manager [req-a7bfd17a-20b8-4b74-950f-e791f502d208 - - - - -] Updating volume status
+2016-02-22 21:47:39.762 2711 INFO cinder.volume.manager [req-67054dc9-bcaa-4f41-9b7b-32a53b16f466 - - - - -] Updating volume status
+2016-02-22 21:48:39.757 2711 INFO cinder.volume.manager [req-dc741acf-0e50-40e0-9b98-113cbf6b9e08 - - - - -] Updating volume status
+2016-02-22 21:49:39.759 2711 INFO cinder.volume.manager [req-3a7c7412-68b0-4da3-aa0b-c1471bb14072 - - - - -] Updating volume status
+2016-02-22 21:50:39.756 2711 INFO cinder.volume.manager [req-4e1ac1f3-6366-4c04-832e-ff338ac2bd9a - - - - -] Updating volume status
+2016-02-22 21:51:39.757 2711 INFO cinder.volume.manager [req-e3e42ae6-e535-48e3-85ab-4d596dcbca7f - - - - -] Updating volume status
+2016-02-22 21:52:39.758 2711 INFO cinder.volume.manager [req-7cd2b440-ac92-41fc-8261-8dfa50713af2 - - - - -] Updating volume status
+2016-02-22 21:53:39.765 2711 INFO cinder.volume.manager [req-047e4973-8513-4461-bda1-8e80f13beca9 - - - - -] Updating volume status
+2016-02-22 21:54:39.757 2711 INFO cinder.volume.manager [req-f128bf2a-dbb9-403b-9d75-f8e3d4f85ee3 - - - - -] Updating volume status
+2016-02-22 21:55:39.759 2711 INFO cinder.volume.manager [req-440d2cd1-e08d-42b6-bc7f-f263066dbf07 - - - - -] Updating volume status
+2016-02-22 21:56:39.757 2711 INFO cinder.volume.manager [req-f4c87736-fb64-4388-a81e-f11a858b9074 - - - - -] Updating volume status
+2016-02-22 21:57:39.758 2711 INFO cinder.volume.manager [req-e79bd1cf-8312-4a11-9a2f-31e1b69a61e3 - - - - -] Updating volume status
+2016-02-22 21:58:39.757 2711 INFO cinder.volume.manager [req-e468eb35-6df6-4983-b146-54e1738963f4 - - - - -] Updating volume status
+2016-02-22 21:59:39.758 2711 INFO cinder.volume.manager [req-6660f97e-7cc0-4e61-99e3-5c691861eb6a - - - - -] Updating volume status
+2016-02-22 22:00:39.758 2711 INFO cinder.volume.manager [req-bc32aafd-604b-4831-a822-46a5261b1976 - - - - -] Updating volume status
+2016-02-22 22:01:39.759 2711 INFO cinder.volume.manager [req-62ef0c7e-9393-4eb2-ad50-d2d1478fcf05 - - - - -] Updating volume status
+2016-02-22 22:02:39.765 2711 INFO cinder.volume.manager [req-c98f13e5-439b-46a4-9c8a-9dd7fd0e7305 - - - - -] Updating volume status
+2016-02-22 22:03:39.760 2711 INFO cinder.volume.manager [req-75e2fdca-b3fe-46a7-a2d3-b40396054f21 - - - - -] Updating volume status
+2016-02-22 22:04:39.761 2711 INFO cinder.volume.manager [req-d990afdc-8a46-4bae-ace1-e50fb298d169 - - - - -] Updating volume status
+2016-02-22 22:05:39.764 2711 INFO cinder.volume.manager [req-b8a46b8d-0cc8-4b57-9a28-da2d6ba8a7df - - - - -] Updating volume status
+2016-02-22 22:06:39.762 2711 INFO cinder.volume.manager [req-f7364b04-9ef6-4388-bd9a-abe7ab82bcfc - - - - -] Updating volume status
+2016-02-22 22:07:39.765 2711 INFO cinder.volume.manager [req-09cb2791-bd7d-4532-94fa-cd670fb5180b - - - - -] Updating volume status
+2016-02-22 22:08:39.768 2711 INFO cinder.volume.manager [req-c7246a37-0bb8-42a0-b853-88fc14f311eb - - - - -] Updating volume status
+2016-02-22 22:09:39.770 2711 INFO cinder.volume.manager [req-68f42cba-2079-4ace-b78b-50f4c34a43bd - - - - -] Updating volume status
+2016-02-22 22:10:39.764 2711 INFO cinder.volume.manager [req-3fc6d971-66b1-49ef-940f-16a525e30c75 - - - - -] Updating volume status
+2016-02-22 22:11:39.767 2711 INFO cinder.volume.manager [req-ee9e51d7-f849-41b5-bbaf-5b8823507ffd - - - - -] Updating volume status
+2016-02-22 22:12:39.769 2711 INFO cinder.volume.manager [req-68aeb0e9-1c73-45d6-ba9a-05eca2a11d2d - - - - -] Updating volume status
+2016-02-22 22:13:39.767 2711 INFO cinder.volume.manager [req-a7629eae-48b2-4844-a5d8-0d55263dc48f - - - - -] Updating volume status
+2016-02-22 22:14:39.770 2711 INFO cinder.volume.manager [req-cf1b200b-2130-4870-bede-f18c89af51e3 - - - - -] Updating volume status
+2016-02-22 22:15:39.770 2711 INFO cinder.volume.manager [req-bee410e9-1470-4dc4-b6f1-7672c69f64c8 - - - - -] Updating volume status
+2016-02-22 22:16:39.766 2711 INFO cinder.volume.manager [req-2e69c23e-7fc3-475a-956e-a65ff23d5a49 - - - - -] Updating volume status
+2016-02-22 22:17:39.766 2711 INFO cinder.volume.manager [req-d675ddb5-35aa-4249-b5e9-ea524a92cb6b - - - - -] Updating volume status
+2016-02-22 22:18:39.768 2711 INFO cinder.volume.manager [req-2ab9fa54-5830-491d-b86f-59dc90fa8648 - - - - -] Updating volume status
+2016-02-22 22:19:39.772 2711 INFO cinder.volume.manager [req-2e6e4cf6-23e1-47f2-94bb-fb6a61f873f8 - - - - -] Updating volume status
+2016-02-22 22:20:39.769 2711 INFO cinder.volume.manager [req-76ab847c-6522-40a1-86f4-beab7f4218d7 - - - - -] Updating volume status
+2016-02-22 22:21:39.767 2711 INFO cinder.volume.manager [req-881ff913-4218-4234-8f03-57654186fe11 - - - - -] Updating volume status
+2016-02-22 22:22:39.768 2711 INFO cinder.volume.manager [req-84d690c6-6247-4dad-bcd9-2841f708d605 - - - - -] Updating volume status
+2016-02-22 22:23:39.774 2711 INFO cinder.volume.manager [req-e3645aab-a0f7-4e81-8afa-50609f2a5700 - - - - -] Updating volume status
+2016-02-22 22:24:39.769 2711 INFO cinder.volume.manager [req-20db9020-97b6-4083-9a9b-d2efcfc233f5 - - - - -] Updating volume status
+2016-02-22 22:25:39.774 2711 INFO cinder.volume.manager [req-489ecdf1-3cf8-4460-b8ed-4c36a8af4db1 - - - - -] Updating volume status
+2016-02-22 22:26:39.771 2711 INFO cinder.volume.manager [req-b55695e6-1e98-4dfd-b3d5-d8abc780f3a3 - - - - -] Updating volume status
+2016-02-22 22:27:39.773 2711 INFO cinder.volume.manager [req-817e0b52-f168-49a3-a640-c41a041a2988 - - - - -] Updating volume status
+2016-02-22 22:28:39.773 2711 INFO cinder.volume.manager [req-41ba880e-684c-42c2-82ee-e3a112f18c5f - - - - -] Updating volume status
+2016-02-22 22:29:39.777 2711 INFO cinder.volume.manager [req-cba1f7bb-1bc6-406e-9a4e-204bb09e69c0 - - - - -] Updating volume status
+2016-02-22 22:30:39.778 2711 INFO cinder.volume.manager [req-572dd119-64ed-4296-b2cb-8d46411b93c3 - - - - -] Updating volume status
+2016-02-22 22:31:39.774 2711 INFO cinder.volume.manager [req-13b04b86-50a9-4785-8690-3a8a7435ad31 - - - - -] Updating volume status
+2016-02-22 22:32:39.777 2711 INFO cinder.volume.manager [req-6828a4da-7f29-42fc-ad94-2c5df1d150b8 - - - - -] Updating volume status
+2016-02-22 22:33:39.778 2711 INFO cinder.volume.manager [req-7c5fe804-9229-4a9f-9e27-c48c30c8dbff - - - - -] Updating volume status
+2016-02-22 22:34:39.778 2711 INFO cinder.volume.manager [req-d1a17404-0e1c-4538-8111-8df07cba18fa - - - - -] Updating volume status
+2016-02-22 22:35:39.775 2711 INFO cinder.volume.manager [req-d2633557-1f97-46ac-b409-c1796d9df4de - - - - -] Updating volume status
+2016-02-22 22:37:39.779 2711 INFO cinder.volume.manager [req-e695b36b-3107-4dc0-ac33-c1dc6a9b8418 - - - - -] Updating volume status
+2016-02-22 22:38:39.780 2711 INFO cinder.volume.manager [req-f3c86516-3d93-45ed-b36c-ed515cd9d755 - - - - -] Updating volume status
+2016-02-22 22:39:39.782 2711 INFO cinder.volume.manager [req-b9a082b1-2e7c-47df-b3b9-1c296bb5a5da - - - - -] Updating volume status
+2016-02-22 22:40:39.776 2711 INFO cinder.volume.manager [req-772ae02c-03c3-41a1-ac79-d2d01b4231a8 - - - - -] Updating volume status
+2016-02-22 22:41:39.781 2711 INFO cinder.volume.manager [req-6ca07d14-eaca-4690-96de-b3c380746771 - - - - -] Updating volume status
+2016-02-22 22:42:39.777 2711 INFO cinder.volume.manager [req-47ecad3c-8e40-40e1-94c6-f6c3d758db57 - - - - -] Updating volume status
+2016-02-22 22:43:39.777 2711 INFO cinder.volume.manager [req-d4e313e5-8806-4c77-a529-a5750b6f6527 - - - - -] Updating volume status
+2016-02-22 22:44:39.777 2711 INFO cinder.volume.manager [req-bc9ceceb-f7b4-479a-bab7-e1bf83133e84 - - - - -] Updating volume status
+2016-02-22 22:45:39.779 2711 INFO cinder.volume.manager [req-b4c63f15-7bfe-49d3-a721-968e57075d6a - - - - -] Updating volume status
+2016-02-22 22:46:39.781 2711 INFO cinder.volume.manager [req-cd0ef41e-adef-478e-b061-2113d092653b - - - - -] Updating volume status
+2016-02-22 22:47:39.779 2711 INFO cinder.volume.manager [req-cd5e8bb4-8a66-4872-b5f8-8db22f915228 - - - - -] Updating volume status
+2016-02-22 22:48:39.782 2711 INFO cinder.volume.manager [req-3ef8b90a-b238-40ef-9889-ed6f6293a5a5 - - - - -] Updating volume status
+2016-02-22 22:49:39.780 2711 INFO cinder.volume.manager [req-a0f23f14-3e8b-473c-bb2a-59e8c1ac8f48 - - - - -] Updating volume status
+2016-02-22 22:50:39.791 2711 INFO cinder.volume.manager [req-8dbc45d5-f422-4a8f-ae94-8c27b07a280c - - - - -] Updating volume status
+2016-02-22 22:51:39.790 2711 INFO cinder.volume.manager [req-9db5741e-e8ed-4e51-826a-26ebd5009522 - - - - -] Updating volume status
+2016-02-22 22:52:39.789 2711 INFO cinder.volume.manager [req-2e2590fd-bf85-4919-9e3f-fa8151f16839 - - - - -] Updating volume status
+2016-02-22 22:53:39.787 2711 INFO cinder.volume.manager [req-a8479c82-18d4-45f8-beea-fd5d5dce3931 - - - - -] Updating volume status
+2016-02-22 22:54:05.280 1025 INFO cinder.openstack.common.service [req-a50c5f17-d9cb-426c-ae4e-e4f2c4f7764e - - - - -] Caught SIGTERM, stopping children
+2016-02-22 22:54:05.411 1025 INFO cinder.openstack.common.service [req-a50c5f17-d9cb-426c-ae4e-e4f2c4f7764e - - - - -] Waiting on 1 children to exit
+2016-02-22 22:54:05.414 1025 INFO cinder.openstack.common.service [req-a50c5f17-d9cb-426c-ae4e-e4f2c4f7764e - - - - -] Child 2711 killed by signal 15
+2016-02-23 19:47:04.513 1025 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 10 attempts left.
+2016-02-23 19:47:14.541 1025 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 9 attempts left.
+2016-02-23 19:47:24.920 1025 INFO cinder.volume.manager [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Determined volume DB was empty at startup.
+2016-02-23 19:47:24.964 1025 WARNING cinder.volume.targets.lio [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] The lio_initiator_iqns option has been deprecated and no longer has any effect.
+2016-02-23 19:47:25.284 1025 INFO cinder.openstack.common.service [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Starting 1 workers
+2016-02-23 19:47:25.301 1025 INFO cinder.openstack.common.service [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Started child 2759
+2016-02-23 19:47:25.327 2759 INFO cinder.service [-] Starting cinder-volume node (version 2015.1.0)
+2016-02-23 19:47:25.337 2759 INFO cinder.volume.manager [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Starting volume driver LVMVolumeDriver (3.0.0)
+2016-02-23 19:47:25.346 1025 WARNING oslo_config.cfg [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:25.347 1025 WARNING oslo_config.cfg [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:25.349 1025 WARNING oslo_config.cfg [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:25.350 1025 WARNING oslo_config.cfg [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:25.351 1025 WARNING oslo_config.cfg [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:25.353 1025 WARNING oslo_config.cfg [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:25.354 1025 WARNING oslo_config.cfg [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:25.357 1025 WARNING oslo_config.cfg [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:25.363 1025 WARNING oslo_config.cfg [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Option "lock_path" from group "DEFAULT" is deprecated. Use option "lock_path" from group "oslo_concurrency".
+2016-02-23 19:47:26.543 2759 INFO cinder.volume.manager [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Updating volume status
+2016-02-23 19:47:27.212 2759 WARNING oslo_config.cfg [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:27.216 2759 WARNING oslo_config.cfg [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:27.217 2759 WARNING oslo_config.cfg [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:27.219 2759 WARNING oslo_config.cfg [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:27.221 2759 WARNING oslo_config.cfg [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:27.225 2759 WARNING oslo_config.cfg [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-23 19:47:27.271 2759 INFO oslo_messaging._drivers.impl_rabbit [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-23 19:47:27.289 2759 INFO oslo_messaging._drivers.impl_rabbit [req-d0bfe2bd-d4e5-4292-926f-f3dd43878ae9 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-23 19:47:28.290 2759 INFO oslo_messaging._drivers.impl_rabbit [req-a93b636a-6431-4fe1-9188-84169ba1ec11 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-23 19:47:28.313 2759 INFO oslo_messaging._drivers.impl_rabbit [req-a93b636a-6431-4fe1-9188-84169ba1ec11 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-23 19:47:28.316 2759 WARNING oslo_config.cfg [req-a93b636a-6431-4fe1-9188-84169ba1ec11 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-23 19:48:32.348 2759 INFO cinder.volume.manager [req-179739f1-8156-49bc-8a49-860b0263bdfe - - - - -] Updating volume status
+2016-02-23 19:49:32.353 2759 INFO cinder.volume.manager [req-bd3e488c-2470-4031-90aa-bde1a14590bd - - - - -] Updating volume status
+2016-02-23 19:50:32.356 2759 INFO cinder.volume.manager [req-302e9de5-4408-4e50-8dbe-11ab3f4ac0e7 - - - - -] Updating volume status
+2016-02-23 19:51:32.353 2759 INFO cinder.volume.manager [req-7dc22e80-35aa-45c1-ac2f-bfae2f9e493c - - - - -] Updating volume status
+2016-02-23 19:52:32.351 2759 INFO cinder.volume.manager [req-f2ee0351-cf9f-4eee-9f19-3e0cfa381435 - - - - -] Updating volume status
+2016-02-23 19:53:32.354 2759 INFO cinder.volume.manager [req-8864a3b8-c462-4be8-8c0f-7aad5d368a61 - - - - -] Updating volume status
+2016-02-23 19:54:32.353 2759 INFO cinder.volume.manager [req-07f08f3a-b512-4107-9976-e582ce0feaa2 - - - - -] Updating volume status
+2016-02-23 19:55:32.359 2759 INFO cinder.volume.manager [req-748ec600-e135-4420-8737-12f245965a45 - - - - -] Updating volume status
+2016-02-23 19:56:32.374 2759 INFO cinder.volume.manager [req-87b7d3de-f4b2-4200-bc65-f572df5b1c9f - - - - -] Updating volume status
+2016-02-23 19:57:32.354 2759 INFO cinder.volume.manager [req-f234fc0e-c556-47b6-ac62-3b403571d623 - - - - -] Updating volume status
+2016-02-23 19:58:32.354 2759 INFO cinder.volume.manager [req-95ae379d-e167-4626-821b-3fca41995fdd - - - - -] Updating volume status
+2016-02-23 19:59:32.354 2759 INFO cinder.volume.manager [req-943adaec-8f30-4571-bfe6-186b3bb4b2ba - - - - -] Updating volume status
+2016-02-23 20:00:32.356 2759 INFO cinder.volume.manager [req-414125c3-1eda-4c4d-bb17-5c753390fceb - - - - -] Updating volume status
+2016-02-23 20:01:32.353 2759 INFO cinder.volume.manager [req-4304b0d3-be86-4a35-b56f-3df0885b7b8f - - - - -] Updating volume status
+2016-02-23 20:02:32.362 2759 INFO cinder.volume.manager [req-a11fe2d8-4e32-4be0-92e3-1e0b6e52987a - - - - -] Updating volume status
+2016-02-23 20:03:32.355 2759 INFO cinder.volume.manager [req-aa5980b4-d136-4999-a7fe-cad0f4a55005 - - - - -] Updating volume status
+2016-02-23 20:04:32.357 2759 INFO cinder.volume.manager [req-ce3463ba-9dac-4969-a377-4231b3d93d90 - - - - -] Updating volume status
+2016-02-23 20:05:32.359 2759 INFO cinder.volume.manager [req-e0753383-a677-491a-b56a-a5b4c1c90c7e - - - - -] Updating volume status
+2016-02-23 20:06:32.358 2759 INFO cinder.volume.manager [req-df42258d-6661-4b1c-be85-882ff90a0708 - - - - -] Updating volume status
+2016-02-23 20:07:32.361 2759 INFO cinder.volume.manager [req-b2fde39e-6c48-4d1b-acd5-4dcbd2123d0a - - - - -] Updating volume status
+2016-02-23 20:08:32.366 2759 INFO cinder.volume.manager [req-c240e398-46ff-413b-beee-2a558b10ffea - - - - -] Updating volume status
+2016-02-23 20:09:32.362 2759 INFO cinder.volume.manager [req-f4d9e563-e6ef-4297-a7d0-96109a3522bd - - - - -] Updating volume status
+2016-02-23 20:10:32.364 2759 INFO cinder.volume.manager [req-87a3df77-62ff-4d3b-a728-90ad793135fe - - - - -] Updating volume status
+2016-02-23 20:11:32.361 2759 INFO cinder.volume.manager [req-1f7454e4-d4fa-4f1f-b588-6f5af0fd4e12 - - - - -] Updating volume status
+2016-02-23 20:12:32.361 2759 INFO cinder.volume.manager [req-d9f6e937-92a8-4bc6-9273-05d401851a74 - - - - -] Updating volume status
+2016-02-23 20:13:32.363 2759 INFO cinder.volume.manager [req-d23f8fd5-68af-4b63-beb8-f5b1fc732e6d - - - - -] Updating volume status
+2016-02-23 20:14:32.369 2759 INFO cinder.volume.manager [req-54df39fb-a297-45d9-9339-329300c173b5 - - - - -] Updating volume status
+2016-02-23 20:15:32.366 2759 INFO cinder.volume.manager [req-05ce571b-ae93-4db3-8c5b-12d1b20467bc - - - - -] Updating volume status
+2016-02-23 20:16:32.360 2759 INFO cinder.volume.manager [req-4f3fc0c4-9f06-4a19-a32a-69e4106c996f - - - - -] Updating volume status
+2016-02-23 20:17:32.360 2759 INFO cinder.volume.manager [req-57b12b3c-2bf2-471a-9674-98b4f934a964 - - - - -] Updating volume status
+2016-02-23 20:18:32.371 2759 INFO cinder.volume.manager [req-6c03cea5-7fe8-4553-855e-df73e9b68f1c - - - - -] Updating volume status
+2016-02-23 20:20:32.367 2759 INFO cinder.volume.manager [req-96802f25-510f-4aa9-bb1d-7e9edad59631 - - - - -] Updating volume status
+2016-02-23 20:21:32.363 2759 INFO cinder.volume.manager [req-fa98ee24-5ec3-4e29-bbc6-2477727de1f3 - - - - -] Updating volume status
+2016-02-23 20:22:32.371 2759 INFO cinder.volume.manager [req-68217296-442b-4866-b358-a9ac75f0cef0 - - - - -] Updating volume status
+2016-02-23 20:23:32.364 2759 INFO cinder.volume.manager [req-6a309f50-09c0-4266-9750-be5b57b645a8 - - - - -] Updating volume status
+2016-02-23 20:24:32.370 2759 INFO cinder.volume.manager [req-797fc88d-8af1-40fe-8c63-5d72ff21c201 - - - - -] Updating volume status
+2016-02-23 20:25:32.366 2759 INFO cinder.volume.manager [req-317c68b5-da87-4be9-8a72-8af6ed7e6b0e - - - - -] Updating volume status
+2016-02-23 20:26:32.367 2759 INFO cinder.volume.manager [req-55337f79-fe54-4c0d-8545-21ab79d89076 - - - - -] Updating volume status
+2016-02-23 20:27:32.370 2759 INFO cinder.volume.manager [req-9bb6f78d-70a9-414a-9447-b843b46a273e - - - - -] Updating volume status
+2016-02-23 20:28:32.357 2759 INFO cinder.volume.manager [req-669701d6-6419-4eec-ad81-7596438ef660 - - - - -] Updating volume status
+2016-02-23 20:29:32.366 2759 INFO cinder.volume.manager [req-8824007a-95da-4a75-9c64-429e1cc018cd - - - - -] Updating volume status
+2016-02-23 20:30:32.371 2759 INFO cinder.volume.manager [req-7831edee-45d3-4069-a60e-8f63ebdf4950 - - - - -] Updating volume status
+2016-02-23 20:31:32.366 2759 INFO cinder.volume.manager [req-3b65968a-27d8-481e-b5c2-90a301b4dafb - - - - -] Updating volume status
+2016-02-23 20:32:32.373 2759 INFO cinder.volume.manager [req-94bd7b1e-07ae-4910-a095-b86573e39916 - - - - -] Updating volume status
+2016-02-23 20:33:32.374 2759 INFO cinder.volume.manager [req-2937aa81-25a9-4fa2-b58a-84bb61a0494d - - - - -] Updating volume status
+2016-02-23 20:34:32.372 2759 INFO cinder.volume.manager [req-cbb21600-b5f9-431a-a45f-6c57c90ade08 - - - - -] Updating volume status
+2016-02-23 20:35:32.369 2759 INFO cinder.volume.manager [req-689edf54-d701-4dbb-9e3a-653aaf410170 - - - - -] Updating volume status
+2016-02-23 20:36:32.374 2759 INFO cinder.volume.manager [req-b013ac7c-db82-487d-bb19-c5b07c99dfb8 - - - - -] Updating volume status
+2016-02-23 20:37:32.374 2759 INFO cinder.volume.manager [req-2eb38775-4e0f-4ea3-aa6a-5230f88b4ec8 - - - - -] Updating volume status
+2016-02-23 20:38:32.375 2759 INFO cinder.volume.manager [req-c22d12a4-697a-4199-be9f-6a35c08aad92 - - - - -] Updating volume status
+2016-02-23 20:39:32.372 2759 INFO cinder.volume.manager [req-f97cac55-ea20-4b72-8bfb-642d054eeb87 - - - - -] Updating volume status
+2016-02-23 20:40:32.377 2759 INFO cinder.volume.manager [req-6df880e8-5e40-43ef-8e3a-18889c6117fa - - - - -] Updating volume status
+2016-02-23 20:41:32.376 2759 INFO cinder.volume.manager [req-a0259d38-3058-40ce-bc1c-da6e84518aac - - - - -] Updating volume status
+2016-02-23 20:42:32.372 2759 INFO cinder.volume.manager [req-782d27d6-d5e1-4f20-8ed5-ffc151c59a12 - - - - -] Updating volume status
+2016-02-23 20:43:32.374 2759 INFO cinder.volume.manager [req-6d6a40a3-0ffb-4f3d-8463-92228605af14 - - - - -] Updating volume status
+2016-02-23 20:44:32.373 2759 INFO cinder.volume.manager [req-21fb2889-8cde-49f8-967a-3a5f7b79577b - - - - -] Updating volume status
+2016-02-23 20:45:32.375 2759 INFO cinder.volume.manager [req-831eee5d-765e-488a-9c91-cba50da8a2f5 - - - - -] Updating volume status
+2016-02-23 20:46:32.375 2759 INFO cinder.volume.manager [req-a1585c15-8594-4c5d-8ae8-8d5c2e7ac1e9 - - - - -] Updating volume status
+2016-02-23 20:47:32.372 2759 INFO cinder.volume.manager [req-e82ab730-d50f-4dc1-b0dd-25c6504d8aee - - - - -] Updating volume status
+2016-02-23 20:48:32.377 2759 INFO cinder.volume.manager [req-0e85d51f-4190-4b5f-862b-ceb18400fa97 - - - - -] Updating volume status
+2016-02-23 20:49:32.374 2759 INFO cinder.volume.manager [req-707fce19-2357-4007-a469-1119a08177be - - - - -] Updating volume status
+2016-02-23 20:50:32.380 2759 INFO cinder.volume.manager [req-17efd60e-c8e8-42d3-9ea1-ceffaac3f91a - - - - -] Updating volume status
+2016-02-23 20:51:32.377 2759 INFO cinder.volume.manager [req-ec018053-e194-4ee6-b8ba-00c2f2c50eb3 - - - - -] Updating volume status
+2016-02-23 20:52:32.378 2759 INFO cinder.volume.manager [req-ae9c629b-0b87-4063-b1f5-7a4df76b7f12 - - - - -] Updating volume status
+2016-02-23 20:53:32.377 2759 INFO cinder.volume.manager [req-c5df16cc-b9cb-4191-a4c8-fbc53eaa46ff - - - - -] Updating volume status
+2016-02-23 20:54:32.379 2759 INFO cinder.volume.manager [req-069017bf-89fc-4e27-8e1e-19b14757c307 - - - - -] Updating volume status
+2016-02-23 20:55:32.378 2759 INFO cinder.volume.manager [req-9ceeff82-51a9-44f2-92dc-0070ce157195 - - - - -] Updating volume status
+2016-02-23 20:56:32.379 2759 INFO cinder.volume.manager [req-c1d8b118-7695-4340-8d9d-1af95ccdd191 - - - - -] Updating volume status
+2016-02-23 20:57:32.383 2759 INFO cinder.volume.manager [req-4e0d31c2-e9e9-4c20-9503-d334901568c0 - - - - -] Updating volume status
+2016-02-23 20:58:32.381 2759 INFO cinder.volume.manager [req-34b8b716-e918-4589-b3b3-636ef972f9bc - - - - -] Updating volume status
+2016-02-23 20:59:32.381 2759 INFO cinder.volume.manager [req-f95a8a02-72e7-453f-80c2-616010a13641 - - - - -] Updating volume status
+2016-02-23 21:00:32.381 2759 INFO cinder.volume.manager [req-9ec794b2-0df4-4a28-b352-5edbea91f733 - - - - -] Updating volume status
+2016-02-23 21:01:32.379 2759 INFO cinder.volume.manager [req-b8a72fcd-996e-4e8b-992e-a53a3e2a63d5 - - - - -] Updating volume status
+2016-02-23 21:02:32.382 2759 INFO cinder.volume.manager [req-c902943e-a1ab-4adc-a06f-e311fcd3e72c - - - - -] Updating volume status
+2016-02-23 21:03:32.379 2759 INFO cinder.volume.manager [req-bc08d7fa-b695-4947-985c-f54c58b3b372 - - - - -] Updating volume status
+2016-02-23 21:04:32.389 2759 INFO cinder.volume.manager [req-4773a68f-573e-414e-a897-86e29d2194a4 - - - - -] Updating volume status
+2016-02-23 21:05:32.386 2759 INFO cinder.volume.manager [req-78715970-58c3-4d3a-b23f-0349e2a99f23 - - - - -] Updating volume status
+2016-02-23 21:06:32.384 2759 INFO cinder.volume.manager [req-82e9d3d5-ce80-47b0-ac6d-8a3f997ea01b - - - - -] Updating volume status
+2016-02-23 21:07:32.382 2759 INFO cinder.volume.manager [req-debed358-04bd-48c3-a961-c4c42846eee0 - - - - -] Updating volume status
+2016-02-23 21:08:32.388 2759 INFO cinder.volume.manager [req-207f93df-ad9e-4e03-b021-423a89361237 - - - - -] Updating volume status
+2016-02-23 21:09:32.387 2759 INFO cinder.volume.manager [req-067e8a05-0b65-4139-adf1-3bb3614c63b6 - - - - -] Updating volume status
+2016-02-23 21:10:32.386 2759 INFO cinder.volume.manager [req-d8692007-ef54-4a7c-863a-00d7151f50d9 - - - - -] Updating volume status
+2016-02-23 21:11:32.384 2759 INFO cinder.volume.manager [req-3ce78fc2-0e95-42a6-a193-347290f64e0c - - - - -] Updating volume status
+2016-02-23 21:12:32.388 2759 INFO cinder.volume.manager [req-5c0cdb42-0889-480a-8b47-7a0fefb47231 - - - - -] Updating volume status
+2016-02-23 21:13:32.385 2759 INFO cinder.volume.manager [req-050873f8-4f1b-43fd-a6b6-b1dbea814a31 - - - - -] Updating volume status
+2016-02-23 21:14:32.387 2759 INFO cinder.volume.manager [req-e57f224d-a0d6-404c-a5ae-a4d83c4e39bc - - - - -] Updating volume status
+2016-02-23 21:15:32.384 2759 INFO cinder.volume.manager [req-5112d8c9-7d5a-4adf-b04c-b4acf85f0c14 - - - - -] Updating volume status
+2016-02-23 21:16:32.388 2759 INFO cinder.volume.manager [req-259f19c0-81ab-4433-bd93-b7ebad36f0db - - - - -] Updating volume status
+2016-02-23 21:17:32.386 2759 INFO cinder.volume.manager [req-43a3c52a-7c6a-4e5a-aa35-2f3625a356a8 - - - - -] Updating volume status
+2016-02-23 21:18:32.389 2759 INFO cinder.volume.manager [req-b047960a-0819-4ad7-acd0-4f444bbc6fd1 - - - - -] Updating volume status
+2016-02-23 21:20:32.389 2759 INFO cinder.volume.manager [req-acb5513d-dba1-447d-bc5d-3e71c6067f2b - - - - -] Updating volume status
+2016-02-23 21:21:32.391 2759 INFO cinder.volume.manager [req-861cc49d-378e-4f06-b4bd-5003a0cbae9f - - - - -] Updating volume status
+2016-02-23 21:22:32.390 2759 INFO cinder.volume.manager [req-b401104f-7e66-4cda-87b6-de25035ca7c0 - - - - -] Updating volume status
+2016-02-23 21:23:32.390 2759 INFO cinder.volume.manager [req-60708dd3-29c8-436e-aee2-149e17f8b39c - - - - -] Updating volume status
+2016-02-23 21:24:32.383 2759 INFO cinder.volume.manager [req-dc1134c1-502d-42a8-84e7-0a62dbc20dff - - - - -] Updating volume status
+2016-02-23 21:25:32.396 2759 INFO cinder.volume.manager [req-0dcd92cc-9d3d-4fae-80ac-098066b4e80a - - - - -] Updating volume status
+2016-02-23 21:26:32.395 2759 INFO cinder.volume.manager [req-00f2ee06-0e13-45e6-a097-6dea2b85de4f - - - - -] Updating volume status
+2016-02-23 21:27:32.392 2759 INFO cinder.volume.manager [req-408c20fd-fca2-4732-93ba-97da100a8336 - - - - -] Updating volume status
+2016-02-23 21:28:32.395 2759 INFO cinder.volume.manager [req-be27e16d-b372-4218-852d-c32da3023276 - - - - -] Updating volume status
+2016-02-23 21:29:32.392 2759 INFO cinder.volume.manager [req-d06466bb-0116-436c-b075-b792b8f2e6e9 - - - - -] Updating volume status
+2016-02-23 21:30:32.407 2759 INFO cinder.volume.manager [req-6c67b3de-a091-45ca-975f-94ef6ee5f85b - - - - -] Updating volume status
+2016-02-23 21:31:32.394 2759 INFO cinder.volume.manager [req-40ebf33e-85fb-4b13-a19d-d38998a0093e - - - - -] Updating volume status
+2016-02-23 21:32:32.397 2759 INFO cinder.volume.manager [req-56d8f7a8-4683-4a1a-a428-70066ac4ec0f - - - - -] Updating volume status
+2016-02-23 21:33:32.395 2759 INFO cinder.volume.manager [req-1f4264ce-c294-4dae-a597-d18cb1a7ce25 - - - - -] Updating volume status
+2016-02-23 21:34:32.398 2759 INFO cinder.volume.manager [req-02c68e5c-a8d4-4e00-b0b8-8081f9f58dea - - - - -] Updating volume status
+2016-02-23 21:35:32.397 2759 INFO cinder.volume.manager [req-629ce2b4-334b-42fc-a239-997de3a06818 - - - - -] Updating volume status
+2016-02-23 21:36:32.399 2759 INFO cinder.volume.manager [req-9cc772da-38d2-4f73-8019-3c450ac426e4 - - - - -] Updating volume status
+2016-02-23 21:37:32.400 2759 INFO cinder.volume.manager [req-aa7ecda6-42d5-414b-a18f-3880ecfb8de3 - - - - -] Updating volume status
+2016-02-23 21:38:32.398 2759 INFO cinder.volume.manager [req-37decb92-65f5-4b1b-97e0-784aa6094516 - - - - -] Updating volume status
+2016-02-23 21:39:32.402 2759 INFO cinder.volume.manager [req-2552a9e6-fccb-4600-a66a-4d03422f1793 - - - - -] Updating volume status
+2016-02-23 21:40:32.400 2759 INFO cinder.volume.manager [req-9c6a0a47-1406-43ae-ad17-bdcadeabfa3c - - - - -] Updating volume status
+2016-02-23 21:41:32.398 2759 INFO cinder.volume.manager [req-5c4a2bfd-d3fe-42ac-9fa8-569c871e9a3e - - - - -] Updating volume status
+2016-02-23 21:42:32.403 2759 INFO cinder.volume.manager [req-0917fca2-54e9-4699-9178-a28ec3bda15d - - - - -] Updating volume status
+2016-02-23 21:43:32.403 2759 INFO cinder.volume.manager [req-24e0a590-a8af-43a1-af9c-4bbfb7de8ca4 - - - - -] Updating volume status
+2016-02-23 21:44:32.404 2759 INFO cinder.volume.manager [req-c80bf61a-e925-4f14-81a1-b01777c380e2 - - - - -] Updating volume status
+2016-02-23 21:45:32.418 2759 INFO cinder.volume.manager [req-28abac6c-1b30-426c-9064-fa5688900e92 - - - - -] Updating volume status
+2016-02-23 21:46:32.407 2759 INFO cinder.volume.manager [req-817ae635-90d2-4931-921f-ff6e40ab0bd5 - - - - -] Updating volume status
+2016-02-23 21:47:32.400 2759 INFO cinder.volume.manager [req-d6da8712-24bf-4ff8-b4a2-688284d550a4 - - - - -] Updating volume status
+2016-02-23 21:48:32.403 2759 INFO cinder.volume.manager [req-b5061d67-9ff4-4e4a-abd8-e0d09b1bedb4 - - - - -] Updating volume status
+2016-02-23 21:49:32.408 2759 INFO cinder.volume.manager [req-039d4337-c025-42a1-9cb5-dd5d4c70ea00 - - - - -] Updating volume status
+2016-02-23 21:50:32.405 2759 INFO cinder.volume.manager [req-6427087a-3213-408f-9b9c-8e59d00296ca - - - - -] Updating volume status
+2016-02-23 21:51:32.403 2759 INFO cinder.volume.manager [req-bbff7d1c-ce9f-4027-ba44-0a95d4fad7cd - - - - -] Updating volume status
+2016-02-23 21:52:32.412 2759 INFO cinder.volume.manager [req-ddb628ed-7e76-432e-9a11-fb0a9acf6147 - - - - -] Updating volume status
+2016-02-23 21:53:32.407 2759 INFO cinder.volume.manager [req-576a7623-98e1-445e-b9c8-00ba224a4196 - - - - -] Updating volume status
+2016-02-23 21:54:32.413 2759 INFO cinder.volume.manager [req-8cce83ac-a49a-465f-8132-2b53a3eac44e - - - - -] Updating volume status
+2016-02-23 21:55:32.407 2759 INFO cinder.volume.manager [req-95d27256-7e4a-4405-8f37-e99a592a6ad4 - - - - -] Updating volume status
+2016-02-23 21:56:32.407 2759 INFO cinder.volume.manager [req-cb6682a6-ff24-408d-9c3f-7c2e48d6c2f6 - - - - -] Updating volume status
+2016-02-23 21:57:32.406 2759 INFO cinder.volume.manager [req-cebabf4b-33e2-41c8-872a-ebef96ddec99 - - - - -] Updating volume status
+2016-02-23 21:58:32.410 2759 INFO cinder.volume.manager [req-43500e78-5ece-469a-a2ce-dd23c24446d2 - - - - -] Updating volume status
+2016-02-23 21:59:32.408 2759 INFO cinder.volume.manager [req-e3f78a3e-bf73-41e0-87da-e397d5596b17 - - - - -] Updating volume status
+2016-02-23 22:00:32.409 2759 INFO cinder.volume.manager [req-f5323ac3-8d7d-4470-b486-c8043f244488 - - - - -] Updating volume status
+2016-02-23 22:01:32.409 2759 INFO cinder.volume.manager [req-8714ac46-08bd-4db3-869b-9c43506d036a - - - - -] Updating volume status
+2016-02-23 22:02:32.411 2759 INFO cinder.volume.manager [req-99e82428-d43b-4025-a635-bcd8aa5a8cb9 - - - - -] Updating volume status
+2016-02-23 22:03:32.411 2759 INFO cinder.volume.manager [req-4f7f42dc-9a25-4177-be00-99eaf49f397d - - - - -] Updating volume status
+2016-02-23 22:04:32.420 2759 INFO cinder.volume.manager [req-2ceb5c29-3e69-4aa8-8b68-44ed40bdca8a - - - - -] Updating volume status
+2016-02-23 22:05:32.413 2759 INFO cinder.volume.manager [req-d4274c12-ba91-4fda-9fc5-39be5b8c78d3 - - - - -] Updating volume status
+2016-02-23 22:06:32.421 2759 INFO cinder.volume.manager [req-55da6dfb-5f39-4856-8ef9-c54678781812 - - - - -] Updating volume status
+2016-02-23 22:07:32.413 2759 INFO cinder.volume.manager [req-73406bfc-ef3c-4b6f-9848-852aa936342d - - - - -] Updating volume status
+2016-02-23 22:08:32.423 2759 INFO cinder.volume.manager [req-10daf3ae-ca77-4189-9346-abf2d0ad5822 - - - - -] Updating volume status
+2016-02-23 22:09:32.417 2759 INFO cinder.volume.manager [req-76966812-3996-46b2-958e-e26a99e1d898 - - - - -] Updating volume status
+2016-02-23 22:10:32.420 2759 INFO cinder.volume.manager [req-a15f7a25-8e2a-4dbc-b67a-bf442993ace4 - - - - -] Updating volume status
+2016-02-23 22:11:32.415 2759 INFO cinder.volume.manager [req-b3358fde-c204-4e95-958d-53042e5d30af - - - - -] Updating volume status
+2016-02-23 22:12:32.418 2759 INFO cinder.volume.manager [req-eb97d38d-4a02-4402-87c3-8a9c40baf375 - - - - -] Updating volume status
+2016-02-23 22:13:32.421 2759 INFO cinder.volume.manager [req-5e0119a5-05f4-42ff-9a5b-2290c5bcee3d - - - - -] Updating volume status
+2016-02-23 22:14:32.418 2759 INFO cinder.volume.manager [req-7f2984fb-1111-41ab-bb76-66ae8b4606ab - - - - -] Updating volume status
+2016-02-23 22:15:32.423 2759 INFO cinder.volume.manager [req-df585cde-a348-47fd-9723-ab4e5660f788 - - - - -] Updating volume status
+2016-02-23 22:16:32.432 2759 INFO cinder.volume.manager [req-693a6c91-62ef-4499-a776-7b034f7a67f1 - - - - -] Updating volume status
+2016-02-23 22:17:32.428 2759 INFO cinder.volume.manager [req-665e55d9-f555-49de-9f47-9caccd4950aa - - - - -] Updating volume status
+2016-02-23 22:18:32.422 2759 INFO cinder.volume.manager [req-05c7791c-9d4c-430e-8211-a7fb42249807 - - - - -] Updating volume status
+2016-02-23 22:19:32.421 2759 INFO cinder.volume.manager [req-99230741-7def-4eca-bdcd-3916025e72cf - - - - -] Updating volume status
+2016-02-23 22:21:32.419 2759 INFO cinder.volume.manager [req-41effd44-b5e5-4f10-b2f5-0d8ad7ddd000 - - - - -] Updating volume status
+2016-02-23 22:22:32.427 2759 INFO cinder.volume.manager [req-0f6b1201-f0c3-40d1-a3b7-51fc778e64c3 - - - - -] Updating volume status
+2016-02-23 22:23:32.425 2759 INFO cinder.volume.manager [req-b273565d-884b-411b-86c7-0495923a075d - - - - -] Updating volume status
+2016-02-23 22:24:32.422 2759 INFO cinder.volume.manager [req-2c53dbf5-8120-4680-a0ba-1cfb6285dbe0 - - - - -] Updating volume status
+2016-02-23 22:25:32.415 2759 INFO cinder.volume.manager [req-ad9a2663-3fb8-4dca-8b54-951262ebefcc - - - - -] Updating volume status
+2016-02-23 22:26:32.424 2759 INFO cinder.volume.manager [req-a0f4cbc5-65e1-42a4-b9f5-2324062325bb - - - - -] Updating volume status
+2016-02-23 22:27:32.421 2759 INFO cinder.volume.manager [req-9018aa99-c1bf-43b3-8c74-29346ab6c1f8 - - - - -] Updating volume status
+2016-02-23 22:28:32.423 2759 INFO cinder.volume.manager [req-d1eab7ff-ef82-4bfa-82d7-d94f099e7534 - - - - -] Updating volume status
+2016-02-23 22:29:32.421 2759 INFO cinder.volume.manager [req-a483449c-8527-4c87-bf05-3e9b310b0fac - - - - -] Updating volume status
+2016-02-23 22:30:32.430 2759 INFO cinder.volume.manager [req-9c4fc4e3-3a4b-40c6-9e15-cd245c02b01b - - - - -] Updating volume status
+2016-02-23 22:31:32.427 2759 INFO cinder.volume.manager [req-d44b734f-6880-483b-9eb5-8fae6c943581 - - - - -] Updating volume status
+2016-02-23 22:32:32.430 2759 INFO cinder.volume.manager [req-44cb69e0-2811-4877-ba5f-872aca8d9fed - - - - -] Updating volume status
+2016-02-23 22:33:32.425 2759 INFO cinder.volume.manager [req-786ebd60-6048-423a-ad39-ae2b4c9b120f - - - - -] Updating volume status
+2016-02-23 22:34:32.428 2759 INFO cinder.volume.manager [req-092e8d9d-57d5-4683-9623-356c717a760e - - - - -] Updating volume status
+2016-02-23 22:35:32.428 2759 INFO cinder.volume.manager [req-98012846-6326-438d-8087-d2417b36b48b - - - - -] Updating volume status
+2016-02-23 22:36:32.431 2759 INFO cinder.volume.manager [req-33745af0-724a-48ee-a8a9-ab39f284f7db - - - - -] Updating volume status
+2016-02-23 22:37:32.427 2759 INFO cinder.volume.manager [req-1d780838-6abe-4f91-8fec-2fcb1c46f504 - - - - -] Updating volume status
+2016-02-23 22:38:32.429 2759 INFO cinder.volume.manager [req-1929e0ff-abbc-48a1-b654-648a134e3198 - - - - -] Updating volume status
+2016-02-23 22:39:32.428 2759 INFO cinder.volume.manager [req-69468ce2-9512-4283-859c-21d046c7ad7b - - - - -] Updating volume status
+2016-02-23 22:40:32.431 2759 INFO cinder.volume.manager [req-2f66e603-796a-4ce6-baf3-19faa3bcb856 - - - - -] Updating volume status
+2016-02-23 22:41:32.430 2759 INFO cinder.volume.manager [req-9d6e9809-3f93-4ed1-90da-8b556512f84b - - - - -] Updating volume status
+2016-02-23 22:42:32.435 2759 INFO cinder.volume.manager [req-03541a72-7b18-48d0-88cf-792904d3c7ac - - - - -] Updating volume status
+2016-02-23 22:43:32.429 2759 INFO cinder.volume.manager [req-7686517f-ce07-47d3-82e7-bc976e4c3325 - - - - -] Updating volume status
+2016-02-23 22:44:32.430 2759 INFO cinder.volume.manager [req-087e69d0-18c0-4a9d-a256-5a212ac923f1 - - - - -] Updating volume status
+2016-02-23 22:45:32.431 2759 INFO cinder.volume.manager [req-76386481-44d4-4985-af37-58d9fe1306bc - - - - -] Updating volume status
+2016-02-23 22:46:32.435 2759 INFO cinder.volume.manager [req-ec9c57bc-0aa5-4b58-b6e8-69122e71d455 - - - - -] Updating volume status
+2016-02-23 22:47:32.431 2759 INFO cinder.volume.manager [req-4dd09386-5329-470a-b78a-a904b5318152 - - - - -] Updating volume status
+2016-02-23 22:48:32.436 2759 INFO cinder.volume.manager [req-5483e3c8-58be-4775-9f5a-a04a65f0b566 - - - - -] Updating volume status
+2016-02-23 22:49:32.431 2759 INFO cinder.volume.manager [req-5233b938-7ad0-453f-8776-10070c9f40e5 - - - - -] Updating volume status
+2016-02-23 22:50:32.436 2759 INFO cinder.volume.manager [req-84a4a94e-fd8c-4297-be69-d8afff4593e8 - - - - -] Updating volume status
+2016-02-23 22:51:32.435 2759 INFO cinder.volume.manager [req-2461947a-d7ab-40e6-9e29-681dc766c307 - - - - -] Updating volume status
+2016-02-23 22:52:32.436 2759 INFO cinder.volume.manager [req-7901c94b-72b2-45f7-bb66-c5ab798a7824 - - - - -] Updating volume status
+2016-02-23 22:53:32.435 2759 INFO cinder.volume.manager [req-a9cffb5a-1310-4a44-b187-6cc30e182573 - - - - -] Updating volume status
+2016-02-23 22:54:32.437 2759 INFO cinder.volume.manager [req-61c37352-06d9-407c-b3f2-8c2c59e6f533 - - - - -] Updating volume status
+2016-02-23 22:55:32.438 2759 INFO cinder.volume.manager [req-93e996ef-20c3-48c8-b141-124883482a1e - - - - -] Updating volume status
+2016-02-23 22:56:32.438 2759 INFO cinder.volume.manager [req-351878a3-9ff5-4e21-beaf-ce9acf4714dd - - - - -] Updating volume status
+2016-02-23 22:57:32.435 2759 INFO cinder.volume.manager [req-fb3122e5-539b-4ff6-88ac-6b75bdd5ea23 - - - - -] Updating volume status
+2016-02-23 22:58:32.439 2759 INFO cinder.volume.manager [req-e79d1d1c-5922-4b4d-9c28-bdc241069640 - - - - -] Updating volume status
+2016-02-23 22:59:32.438 2759 INFO cinder.volume.manager [req-6810f3fe-ac0b-43fc-b954-94d2e0db3653 - - - - -] Updating volume status
+2016-02-23 23:00:32.439 2759 INFO cinder.volume.manager [req-e516600b-7a2a-4fbe-94ef-15ce6cf846db - - - - -] Updating volume status
+2016-02-23 23:01:32.445 2759 INFO cinder.volume.manager [req-7bbd7105-2b26-44a3-8a08-d8927a198389 - - - - -] Updating volume status
+2016-02-23 23:02:32.442 2759 INFO cinder.volume.manager [req-b4fce0e4-24ca-4033-9d40-50c1f050a467 - - - - -] Updating volume status
+2016-02-23 23:03:32.447 2759 INFO cinder.volume.manager [req-5c434247-ce0e-4ffe-8ebb-528620ea67fb - - - - -] Updating volume status
+2016-02-23 23:04:32.456 2759 INFO cinder.volume.manager [req-a015ebb6-f718-467c-a2eb-0a1621635edc - - - - -] Updating volume status
+2016-02-23 23:05:32.447 2759 INFO cinder.volume.manager [req-15b48f34-71b0-4a71-b4a4-170e0348447e - - - - -] Updating volume status
+2016-02-23 23:06:32.450 2759 INFO cinder.volume.manager [req-3766e954-0de0-4393-a709-bae38bc44784 - - - - -] Updating volume status
+2016-02-23 23:07:32.450 2759 INFO cinder.volume.manager [req-4b9b0f92-a836-4f52-9466-2a2ce070e214 - - - - -] Updating volume status
+2016-02-23 23:08:32.447 2759 INFO cinder.volume.manager [req-4683a912-67ab-445d-98cd-9b17830270c5 - - - - -] Updating volume status
+2016-02-23 23:09:32.451 2759 INFO cinder.volume.manager [req-4ce5183f-79ce-4613-aaf9-5ca54761472f - - - - -] Updating volume status
+2016-02-23 23:10:32.449 2759 INFO cinder.volume.manager [req-e5aa6d84-de54-4a51-98ed-2c99a1810d0d - - - - -] Updating volume status
+2016-02-23 23:11:32.445 2759 INFO cinder.volume.manager [req-b44f01d0-fb53-4b4c-9405-51de4f26e184 - - - - -] Updating volume status
+2016-02-23 23:12:32.451 2759 INFO cinder.volume.manager [req-212f64f1-aa96-4e1b-b92b-15839382a90d - - - - -] Updating volume status
+2016-02-23 23:13:32.447 2759 INFO cinder.volume.manager [req-2c8a561f-13ab-4c5e-a1f9-66f930ce2cb6 - - - - -] Updating volume status
+2016-02-23 23:14:32.453 2759 INFO cinder.volume.manager [req-45287c5d-eb1c-434d-8de0-75cdf05184e5 - - - - -] Updating volume status
+2016-02-23 23:15:32.448 2759 INFO cinder.volume.manager [req-eea02bb3-78f8-4955-b0aa-e23ce37a220c - - - - -] Updating volume status
+2016-02-23 23:16:32.452 2759 INFO cinder.volume.manager [req-2604cde1-22e7-42a9-9283-d3fa0b9ef300 - - - - -] Updating volume status
+2016-02-23 23:17:32.449 2759 INFO cinder.volume.manager [req-3d60bca9-3771-4386-96b6-d357c0538fdc - - - - -] Updating volume status
+2016-02-23 23:18:32.456 2759 INFO cinder.volume.manager [req-2647ecb8-b7e1-41a5-a85a-df7344719a40 - - - - -] Updating volume status
+2016-02-23 23:19:32.455 2759 INFO cinder.volume.manager [req-2218aa62-f87c-4aae-aead-0392e13613c3 - - - - -] Updating volume status
+2016-02-23 23:20:32.453 2759 INFO cinder.volume.manager [req-eb0a2da0-038c-4a78-bf23-6c68b3d8f96f - - - - -] Updating volume status
+2016-02-23 23:21:32.456 2759 INFO cinder.volume.manager [req-d8fc19b9-4672-49ff-a16e-6451b1d51fbf - - - - -] Updating volume status
+2016-02-23 23:22:32.452 2759 INFO cinder.volume.manager [req-8a673cdb-c97a-4296-ae05-39085c4bb209 - - - - -] Updating volume status
+2016-02-23 23:23:32.469 2759 INFO cinder.volume.manager [req-b30f00d3-5426-4635-8311-bfe255fadfe6 - - - - -] Updating volume status
+2016-02-23 23:25:32.456 2759 INFO cinder.volume.manager [req-8b44d671-2a64-4698-9708-00a004530fac - - - - -] Updating volume status
+2016-02-23 23:26:32.459 2759 INFO cinder.volume.manager [req-3fbd7d09-fac8-42a6-84ff-26058df842ce - - - - -] Updating volume status
+2016-02-23 23:27:32.453 2759 INFO cinder.volume.manager [req-4b2534df-8c1c-44e3-920a-ae858621077b - - - - -] Updating volume status
+2016-02-23 23:28:32.461 2759 INFO cinder.volume.manager [req-4268f02a-9a4f-4bc6-be47-5dffd6a085af - - - - -] Updating volume status
+2016-02-23 23:29:32.460 2759 INFO cinder.volume.manager [req-8f8428ae-1046-40ae-8aa5-6fbe4fdac834 - - - - -] Updating volume status
+2016-02-23 23:30:32.463 2759 INFO cinder.volume.manager [req-b255f482-5102-4590-84d7-f32fce49f9c7 - - - - -] Updating volume status
+2016-02-23 23:31:32.461 2759 INFO cinder.volume.manager [req-fa21f37c-fc11-43d6-a1e8-3e1d7a1a8beb - - - - -] Updating volume status
+2016-02-23 23:32:32.458 2759 INFO cinder.volume.manager [req-d0c51251-66a2-422b-a58e-617ecaac1c2f - - - - -] Updating volume status
+2016-02-23 23:33:32.447 2759 INFO cinder.volume.manager [req-924df651-71fa-4cf6-931e-7f0439e36e13 - - - - -] Updating volume status
+2016-02-23 23:34:32.465 2759 INFO cinder.volume.manager [req-6b42956b-a4cd-48b1-a069-1696471d659c - - - - -] Updating volume status
+2016-02-23 23:35:32.457 2759 INFO cinder.volume.manager [req-68887a49-767e-4de4-b506-b4ca2b7e8dee - - - - -] Updating volume status
+2016-02-23 23:36:32.461 2759 INFO cinder.volume.manager [req-d292e211-e1d7-4d66-a8ac-f78766ffd22f - - - - -] Updating volume status
+2016-02-23 23:37:32.459 2759 INFO cinder.volume.manager [req-bbdb4206-929c-4374-a8d9-4dc5d648cb9c - - - - -] Updating volume status
+2016-02-23 23:38:32.462 2759 INFO cinder.volume.manager [req-b50f9c7c-4865-486d-b784-c1cb287feb4f - - - - -] Updating volume status
+2016-02-23 23:39:32.460 2759 INFO cinder.volume.manager [req-8d65b00e-67bf-411e-aa40-9580a01d6551 - - - - -] Updating volume status
+2016-02-23 23:40:01.581 1025 INFO cinder.openstack.common.service [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Caught SIGTERM, stopping children
+2016-02-23 23:40:01.588 1025 INFO cinder.openstack.common.service [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Waiting on 1 children to exit
+2016-02-23 23:40:02.936 1025 INFO cinder.openstack.common.service [req-a2116600-9c14-4a27-ae5e-8ca869b90ff7 - - - - -] Child 2759 killed by signal 15
+2016-02-24 19:46:15.654 1026 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 10 attempts left.
+2016-02-24 19:46:25.726 1026 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 9 attempts left.
+2016-02-24 19:46:36.027 1026 INFO cinder.volume.manager [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Determined volume DB was empty at startup.
+2016-02-24 19:46:36.062 1026 WARNING cinder.volume.targets.lio [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] The lio_initiator_iqns option has been deprecated and no longer has any effect.
+2016-02-24 19:46:36.315 1026 INFO cinder.openstack.common.service [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Starting 1 workers
+2016-02-24 19:46:36.339 1026 INFO cinder.openstack.common.service [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Started child 2708
+2016-02-24 19:46:36.355 2708 INFO cinder.service [-] Starting cinder-volume node (version 2015.1.0)
+2016-02-24 19:46:36.366 2708 INFO cinder.volume.manager [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Starting volume driver LVMVolumeDriver (3.0.0)
+2016-02-24 19:46:36.390 1026 WARNING oslo_config.cfg [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:36.392 1026 WARNING oslo_config.cfg [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:36.393 1026 WARNING oslo_config.cfg [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:36.396 1026 WARNING oslo_config.cfg [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:36.397 1026 WARNING oslo_config.cfg [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:36.399 1026 WARNING oslo_config.cfg [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:36.400 1026 WARNING oslo_config.cfg [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:36.401 1026 WARNING oslo_config.cfg [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:36.406 1026 WARNING oslo_config.cfg [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Option "lock_path" from group "DEFAULT" is deprecated. Use option "lock_path" from group "oslo_concurrency".
+2016-02-24 19:46:37.397 2708 INFO cinder.volume.manager [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Updating volume status
+2016-02-24 19:46:37.895 2708 WARNING oslo_config.cfg [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:37.897 2708 WARNING oslo_config.cfg [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:37.898 2708 WARNING oslo_config.cfg [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:37.899 2708 WARNING oslo_config.cfg [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:37.900 2708 WARNING oslo_config.cfg [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:37.902 2708 WARNING oslo_config.cfg [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:37.937 2708 INFO oslo_messaging._drivers.impl_rabbit [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-24 19:46:37.959 2708 INFO oslo_messaging._drivers.impl_rabbit [req-b7989c40-f6c1-44f6-bcdb-12c8f996434a - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-24 19:46:38.568 2708 INFO oslo_messaging._drivers.impl_rabbit [req-d000e99f-89f2-4709-9a98-21f9f0a2cb1a - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-24 19:46:38.602 2708 INFO oslo_messaging._drivers.impl_rabbit [req-d000e99f-89f2-4709-9a98-21f9f0a2cb1a - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-24 19:46:38.605 2708 WARNING oslo_config.cfg [req-d000e99f-89f2-4709-9a98-21f9f0a2cb1a - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-24 19:46:38.747 2708 INFO cinder.volume.manager [req-45b3c074-3dd1-4a97-8d88-683a4085d647 - - - - -] Updating volume status
+2016-02-24 19:48:08.653 2708 INFO cinder.volume.manager [req-f80ab5e4-5e02-4668-aee9-89b0f13ef080 - - - - -] Updating volume status
+2016-02-24 19:49:08.649 2708 INFO cinder.volume.manager [req-5665eb2b-9866-4449-8ed5-7f8bed8cb7ee - - - - -] Updating volume status
+2016-02-24 19:50:08.645 2708 INFO cinder.volume.manager [req-8bfdfce9-5525-4468-b9aa-0efb774a257e - - - - -] Updating volume status
+2016-02-24 19:51:08.647 2708 INFO cinder.volume.manager [req-3f69d71a-c2c4-44a1-9555-343682945b5c - - - - -] Updating volume status
+2016-02-24 19:52:08.653 2708 INFO cinder.volume.manager [req-85a68cf6-6335-45e3-9a81-50e62ab1d175 - - - - -] Updating volume status
+2016-02-24 19:53:08.650 2708 INFO cinder.volume.manager [req-60c090cb-323c-40ea-afed-086b88cdf12f - - - - -] Updating volume status
+2016-02-24 19:54:08.652 2708 INFO cinder.volume.manager [req-9e4da9da-3737-4cf1-bd67-fee7f4a29bd5 - - - - -] Updating volume status
+2016-02-24 19:55:08.648 2708 INFO cinder.volume.manager [req-3b96c170-ca02-4013-b562-e66081c275e1 - - - - -] Updating volume status
+2016-02-24 19:56:08.650 2708 INFO cinder.volume.manager [req-33bde15d-e6e4-4494-a8f2-7295d0c65646 - - - - -] Updating volume status
+2016-02-24 19:57:08.651 2708 INFO cinder.volume.manager [req-f83a5dea-99d6-4362-b311-ddfe30de908a - - - - -] Updating volume status
+2016-02-24 19:58:08.648 2708 INFO cinder.volume.manager [req-850bad7c-88af-408c-b182-cc39cf6d7ba5 - - - - -] Updating volume status
+2016-02-24 19:59:08.656 2708 INFO cinder.volume.manager [req-8e43a7d4-a05c-47ec-ab3a-54feeb1b8135 - - - - -] Updating volume status
+2016-02-24 20:00:08.655 2708 INFO cinder.volume.manager [req-7f1be3f3-569f-4793-9be7-17d64a6a209c - - - - -] Updating volume status
+2016-02-24 20:01:08.648 2708 INFO cinder.volume.manager [req-a09be651-58c4-4a6c-9833-6deffe34a04a - - - - -] Updating volume status
+2016-02-24 20:02:08.650 2708 INFO cinder.volume.manager [req-eca94c1f-5dee-4411-b277-c6b299be745a - - - - -] Updating volume status
+2016-02-24 20:03:08.650 2708 INFO cinder.volume.manager [req-4efd00af-ab97-4e88-a41e-268a170a8508 - - - - -] Updating volume status
+2016-02-24 20:04:08.650 2708 INFO cinder.volume.manager [req-0b7772ed-b40e-4d66-8679-64e4bfae5adc - - - - -] Updating volume status
+2016-02-24 20:05:08.651 2708 INFO cinder.volume.manager [req-110501c0-4567-4b72-ad51-ff5a92b4c91c - - - - -] Updating volume status
+2016-02-24 20:06:08.655 2708 INFO cinder.volume.manager [req-0a0bff4b-c774-4502-a190-7773df2a87ab - - - - -] Updating volume status
+2016-02-24 20:07:08.659 2708 INFO cinder.volume.manager [req-67f05121-9239-4ef2-b0c3-883579d6bffa - - - - -] Updating volume status
+2016-02-24 20:08:08.655 2708 INFO cinder.volume.manager [req-a15021ac-8f42-4e15-a9ac-5cc358781413 - - - - -] Updating volume status
+2016-02-24 20:09:08.658 2708 INFO cinder.volume.manager [req-08b3ae7f-183b-4cce-aaab-a2f5eaf10844 - - - - -] Updating volume status
+2016-02-24 20:10:08.656 2708 INFO cinder.volume.manager [req-d55d5294-e8df-4424-ad01-844f2371957a - - - - -] Updating volume status
+2016-02-24 20:11:08.657 2708 INFO cinder.volume.manager [req-1fff9053-f167-45cd-97d7-c4cb4f4b4b91 - - - - -] Updating volume status
+2016-02-24 20:12:08.656 2708 INFO cinder.volume.manager [req-c5a1f62e-d41f-43f8-b485-add3cdac8808 - - - - -] Updating volume status
+2016-02-24 20:13:08.662 2708 INFO cinder.volume.manager [req-a9d08147-7c5b-4827-941b-016a92ccf9b0 - - - - -] Updating volume status
+2016-02-24 20:14:08.664 2708 INFO cinder.volume.manager [req-edafa7bf-e1e1-4ae3-9cb1-64deb2c66c4e - - - - -] Updating volume status
+2016-02-24 20:15:08.659 2708 INFO cinder.volume.manager [req-d44c54af-7239-4356-bbbb-5399b27ce4ed - - - - -] Updating volume status
+2016-02-24 20:16:08.660 2708 INFO cinder.volume.manager [req-3748361a-4ca1-48fc-b0c0-052e5e175c81 - - - - -] Updating volume status
+2016-02-24 20:17:08.657 2708 INFO cinder.volume.manager [req-afbb11b1-5d0d-4a3d-b8dd-f84c7dd54403 - - - - -] Updating volume status
+2016-02-24 20:18:08.659 2708 INFO cinder.volume.manager [req-6655ef33-87b0-4b57-a056-4d10211826b2 - - - - -] Updating volume status
+2016-02-24 20:19:08.657 2708 INFO cinder.volume.manager [req-a31e72be-e009-4830-b556-9b445b884a75 - - - - -] Updating volume status
+2016-02-24 20:20:08.658 2708 INFO cinder.volume.manager [req-0b9ba2d4-d695-4c2b-a443-2225d8b78f0b - - - - -] Updating volume status
+2016-02-24 20:21:08.658 2708 INFO cinder.volume.manager [req-97e841fc-4d88-4bc8-ada4-74b9b0ba65bf - - - - -] Updating volume status
+2016-02-24 20:22:08.667 2708 INFO cinder.volume.manager [req-de496474-331d-49ce-878d-0359749ca4b3 - - - - -] Updating volume status
+2016-02-24 20:23:08.666 2708 INFO cinder.volume.manager [req-127b856e-5f87-4cc1-91cd-c41ebfdb6a35 - - - - -] Updating volume status
+2016-02-24 20:24:08.665 2708 INFO cinder.volume.manager [req-0dc9e5b5-252a-4191-98a8-b0b911bc8734 - - - - -] Updating volume status
+2016-02-24 20:25:08.664 2708 INFO cinder.volume.manager [req-591b798a-8a6f-481a-8847-ee145b81b80e - - - - -] Updating volume status
+2016-02-24 20:26:08.670 2708 INFO cinder.volume.manager [req-cece69f0-2309-4165-a2f0-ac235370d1f7 - - - - -] Updating volume status
+2016-02-24 20:27:08.669 2708 INFO cinder.volume.manager [req-075724bb-9c11-4221-b8d4-eb7d8abfa711 - - - - -] Updating volume status
+2016-02-24 20:28:08.671 2708 INFO cinder.volume.manager [req-9e90d7b6-af2e-4334-8c41-4091d38f08e1 - - - - -] Updating volume status
+2016-02-24 20:29:08.677 2708 INFO cinder.volume.manager [req-ef11c76c-6b03-4fae-ac45-f98b9424af21 - - - - -] Updating volume status
+2016-02-24 20:30:08.670 2708 INFO cinder.volume.manager [req-ad010ba8-e472-4e0c-a318-64c6c5dba0a0 - - - - -] Updating volume status
+2016-02-24 20:31:08.667 2708 INFO cinder.volume.manager [req-6ef3f3b2-eded-4f03-a7f7-8d8354fb65a8 - - - - -] Updating volume status
+2016-02-24 20:32:08.668 2708 INFO cinder.volume.manager [req-3d4794ba-4d43-48d8-9022-0dcb98fd694b - - - - -] Updating volume status
+2016-02-24 20:33:08.673 2708 INFO cinder.volume.manager [req-98020ac2-22ca-4057-9a66-3bc7784b690e - - - - -] Updating volume status
+2016-02-24 20:34:08.677 2708 INFO cinder.volume.manager [req-1575b989-fd67-428f-8c7b-6ec137944d71 - - - - -] Updating volume status
+2016-02-24 20:35:08.671 2708 INFO cinder.volume.manager [req-6164d88d-0b2d-43d7-bc3d-275ee98ec953 - - - - -] Updating volume status
+2016-02-24 20:36:08.674 2708 INFO cinder.volume.manager [req-c21097e8-6f61-43bf-8651-56b73f850553 - - - - -] Updating volume status
+2016-02-24 20:37:08.671 2708 INFO cinder.volume.manager [req-ab62fcca-a1ca-49a9-8dc6-51a47622445c - - - - -] Updating volume status
+2016-02-24 20:38:08.674 2708 INFO cinder.volume.manager [req-ce2c869f-d32b-4b93-ad53-d4b11140bac6 - - - - -] Updating volume status
+2016-02-24 20:39:08.663 2708 INFO cinder.volume.manager [req-d7824ad5-3642-41b2-89b2-738115e22ac6 - - - - -] Updating volume status
+2016-02-24 20:40:08.680 2708 INFO cinder.volume.manager [req-6dc67e4f-1942-4357-a257-f489da3aec90 - - - - -] Updating volume status
+2016-02-24 20:41:08.676 2708 INFO cinder.volume.manager [req-aa4062eb-9b54-4aeb-9974-7bf6a3c71c81 - - - - -] Updating volume status
+2016-02-24 20:42:08.676 2708 INFO cinder.volume.manager [req-19292dfe-f1e1-4bba-aaac-2a4fbe238c06 - - - - -] Updating volume status
+2016-02-24 20:43:08.677 2708 INFO cinder.volume.manager [req-61d670ef-3772-437c-a0bf-35cc1f2a03d8 - - - - -] Updating volume status
+2016-02-24 20:44:08.678 2708 INFO cinder.volume.manager [req-c18a6c19-46d0-46ee-83a9-1341b3b3fb95 - - - - -] Updating volume status
+2016-02-24 20:45:08.680 2708 INFO cinder.volume.manager [req-3e92ced1-3e6f-40c0-93da-b82b33420d79 - - - - -] Updating volume status
+2016-02-24 20:46:08.691 2708 INFO cinder.volume.manager [req-254949ea-f319-41fc-8b13-509c1ceb5231 - - - - -] Updating volume status
+2016-02-24 20:47:08.684 2708 INFO cinder.volume.manager [req-1996b88a-ed92-4d48-a3e6-26cbf216e4c9 - - - - -] Updating volume status
+2016-02-24 20:48:08.682 2708 INFO cinder.volume.manager [req-7e52f886-80eb-4f40-bfd8-cc8e4fa6d027 - - - - -] Updating volume status
+2016-02-24 20:49:08.678 2708 INFO cinder.volume.manager [req-25961862-0bba-4e8e-b504-511c17a90af3 - - - - -] Updating volume status
+2016-02-24 20:50:08.680 2708 INFO cinder.volume.manager [req-d59289ba-5f2c-4abb-8726-f5eeebb3947d - - - - -] Updating volume status
+2016-02-24 20:51:08.688 2708 INFO cinder.volume.manager [req-b20da194-74ee-4e17-bdce-202515eeb77f - - - - -] Updating volume status
+2016-02-24 20:52:08.683 2708 INFO cinder.volume.manager [req-2ceffecf-5ca4-4a1e-b1c7-62a836b9279e - - - - -] Updating volume status
+2016-02-24 20:53:08.683 2708 INFO cinder.volume.manager [req-ec08ac78-c787-44a7-a7bb-35ab6379dfd8 - - - - -] Updating volume status
+2016-02-24 20:54:08.683 2708 INFO cinder.volume.manager [req-071176f1-48c1-4b5f-bea2-308bb76dcfd3 - - - - -] Updating volume status
+2016-02-24 20:55:08.686 2708 INFO cinder.volume.manager [req-1deab166-44a2-4004-9cd9-8a218b755c07 - - - - -] Updating volume status
+2016-02-24 20:56:08.685 2708 INFO cinder.volume.manager [req-83374b0c-8d4c-4dfb-8148-f66a0b936fba - - - - -] Updating volume status
+2016-02-24 20:57:08.684 2708 INFO cinder.volume.manager [req-b29a6712-dc10-4c44-a1bb-1cb4bafefdf0 - - - - -] Updating volume status
+2016-02-24 20:58:08.683 2708 INFO cinder.volume.manager [req-9ddbe10a-24c5-40bb-ac9f-57be081e5068 - - - - -] Updating volume status
+2016-02-24 20:59:08.682 2708 INFO cinder.volume.manager [req-aab20f69-b92b-4040-b4a1-93c10ca7cd25 - - - - -] Updating volume status
+2016-02-24 21:01:08.686 2708 INFO cinder.volume.manager [req-5345fe85-3fa1-4b32-81b0-114afe4ef15b - - - - -] Updating volume status
+2016-02-24 21:02:08.700 2708 INFO cinder.volume.manager [req-3beee8a2-1874-4e9f-a22a-b072ac6f1d07 - - - - -] Updating volume status
+2016-02-24 21:03:08.690 2708 INFO cinder.volume.manager [req-a4a153be-a7dc-43d3-952c-8ae363b0e351 - - - - -] Updating volume status
+2016-02-24 21:04:08.684 2708 INFO cinder.volume.manager [req-1aadcf89-8734-428d-a45c-a0b2a4175db0 - - - - -] Updating volume status
+2016-02-24 21:05:08.686 2708 INFO cinder.volume.manager [req-df601121-56c8-4d7c-bcaa-4212755b5b89 - - - - -] Updating volume status
+2016-02-24 21:06:08.694 2708 INFO cinder.volume.manager [req-8a03b65b-902b-49dc-8e5f-d85a839573e7 - - - - -] Updating volume status
+2016-02-24 21:07:08.701 2708 INFO cinder.volume.manager [req-88ff3e0c-c5ce-44dd-9f2c-64ec806e7051 - - - - -] Updating volume status
+2016-02-24 21:08:08.687 2708 INFO cinder.volume.manager [req-13adba86-b08e-4487-93ed-da64dcae3a13 - - - - -] Updating volume status
+2016-02-24 21:09:08.693 2708 INFO cinder.volume.manager [req-48a9cc54-084d-49d5-baa1-7f750e631933 - - - - -] Updating volume status
+2016-02-24 21:10:08.692 2708 INFO cinder.volume.manager [req-6145bd1b-e6fd-416a-82cf-acbc334c5813 - - - - -] Updating volume status
+2016-02-24 21:11:08.692 2708 INFO cinder.volume.manager [req-bd640544-c310-4ba3-b76c-65ddae59694e - - - - -] Updating volume status
+2016-02-24 21:12:08.694 2708 INFO cinder.volume.manager [req-abbec507-0f7e-4e22-91d8-aa108922c1e6 - - - - -] Updating volume status
+2016-02-24 21:13:08.691 2708 INFO cinder.volume.manager [req-14e488b9-9eed-4b81-a99b-1614382500b6 - - - - -] Updating volume status
+2016-02-24 21:14:08.693 2708 INFO cinder.volume.manager [req-906237d6-5022-48bb-a639-2afb42690e20 - - - - -] Updating volume status
+2016-02-24 21:15:08.697 2708 INFO cinder.volume.manager [req-2a44317d-18ba-47fd-8985-b522910fe37c - - - - -] Updating volume status
+2016-02-24 21:16:08.727 2708 INFO cinder.volume.manager [req-9619fffa-57bc-481a-b0d9-09609be3b47e - - - - -] Updating volume status
+2016-02-24 21:17:08.701 2708 INFO cinder.volume.manager [req-bedf302e-8036-4f02-81cd-ec9ab9fa3808 - - - - -] Updating volume status
+2016-02-24 21:18:08.700 2708 INFO cinder.volume.manager [req-ed9a7387-d3cd-4966-8ca2-e78e81e5b5bf - - - - -] Updating volume status
+2016-02-24 21:19:08.698 2708 INFO cinder.volume.manager [req-5cc8d2bb-f50d-4fed-b4d1-2f5d125f2b0d - - - - -] Updating volume status
+2016-02-24 21:20:08.706 2708 INFO cinder.volume.manager [req-7f46f4b0-10f7-43ef-9b85-ea85d661e28c - - - - -] Updating volume status
+2016-02-24 21:21:08.710 2708 INFO cinder.volume.manager [req-95545fcb-b0d3-40c7-964e-a802d054af19 - - - - -] Updating volume status
+2016-02-24 21:22:08.701 2708 INFO cinder.volume.manager [req-828a25bb-7806-4c1f-9e7c-0d8c1cec6884 - - - - -] Updating volume status
+2016-02-24 21:23:08.728 2708 INFO cinder.volume.manager [req-e3236d7a-ffbf-4e22-9660-e7bc1f584fbb - - - - -] Updating volume status
+2016-02-24 21:24:08.702 2708 INFO cinder.volume.manager [req-ee89662f-6ede-42f2-b34d-e242dd7c4371 - - - - -] Updating volume status
+2016-02-24 21:25:08.709 2708 INFO cinder.volume.manager [req-2f1f2c0b-ffda-4a51-a734-bfa6d83e9d16 - - - - -] Updating volume status
+2016-02-24 21:26:08.708 2708 INFO cinder.volume.manager [req-9c7cd245-f8a0-445e-9ec1-3a9c61431be3 - - - - -] Updating volume status
+2016-02-24 21:27:08.705 2708 INFO cinder.volume.manager [req-35032710-2ddd-414e-a1d2-eb7172e77713 - - - - -] Updating volume status
+2016-02-24 21:28:08.704 2708 INFO cinder.volume.manager [req-0a22d9a6-5700-4787-ae24-664746a9ce1c - - - - -] Updating volume status
+2016-02-24 21:29:08.703 2708 INFO cinder.volume.manager [req-5a169ae8-edba-48dc-9782-4464eb4c726a - - - - -] Updating volume status
+2016-02-24 21:30:08.707 2708 INFO cinder.volume.manager [req-80261255-0347-4017-8425-9cde3edb1f8d - - - - -] Updating volume status
+2016-02-24 21:31:08.709 2708 INFO cinder.volume.manager [req-86ae5c2b-8657-47f6-94a5-a9d5f0d41f96 - - - - -] Updating volume status
+2016-02-24 21:32:08.713 2708 INFO cinder.volume.manager [req-a0cdc03f-8e78-4252-a901-bb55a785366d - - - - -] Updating volume status
+2016-02-24 21:33:08.712 2708 INFO cinder.volume.manager [req-ca14269f-47fb-4ba8-a310-be320455662e - - - - -] Updating volume status
+2016-02-24 21:34:08.719 2708 INFO cinder.volume.manager [req-6f5dd749-5134-4a48-9b7a-e8a37cea38ae - - - - -] Updating volume status
+2016-02-24 21:35:08.706 2708 INFO cinder.volume.manager [req-453003ee-304d-49ac-b359-e91d1c5698e6 - - - - -] Updating volume status
+2016-02-24 21:36:08.741 2708 INFO cinder.volume.manager [req-b34859c9-1194-4a9c-851f-44ddf541d0c5 - - - - -] Updating volume status
+2016-02-24 21:37:08.720 2708 INFO cinder.volume.manager [req-dadb6fb4-f6a6-48c7-8cfc-120da914d0a2 - - - - -] Updating volume status
+2016-02-24 21:38:08.721 2708 INFO cinder.volume.manager [req-aee045ba-676d-4d35-830d-1abb65b9edc4 - - - - -] Updating volume status
+2016-02-24 21:39:08.716 2708 INFO cinder.volume.manager [req-66fad6d9-28e1-4fec-8154-098ef63d2252 - - - - -] Updating volume status
+2016-02-24 21:40:08.707 2708 INFO cinder.volume.manager [req-1167943c-0c9b-4790-aa4b-ecbd10af3d77 - - - - -] Updating volume status
+2016-02-24 21:41:08.718 2708 INFO cinder.volume.manager [req-1f7ae2d3-c6e6-49ea-9ae3-f0a4c63e0ec9 - - - - -] Updating volume status
+2016-02-24 21:42:08.723 2708 INFO cinder.volume.manager [req-55aa5595-c207-4b72-9003-91928c4068d5 - - - - -] Updating volume status
+2016-02-24 21:43:08.720 2708 INFO cinder.volume.manager [req-088fec60-57fd-43ab-9f04-45bb27ed5cac - - - - -] Updating volume status
+2016-02-24 21:44:08.721 2708 INFO cinder.volume.manager [req-12db3402-165b-4a61-9d04-bf1a884f3b13 - - - - -] Updating volume status
+2016-02-24 21:45:08.722 2708 INFO cinder.volume.manager [req-3490645d-b8e8-4160-9081-59180ace5ad7 - - - - -] Updating volume status
+2016-02-24 21:46:08.732 2708 INFO cinder.volume.manager [req-d99e6926-73de-4d97-b0ec-ae1b3318f551 - - - - -] Updating volume status
+2016-02-24 21:47:08.725 2708 INFO cinder.volume.manager [req-0de9b1b3-16ec-4957-b50a-5dd27ce9b5bc - - - - -] Updating volume status
+2016-02-24 21:48:08.723 2708 INFO cinder.volume.manager [req-232ea265-e6ac-47ba-ae9a-bf31d180fe0a - - - - -] Updating volume status
+2016-02-24 21:49:08.723 2708 INFO cinder.volume.manager [req-d625f503-493c-4c5e-a0cc-b734c997b498 - - - - -] Updating volume status
+2016-02-24 21:50:08.726 2708 INFO cinder.volume.manager [req-a9ed3797-7b80-4d6d-b70e-03c8e88e32b2 - - - - -] Updating volume status
+2016-02-24 21:51:08.727 2708 INFO cinder.volume.manager [req-7c75f174-d789-4e9b-9db0-868461ae039e - - - - -] Updating volume status
+2016-02-24 21:52:08.728 2708 INFO cinder.volume.manager [req-5c102e7c-96ee-4289-b157-f0e6b745170b - - - - -] Updating volume status
+2016-02-24 21:53:08.730 2708 INFO cinder.volume.manager [req-1687f35e-1608-411c-af64-a46a4c381f78 - - - - -] Updating volume status
+2016-02-24 21:54:08.727 2708 INFO cinder.volume.manager [req-70f83fab-5300-4f62-9d98-8b9ea09038e7 - - - - -] Updating volume status
+2016-02-24 21:55:08.732 2708 INFO cinder.volume.manager [req-1175dbd1-c25d-468b-8d97-7a38403115a5 - - - - -] Updating volume status
+2016-02-24 21:56:08.728 2708 INFO cinder.volume.manager [req-f2d680ac-a4bf-4461-89b2-c5c4fb9bbaed - - - - -] Updating volume status
+2016-02-24 21:57:08.729 2708 INFO cinder.volume.manager [req-870edfe4-6634-4388-89a9-64ea2a61a14d - - - - -] Updating volume status
+2016-02-24 21:58:08.726 2708 INFO cinder.volume.manager [req-962993c1-e539-4728-8d28-ae7ec4ed4f8f - - - - -] Updating volume status
+2016-02-24 21:59:08.727 2708 INFO cinder.volume.manager [req-239e4f93-a203-4ad7-a9d7-55c371b0e636 - - - - -] Updating volume status
+2016-02-24 22:00:08.730 2708 INFO cinder.volume.manager [req-40eea43f-056e-4065-bceb-af55e396ad89 - - - - -] Updating volume status
+2016-02-24 22:01:08.733 2708 INFO cinder.volume.manager [req-743d7469-4c22-4eee-8088-a078acbdcc71 - - - - -] Updating volume status
+2016-02-24 22:02:08.728 2708 INFO cinder.volume.manager [req-3119358b-7b92-491d-a054-b76d32da1dac - - - - -] Updating volume status
+2016-02-24 22:03:08.730 2708 INFO cinder.volume.manager [req-c7055d7f-13fd-4e76-ad0b-e444b5cfc9f6 - - - - -] Updating volume status
+2016-02-24 22:04:08.727 2708 INFO cinder.volume.manager [req-d36d2ebd-32af-4eaa-bcad-b080f149cdf9 - - - - -] Updating volume status
+2016-02-24 22:05:08.731 2708 INFO cinder.volume.manager [req-8a177afe-eeee-427f-9b88-3b4635080bff - - - - -] Updating volume status
+2016-02-24 22:06:08.733 2708 INFO cinder.volume.manager [req-ddb62a19-ae0e-4329-b5c2-6684f7c76725 - - - - -] Updating volume status
+2016-02-24 22:08:08.733 2708 INFO cinder.volume.manager [req-3c76b3a7-becb-4eaf-a3a6-b1d675be3035 - - - - -] Updating volume status
+2016-02-24 22:09:08.735 2708 INFO cinder.volume.manager [req-abac1bf7-219a-44b6-9737-2b5bedfc1063 - - - - -] Updating volume status
+2016-02-24 22:10:08.736 2708 INFO cinder.volume.manager [req-8caffd5a-eaaa-4fe3-a722-30ec77d39d87 - - - - -] Updating volume status
+2016-02-24 22:11:08.735 2708 INFO cinder.volume.manager [req-afb13824-28d6-4c0d-b35a-8dc96b66fc8d - - - - -] Updating volume status
+2016-02-24 22:12:08.734 2708 INFO cinder.volume.manager [req-7be12c12-bd70-43d5-a767-b34dfc80d823 - - - - -] Updating volume status
+2016-02-24 22:13:08.735 2708 INFO cinder.volume.manager [req-da2e2cdc-a951-4f3f-adec-187253b63520 - - - - -] Updating volume status
+2016-02-24 22:14:08.733 2708 INFO cinder.volume.manager [req-7b79e57b-7a36-48eb-8f28-2fb2dfd8064e - - - - -] Updating volume status
+2016-02-24 22:15:08.732 2708 INFO cinder.volume.manager [req-23d368fc-c28a-44dc-8418-4a836fc22cce - - - - -] Updating volume status
+2016-02-24 22:16:08.739 2708 INFO cinder.volume.manager [req-0045cff4-35db-485b-86f9-0bd5b184b2b1 - - - - -] Updating volume status
+2016-02-24 22:17:08.742 2708 INFO cinder.volume.manager [req-4a5e6014-07bf-4302-b78b-ad97a81870e4 - - - - -] Updating volume status
+2016-02-24 22:18:08.744 2708 INFO cinder.volume.manager [req-98d22ed5-acdd-4727-9bfd-94463429e29b - - - - -] Updating volume status
+2016-02-24 22:19:08.739 2708 INFO cinder.volume.manager [req-29486b68-72b9-44ce-b221-e9af316d016f - - - - -] Updating volume status
+2016-02-24 22:20:08.739 2708 INFO cinder.volume.manager [req-c5cb015a-91d0-4de7-8642-f56a02f0dae1 - - - - -] Updating volume status
+2016-02-24 22:21:08.747 2708 INFO cinder.volume.manager [req-dd7976c2-429e-4801-8e33-eeefb6e6d2ca - - - - -] Updating volume status
+2016-02-24 22:22:08.747 2708 INFO cinder.volume.manager [req-47cc2d01-aecb-4a41-a598-66ecd08306b2 - - - - -] Updating volume status
+2016-02-24 22:23:08.741 2708 INFO cinder.volume.manager [req-19c690c3-d669-416b-9973-155c937be555 - - - - -] Updating volume status
+2016-02-24 22:24:08.746 2708 INFO cinder.volume.manager [req-925654bd-eaac-4ecc-bc7b-8dc270a3f5f1 - - - - -] Updating volume status
+2016-02-24 22:25:08.745 2708 INFO cinder.volume.manager [req-40f6b01e-3d8e-495f-a4c1-1544e8118189 - - - - -] Updating volume status
+2016-02-24 22:26:08.749 2708 INFO cinder.volume.manager [req-801736bf-76f1-4b6b-ad9c-d7135336c9f2 - - - - -] Updating volume status
+2016-02-24 22:27:08.745 2708 INFO cinder.volume.manager [req-3f2552f8-c19e-4d80-835a-b618f273cf8e - - - - -] Updating volume status
+2016-02-24 22:28:08.743 2708 INFO cinder.volume.manager [req-bbbe9991-15fe-4657-ad4d-9f1a6b012095 - - - - -] Updating volume status
+2016-02-24 22:29:08.751 2708 INFO cinder.volume.manager [req-28667f0c-acf0-401f-a72b-8f9530fbb015 - - - - -] Updating volume status
+2016-02-24 22:30:08.744 2708 INFO cinder.volume.manager [req-8e84454c-12c5-4bc3-80f6-4f0c6f30cbd8 - - - - -] Updating volume status
+2016-02-24 22:31:08.745 2708 INFO cinder.volume.manager [req-516ffcce-54d1-48ef-9a8b-63ac7cd6d964 - - - - -] Updating volume status
+2016-02-24 22:32:08.747 2708 INFO cinder.volume.manager [req-391fd439-be27-4244-869b-dac801e01c52 - - - - -] Updating volume status
+2016-02-24 22:33:08.750 2708 INFO cinder.volume.manager [req-5e26b33f-9645-403a-b331-86d672752443 - - - - -] Updating volume status
+2016-02-24 22:34:08.757 2708 INFO cinder.volume.manager [req-c0e8fe28-067f-4646-97d2-efc541fb39b3 - - - - -] Updating volume status
+2016-02-24 22:35:08.752 2708 INFO cinder.volume.manager [req-d99f568c-cea9-45d4-8c02-9daf94c6f5b6 - - - - -] Updating volume status
+2016-02-24 22:36:08.765 2708 INFO cinder.volume.manager [req-e5afbec4-113d-4030-ac9a-c200cdae5d1a - - - - -] Updating volume status
+2016-02-24 22:37:08.762 2708 INFO cinder.volume.manager [req-400127d8-0272-4e99-9739-1ec8bd467e2b - - - - -] Updating volume status
+2016-02-24 22:38:08.760 2708 INFO cinder.volume.manager [req-ffe04243-4c5c-49ac-bcbb-bf34741b0880 - - - - -] Updating volume status
+2016-02-24 22:39:08.749 2708 INFO cinder.volume.manager [req-34fa1981-688e-4c9d-b1fb-de53341fa220 - - - - -] Updating volume status
+2016-02-24 22:40:08.763 2708 INFO cinder.volume.manager [req-73abd510-03a3-4874-ac5a-c9dcea550f3e - - - - -] Updating volume status
+2016-02-24 22:41:08.766 2708 INFO cinder.volume.manager [req-44805cd8-fc40-4f84-a2ab-91a5280f4167 - - - - -] Updating volume status
+2016-02-24 22:42:08.763 2708 INFO cinder.volume.manager [req-3fdeda13-9d4a-43aa-a025-d9b772036d50 - - - - -] Updating volume status
+2016-02-24 22:43:08.760 2708 INFO cinder.volume.manager [req-e7b0b768-0fe4-4a95-9b71-b7d5caa670ea - - - - -] Updating volume status
+2016-02-24 22:44:08.761 2708 INFO cinder.volume.manager [req-5e54d79b-65f6-4e31-b385-679e4fa21651 - - - - -] Updating volume status
+2016-02-24 22:45:08.765 2708 INFO cinder.volume.manager [req-76c007ab-48f8-4fa6-8776-e3e1902bf918 - - - - -] Updating volume status
+2016-02-24 22:46:08.770 2708 INFO cinder.volume.manager [req-68273d18-5bfd-426c-9711-df9603aa5c9e - - - - -] Updating volume status
+2016-02-24 22:47:08.768 2708 INFO cinder.volume.manager [req-dbd65987-db6a-445d-bc20-bded8a63b6b8 - - - - -] Updating volume status
+2016-02-24 22:48:08.775 2708 INFO cinder.volume.manager [req-74dec4ed-c730-4c97-9d1a-1036c6f083c0 - - - - -] Updating volume status
+2016-02-24 22:49:08.764 2708 INFO cinder.volume.manager [req-d780837b-d277-4ad4-9681-cf4c7340ea03 - - - - -] Updating volume status
+2016-02-24 22:50:08.768 2708 INFO cinder.volume.manager [req-725f3189-7f63-4710-814d-0e1a979cc239 - - - - -] Updating volume status
+2016-02-24 22:51:08.781 2708 INFO cinder.volume.manager [req-5cd041f9-34fb-4584-8700-b54238942029 - - - - -] Updating volume status
+2016-02-24 22:52:08.772 2708 INFO cinder.volume.manager [req-27cc90ed-f5f3-4f4c-be7d-f3b40861765a - - - - -] Updating volume status
+2016-02-24 22:53:08.776 2708 INFO cinder.volume.manager [req-66dedbb2-0a5c-461d-bf18-40e465db4648 - - - - -] Updating volume status
+2016-02-24 22:54:08.800 2708 INFO cinder.volume.manager [req-1f3ee903-f840-4ab2-8d15-0bbcfd101233 - - - - -] Updating volume status
+2016-02-24 22:55:08.775 2708 INFO cinder.volume.manager [req-3666d3dc-83bd-45eb-acde-5a9e465a1893 - - - - -] Updating volume status
+2016-02-24 22:56:08.785 2708 INFO cinder.volume.manager [req-82b23838-0ff2-4a91-b0e7-73551011ae66 - - - - -] Updating volume status
+2016-02-24 22:57:08.780 2708 INFO cinder.volume.manager [req-555ad1ff-95cd-4b56-837a-03209c6e860e - - - - -] Updating volume status
+2016-02-24 22:58:08.777 2708 INFO cinder.volume.manager [req-18adb9db-60b0-4398-a72b-3a0d356b6ac9 - - - - -] Updating volume status
+2016-02-24 22:59:08.777 2708 INFO cinder.volume.manager [req-b86fecac-08b0-444d-8a15-170e8f0a4bf1 - - - - -] Updating volume status
+2016-02-24 23:00:08.779 2708 INFO cinder.volume.manager [req-bcefb0ef-fc5a-48de-91bf-ead47d22f566 - - - - -] Updating volume status
+2016-02-24 23:01:08.778 2708 INFO cinder.volume.manager [req-8cf13147-c207-4fbd-b2e0-69214517ad61 - - - - -] Updating volume status
+2016-02-24 23:02:08.778 2708 INFO cinder.volume.manager [req-83055d89-7b64-49b2-b475-5c8d97bf340c - - - - -] Updating volume status
+2016-02-24 23:03:08.782 2708 INFO cinder.volume.manager [req-ebccfaed-5b29-4b0e-ad96-9d439a5c6f38 - - - - -] Updating volume status
+2016-02-24 23:04:08.780 2708 INFO cinder.volume.manager [req-046edd33-352b-4c17-9d65-40112a7376a7 - - - - -] Updating volume status
+2016-02-24 23:06:08.783 2708 INFO cinder.volume.manager [req-7973bba6-2da0-448e-a7d7-9f063feae542 - - - - -] Updating volume status
+2016-02-24 23:07:08.780 2708 INFO cinder.volume.manager [req-0ba626cd-2bf5-4e56-b90f-411412e3cdcd - - - - -] Updating volume status
+2016-02-24 23:08:08.784 2708 INFO cinder.volume.manager [req-87a4d72c-d960-473f-86aa-b6a3729c92a7 - - - - -] Updating volume status
+2016-02-24 23:09:08.779 2708 INFO cinder.volume.manager [req-2d4f857f-4edf-457a-a60a-150298ea90c3 - - - - -] Updating volume status
+2016-02-24 23:10:08.784 2708 INFO cinder.volume.manager [req-ebc1c8f5-124b-41a5-9bbb-91172838a28e - - - - -] Updating volume status
+2016-02-24 23:11:08.779 2708 INFO cinder.volume.manager [req-deaf4e1d-7486-40a0-b6c0-c19459214c8d - - - - -] Updating volume status
+2016-02-24 23:12:08.784 2708 INFO cinder.volume.manager [req-c0b8bdb7-45ae-42bb-a76a-54cbd3b77300 - - - - -] Updating volume status
+2016-02-24 23:13:08.782 2708 INFO cinder.volume.manager [req-bd208d10-c8af-48da-afda-9566cb53ed0a - - - - -] Updating volume status
+2016-02-24 23:14:08.784 2708 INFO cinder.volume.manager [req-0919de79-8219-4201-a407-a7e9d06b56e1 - - - - -] Updating volume status
+2016-02-24 23:15:08.789 2708 INFO cinder.volume.manager [req-7b8eaed6-1b73-47b9-bfe7-ca9cdc2a573e - - - - -] Updating volume status
+2016-02-24 23:16:08.788 2708 INFO cinder.volume.manager [req-63f4b5ae-2706-4c68-aba6-a6c1593eb03c - - - - -] Updating volume status
+2016-02-24 23:17:08.785 2708 INFO cinder.volume.manager [req-6efbf0e4-ef38-4fbe-9e93-8275b00fd639 - - - - -] Updating volume status
+2016-02-24 23:17:47.698 1026 INFO cinder.openstack.common.service [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Caught SIGTERM, stopping children
+2016-02-24 23:17:47.780 1026 INFO cinder.openstack.common.service [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Waiting on 1 children to exit
+2016-02-24 23:17:48.410 1026 INFO cinder.openstack.common.service [req-84790815-00cd-42de-b385-adbcaec65d28 - - - - -] Child 2708 killed by signal 15
+2016-02-25 19:46:50.063 1023 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 10 attempts left.
+2016-02-25 19:47:00.082 1023 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 9 attempts left.
+2016-02-25 19:47:10.424 1023 INFO cinder.volume.manager [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Determined volume DB was empty at startup.
+2016-02-25 19:47:10.462 1023 WARNING cinder.volume.targets.lio [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] The lio_initiator_iqns option has been deprecated and no longer has any effect.
+2016-02-25 19:47:10.831 1023 INFO cinder.openstack.common.service [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Starting 1 workers
+2016-02-25 19:47:10.858 1023 INFO cinder.openstack.common.service [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Started child 2714
+2016-02-25 19:47:10.885 2714 INFO cinder.service [-] Starting cinder-volume node (version 2015.1.0)
+2016-02-25 19:47:10.899 2714 INFO cinder.volume.manager [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Starting volume driver LVMVolumeDriver (3.0.0)
+2016-02-25 19:47:10.913 1023 WARNING oslo_config.cfg [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:10.914 1023 WARNING oslo_config.cfg [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:10.920 1023 WARNING oslo_config.cfg [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:10.923 1023 WARNING oslo_config.cfg [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:10.924 1023 WARNING oslo_config.cfg [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:10.926 1023 WARNING oslo_config.cfg [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:10.927 1023 WARNING oslo_config.cfg [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:10.937 1023 WARNING oslo_config.cfg [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:10.944 1023 WARNING oslo_config.cfg [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Option "lock_path" from group "DEFAULT" is deprecated. Use option "lock_path" from group "oslo_concurrency".
+2016-02-25 19:47:12.280 2714 INFO cinder.volume.manager [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Updating volume status
+2016-02-25 19:47:12.895 2714 WARNING oslo_config.cfg [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:12.897 2714 WARNING oslo_config.cfg [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:12.898 2714 WARNING oslo_config.cfg [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:12.899 2714 WARNING oslo_config.cfg [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:12.900 2714 WARNING oslo_config.cfg [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:12.902 2714 WARNING oslo_config.cfg [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-25 19:47:12.940 2714 INFO oslo_messaging._drivers.impl_rabbit [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 19:47:12.963 2714 INFO oslo_messaging._drivers.impl_rabbit [req-954ce53a-0ecd-4e55-a376-8d0f7682434c - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 19:47:13.635 2714 INFO oslo_messaging._drivers.impl_rabbit [req-98756386-93ec-4f10-ac29-827ff62f9bce - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-25 19:47:13.660 2714 INFO oslo_messaging._drivers.impl_rabbit [req-98756386-93ec-4f10-ac29-827ff62f9bce - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-25 19:47:13.663 2714 WARNING oslo_config.cfg [req-98756386-93ec-4f10-ac29-827ff62f9bce - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-25 19:48:31.704 2714 INFO cinder.volume.manager [req-ae53d22a-8121-4735-8e12-33929453f3c1 - - - - -] Updating volume status
+2016-02-25 19:49:31.707 2714 INFO cinder.volume.manager [req-ed2dbd45-50c8-4f7a-8acf-1c6d0e4f3844 - - - - -] Updating volume status
+2016-02-25 19:50:31.706 2714 INFO cinder.volume.manager [req-e0331745-f055-4111-8636-35d13db89cc7 - - - - -] Updating volume status
+2016-02-25 19:51:31.709 2714 INFO cinder.volume.manager [req-0a633578-efea-48c8-8569-1d24fef9563f - - - - -] Updating volume status
+2016-02-25 19:52:31.708 2714 INFO cinder.volume.manager [req-13456d72-dc0d-4cb1-960c-d368611740a8 - - - - -] Updating volume status
+2016-02-25 19:53:31.709 2714 INFO cinder.volume.manager [req-8b1e82e4-0e04-4e7b-8545-9ad48470d35a - - - - -] Updating volume status
+2016-02-25 19:54:31.707 2714 INFO cinder.volume.manager [req-53bdab3f-6d5d-4358-acee-394587b630d6 - - - - -] Updating volume status
+2016-02-25 19:55:31.711 2714 INFO cinder.volume.manager [req-b936fb51-cd8b-4882-a74f-1cce48ba5c4c - - - - -] Updating volume status
+2016-02-25 19:56:31.710 2714 INFO cinder.volume.manager [req-7d6804dd-cb32-4065-92f7-04be6ca7c9b0 - - - - -] Updating volume status
+2016-02-25 19:57:31.711 2714 INFO cinder.volume.manager [req-9768bc51-59ce-4489-a591-bb600f492460 - - - - -] Updating volume status
+2016-02-25 19:58:31.714 2714 INFO cinder.volume.manager [req-3b55ad56-d0ad-444a-a101-382a93d4f2d0 - - - - -] Updating volume status
+2016-02-25 19:59:31.714 2714 INFO cinder.volume.manager [req-bbba85d5-a136-446e-befc-bbaae5c0d8e5 - - - - -] Updating volume status
+2016-02-25 20:00:31.715 2714 INFO cinder.volume.manager [req-03da5ec2-b65b-44b6-ad0e-1c7f1dcc6d57 - - - - -] Updating volume status
+2016-02-25 20:01:31.713 2714 INFO cinder.volume.manager [req-61c618bc-718a-49b6-ad21-72c84d3b47d5 - - - - -] Updating volume status
+2016-02-25 20:02:31.714 2714 INFO cinder.volume.manager [req-7683d41c-cc25-465d-802d-db826340b006 - - - - -] Updating volume status
+2016-02-25 20:03:31.715 2714 INFO cinder.volume.manager [req-f5e80b5c-154e-415b-ba02-73a835dac678 - - - - -] Updating volume status
+2016-02-25 20:04:31.714 2714 INFO cinder.volume.manager [req-ff18c9cf-5143-4c26-8413-ef96066199b5 - - - - -] Updating volume status
+2016-02-25 20:05:31.714 2714 INFO cinder.volume.manager [req-6743b1a2-7a79-4a02-868b-275bf34514e9 - - - - -] Updating volume status
+2016-02-25 20:06:31.713 2714 INFO cinder.volume.manager [req-b6cc74ff-0a6b-4f18-ba5c-ad42adb17250 - - - - -] Updating volume status
+2016-02-25 20:07:31.718 2714 INFO cinder.volume.manager [req-febc9e6d-1a70-43bf-a926-210e40c55b99 - - - - -] Updating volume status
+2016-02-25 20:08:31.714 2714 INFO cinder.volume.manager [req-5d705430-fc96-4245-8f05-e5f06ecacf06 - - - - -] Updating volume status
+2016-02-25 20:09:31.716 2714 INFO cinder.volume.manager [req-81106500-45d1-4294-b740-1680211268db - - - - -] Updating volume status
+2016-02-25 20:10:31.714 2714 INFO cinder.volume.manager [req-1eddc29a-7b1b-46b4-ae36-24d83b24e787 - - - - -] Updating volume status
+2016-02-25 20:11:31.715 2714 INFO cinder.volume.manager [req-2115c813-a6b2-4f2a-bb89-964722d75090 - - - - -] Updating volume status
+2016-02-25 20:12:31.717 2714 INFO cinder.volume.manager [req-b3c05852-9454-4292-8768-8e55d02064f3 - - - - -] Updating volume status
+2016-02-25 20:13:31.720 2714 INFO cinder.volume.manager [req-6be57895-41c0-44a6-9f8f-4190ddddffa1 - - - - -] Updating volume status
+2016-02-25 20:14:31.719 2714 INFO cinder.volume.manager [req-ad264bef-03d0-4c5b-b908-977c2cef6d3d - - - - -] Updating volume status
+2016-02-25 20:15:31.718 2714 INFO cinder.volume.manager [req-552f5122-a0cc-4e4a-92db-f659d9e02100 - - - - -] Updating volume status
+2016-02-25 20:16:31.718 2714 INFO cinder.volume.manager [req-0bf50f2f-18f4-4f46-a1a2-b0488a0e4692 - - - - -] Updating volume status
+2016-02-25 20:17:31.715 2714 INFO cinder.volume.manager [req-d6efaa47-5cb6-48a6-a920-2892e0210217 - - - - -] Updating volume status
+2016-02-25 20:18:31.725 2714 INFO cinder.volume.manager [req-828785a0-9e9c-46cf-864e-fa9afc7cfecb - - - - -] Updating volume status
+2016-02-25 20:19:31.722 2714 INFO cinder.volume.manager [req-28bc30a7-d7d8-47a8-b02d-fdc747ff84bb - - - - -] Updating volume status
+2016-02-25 20:20:31.721 2714 INFO cinder.volume.manager [req-9f7c2aaa-92f4-42e6-9cfa-85ed2028496b - - - - -] Updating volume status
+2016-02-25 20:21:31.722 2714 INFO cinder.volume.manager [req-6f9ca698-0d80-41e6-b23d-0e8ccdc40dde - - - - -] Updating volume status
+2016-02-25 20:22:31.720 2714 INFO cinder.volume.manager [req-b74bd149-0c05-4acf-a3c9-292ac8206ea2 - - - - -] Updating volume status
+2016-02-25 20:23:31.720 2714 INFO cinder.volume.manager [req-c8189fa9-ab5a-4b2f-8236-d0d250ab6385 - - - - -] Updating volume status
+2016-02-25 20:24:31.726 2714 INFO cinder.volume.manager [req-9d31e55e-b887-4e76-874f-d25b0bb55541 - - - - -] Updating volume status
+2016-02-25 20:25:31.724 2714 INFO cinder.volume.manager [req-363adc40-7440-4595-8368-6e6ec2d04f3f - - - - -] Updating volume status
+2016-02-25 20:26:31.722 2714 INFO cinder.volume.manager [req-08dbb054-9cf1-49ce-b162-df7d79d6f9a6 - - - - -] Updating volume status
+2016-02-25 20:27:31.723 2714 INFO cinder.volume.manager [req-4b049fdd-c4c9-4f13-a775-ef2e7d500098 - - - - -] Updating volume status
+2016-02-25 20:28:31.721 2714 INFO cinder.volume.manager [req-d50e0efe-9ab7-441a-9dd4-7360e9910ecf - - - - -] Updating volume status
+2016-02-25 20:29:31.725 2714 INFO cinder.volume.manager [req-0442652a-0ff8-4f44-bbff-2f8b13c40bd1 - - - - -] Updating volume status
+2016-02-25 20:30:31.727 2714 INFO cinder.volume.manager [req-87587571-df9a-49a4-953d-7b45cd4f1d41 - - - - -] Updating volume status
+2016-02-25 20:31:31.725 2714 INFO cinder.volume.manager [req-c6b44bc8-65f1-4553-9d1c-c960f841aa27 - - - - -] Updating volume status
+2016-02-25 20:32:31.728 2714 INFO cinder.volume.manager [req-961ad11d-8efb-4cd1-a69b-ad96ec1e8433 - - - - -] Updating volume status
+2016-02-25 20:33:31.726 2714 INFO cinder.volume.manager [req-93f343c4-8bab-4554-841b-e31e606b3141 - - - - -] Updating volume status
+2016-02-25 20:34:31.719 2714 INFO cinder.volume.manager [req-471e47df-5c63-40aa-ae8c-06df86ea401a - - - - -] Updating volume status
+2016-02-25 20:36:31.728 2714 INFO cinder.volume.manager [req-071ecc7d-2cec-40dd-9c79-a829511d63d5 - - - - -] Updating volume status
+2016-02-25 20:37:31.732 2714 INFO cinder.volume.manager [req-4e3c1575-aaa7-4563-9e94-8db926e0f298 - - - - -] Updating volume status
+2016-02-25 20:38:31.729 2714 INFO cinder.volume.manager [req-e7b5239d-0ac0-4149-acac-162dac3dda5b - - - - -] Updating volume status
+2016-02-25 20:39:31.728 2714 INFO cinder.volume.manager [req-474aeeb7-cb30-480e-ac05-e2fc0dba4945 - - - - -] Updating volume status
+2016-02-25 20:40:31.735 2714 INFO cinder.volume.manager [req-ed62e05e-1de1-40d5-8322-46b91651ed94 - - - - -] Updating volume status
+2016-02-25 20:41:31.731 2714 INFO cinder.volume.manager [req-c5a23a2c-3a1a-4a3f-8e5c-4b4f086354f0 - - - - -] Updating volume status
+2016-02-25 20:42:31.733 2714 INFO cinder.volume.manager [req-89ceac0a-4e22-4ec4-a85d-0b4dcf70e14f - - - - -] Updating volume status
+2016-02-25 20:43:31.731 2714 INFO cinder.volume.manager [req-b6a35025-ba91-412b-93dc-9fe1deeb930a - - - - -] Updating volume status
+2016-02-25 20:44:31.733 2714 INFO cinder.volume.manager [req-2e1b9458-8378-4df8-9b7e-cf35a6b92ad9 - - - - -] Updating volume status
+2016-02-25 20:45:31.731 2714 INFO cinder.volume.manager [req-9f79004f-7ec1-412f-ae68-39828c6023df - - - - -] Updating volume status
+2016-02-25 20:46:31.734 2714 INFO cinder.volume.manager [req-2de9d4a6-7def-4ee6-9f5e-5eba417ec7d3 - - - - -] Updating volume status
+2016-02-25 20:47:31.730 2714 INFO cinder.volume.manager [req-57ff6db9-4d7d-45bf-9bc1-438b73a3031c - - - - -] Updating volume status
+2016-02-25 20:48:31.733 2714 INFO cinder.volume.manager [req-955ffdee-d53e-41ba-a1f6-803d3679bd01 - - - - -] Updating volume status
+2016-02-25 20:49:31.735 2714 INFO cinder.volume.manager [req-97bb02cd-3b69-45c7-9931-82f8afa486e5 - - - - -] Updating volume status
+2016-02-25 20:50:31.738 2714 INFO cinder.volume.manager [req-5476f353-fefd-4212-9bab-b2a220e16539 - - - - -] Updating volume status
+2016-02-25 20:51:31.735 2714 INFO cinder.volume.manager [req-40842f5e-fb0a-47fd-9581-7d6f157f8706 - - - - -] Updating volume status
+2016-02-25 20:52:31.737 2714 INFO cinder.volume.manager [req-e71fd112-1d26-4f7c-b94e-26d33c654690 - - - - -] Updating volume status
+2016-02-25 20:53:31.736 2714 INFO cinder.volume.manager [req-95f67917-0ca5-407b-8dfd-e277278b0f3a - - - - -] Updating volume status
+2016-02-25 20:54:31.738 2714 INFO cinder.volume.manager [req-be356636-e6c0-418d-94b0-e71f74a4480f - - - - -] Updating volume status
+2016-02-25 20:55:31.739 2714 INFO cinder.volume.manager [req-919eba75-25bd-4aee-84ee-11309371c4fa - - - - -] Updating volume status
+2016-02-25 20:56:31.739 2714 INFO cinder.volume.manager [req-211e0dad-8d44-441f-80d3-224f98014dfe - - - - -] Updating volume status
+2016-02-25 20:57:31.737 2714 INFO cinder.volume.manager [req-68c121d7-c774-404f-8a37-1f3b3adb548f - - - - -] Updating volume status
+2016-02-25 20:58:31.740 2714 INFO cinder.volume.manager [req-d0503235-243d-4991-ab92-c57575ec0f6c - - - - -] Updating volume status
+2016-02-25 20:59:31.744 2714 INFO cinder.volume.manager [req-50d81085-c12d-4ab9-b4d7-80adc05f38d9 - - - - -] Updating volume status
+2016-02-25 21:00:31.739 2714 INFO cinder.volume.manager [req-4151a13e-b652-4d24-acdc-50bb9a61aaab - - - - -] Updating volume status
+2016-02-25 21:01:31.740 2714 INFO cinder.volume.manager [req-6d6315d5-7ef4-4d65-b033-edafa7440b8f - - - - -] Updating volume status
+2016-02-25 21:02:31.739 2714 INFO cinder.volume.manager [req-c71dda16-95a6-4157-8aab-49ad617bfdd4 - - - - -] Updating volume status
+2016-02-25 21:03:31.743 2714 INFO cinder.volume.manager [req-43dca0e8-6e8e-484f-a1de-467e985cb1a8 - - - - -] Updating volume status
+2016-02-25 21:04:31.740 2714 INFO cinder.volume.manager [req-41f61c46-b100-4a2b-9201-1de0aacf578b - - - - -] Updating volume status
+2016-02-25 21:05:31.741 2714 INFO cinder.volume.manager [req-8ceadfb0-c31d-4b92-af4b-553bb12215fc - - - - -] Updating volume status
+2016-02-25 21:06:31.740 2714 INFO cinder.volume.manager [req-5e99f15a-6183-4da5-89de-e21afdaba776 - - - - -] Updating volume status
+2016-02-25 21:07:31.745 2714 INFO cinder.volume.manager [req-9d781baf-b00d-46fe-b4d6-b3adf263974a - - - - -] Updating volume status
+2016-02-25 21:08:31.741 2714 INFO cinder.volume.manager [req-101de11a-1b2e-4404-a624-31c666d46bdb - - - - -] Updating volume status
+2016-02-25 21:09:31.743 2714 INFO cinder.volume.manager [req-7409b13d-377f-49e5-8d58-651b232fc9b0 - - - - -] Updating volume status
+2016-02-25 21:10:31.743 2714 INFO cinder.volume.manager [req-78f23c41-c645-49ee-9b46-ed03c6c9937b - - - - -] Updating volume status
+2016-02-25 21:11:31.749 2714 INFO cinder.volume.manager [req-d0d46a33-0361-443d-9dd9-34cbff2940bf - - - - -] Updating volume status
+2016-02-25 21:12:31.745 2714 INFO cinder.volume.manager [req-8a42c83a-d733-4203-9638-ce9382765f08 - - - - -] Updating volume status
+2016-02-25 21:13:31.748 2714 INFO cinder.volume.manager [req-a5c0e2f7-389c-4306-af89-a3f589f08e3d - - - - -] Updating volume status
+2016-02-25 21:14:31.745 2714 INFO cinder.volume.manager [req-1065b18b-5614-4dcb-b2a7-5891bc1fe3b7 - - - - -] Updating volume status
+2016-02-25 21:15:31.749 2714 INFO cinder.volume.manager [req-073dc1d6-6e7b-446b-a8f3-35d94da95491 - - - - -] Updating volume status
+2016-02-25 21:16:31.746 2714 INFO cinder.volume.manager [req-af2547f7-1c87-48fa-a7e5-3a834fd45bad - - - - -] Updating volume status
+2016-02-25 21:17:31.747 2714 INFO cinder.volume.manager [req-d4df41d5-92cc-4f8c-a4fc-e1ac925cf006 - - - - -] Updating volume status
+2016-02-25 21:18:31.746 2714 INFO cinder.volume.manager [req-5ec51215-aa40-4355-9e4e-d0bc4feb58cd - - - - -] Updating volume status
+2016-02-25 21:19:31.745 2714 INFO cinder.volume.manager [req-b6c3e9d6-1c92-469e-8210-7ff41e208fd0 - - - - -] Updating volume status
+2016-02-25 21:20:31.748 2714 INFO cinder.volume.manager [req-740d7a5a-5540-473c-93a3-35fad77fb49f - - - - -] Updating volume status
+2016-02-25 21:21:31.747 2714 INFO cinder.volume.manager [req-f91056ef-13a7-4fbc-9643-b7ff04753815 - - - - -] Updating volume status
+2016-02-25 21:22:31.748 2714 INFO cinder.volume.manager [req-ab8cdf32-a7b8-478c-b733-169430f83a67 - - - - -] Updating volume status
+2016-02-25 21:23:31.748 2714 INFO cinder.volume.manager [req-3811d093-0288-4856-bd4c-76d9322679eb - - - - -] Updating volume status
+2016-02-25 21:24:31.746 2714 INFO cinder.volume.manager [req-28c45f3f-284f-4eef-8270-6a041d2e4ce0 - - - - -] Updating volume status
+2016-02-25 21:25:31.738 2714 INFO cinder.volume.manager [req-71aa746c-eee8-4553-9e0f-4e83fbee77ef - - - - -] Updating volume status
+2016-02-25 21:26:31.748 2714 INFO cinder.volume.manager [req-69f1bd29-ab27-4183-a0bb-bd42b3500ab9 - - - - -] Updating volume status
+2016-02-25 21:27:31.752 2714 INFO cinder.volume.manager [req-59c13f6a-2d92-4b75-8e98-aabe5fc7dee0 - - - - -] Updating volume status
+2016-02-25 21:28:31.755 2714 INFO cinder.volume.manager [req-70971add-cf03-4a17-b3b8-d131d5d43cc5 - - - - -] Updating volume status
+2016-02-25 21:29:31.773 2714 INFO cinder.volume.manager [req-e1a2bff9-1f61-4080-a8d2-28517fc61386 - - - - -] Updating volume status
+2016-02-25 21:30:31.755 2714 INFO cinder.volume.manager [req-e9e30b88-f7d0-42bf-a2d7-2c54cf649bb5 - - - - -] Updating volume status
+2016-02-25 21:31:31.757 2714 INFO cinder.volume.manager [req-6fb09d0d-8358-4d5b-b05e-146a9f695599 - - - - -] Updating volume status
+2016-02-25 21:32:31.753 2714 INFO cinder.volume.manager [req-c355c4b0-bbbe-412b-a412-51ca0649ec5a - - - - -] Updating volume status
+2016-02-25 21:33:31.756 2714 INFO cinder.volume.manager [req-0b82c26b-69d4-46fc-9258-15986b217c91 - - - - -] Updating volume status
+2016-02-25 21:34:31.757 2714 INFO cinder.volume.manager [req-d7e0dcdc-824c-48d7-9ed1-8bdd64cc1c70 - - - - -] Updating volume status
+2016-02-25 21:35:31.757 2714 INFO cinder.volume.manager [req-102a0fae-d490-4222-9024-c08428fb07c8 - - - - -] Updating volume status
+2016-02-25 21:36:31.762 2714 INFO cinder.volume.manager [req-79b4d6fd-ac77-43cc-8e2f-84befd451c9c - - - - -] Updating volume status
+2016-02-25 21:38:07.121 2714 INFO cinder.volume.flows.manager.create_volume [req-15dd6dd0-b5d6-468b-bf49-21c46ef93b35 e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Volume c7aefb56-5fab-4422-ae58-cb53cfeebb74: being created as image with specification: {'status': u'creating', 'image_location': (None, None), 'volume_size': 1, 'volume_name': u'volume-c7aefb56-5fab-4422-ae58-cb53cfeebb74', 'image_id': u'9535cff0-1980-4ac8-a702-a3b6234c88dd', 'image_service': <cinder.image.glance.GlanceImageService object at 0x360fa50>, 'image_meta': {'status': u'active', 'name': u'cirros_alpha', 'deleted': False, 'container_format': u'bare', 'created_at': datetime.datetime(2016, 2, 25, 20, 49, 16, tzinfo=<iso8601.iso8601.Utc object at 0x38e7fd0>), 'disk_format': u'qcow2', 'updated_at': datetime.datetime(2016, 2, 25, 20, 49, 16, tzinfo=<iso8601.iso8601.Utc object at 0x38e7fd0>), 'id': u'9535cff0-1980-4ac8-a702-a3b6234c88dd', 'owner': u'300b2cc45c3846939e589310ae714e46', 'min_ram': 0, 'checksum': None, 'min_disk': 0, 'is_public': True, 'deleted_at': None, 'properties': {}, 'size': 13287936}}
+2016-02-25 21:38:14.010 2714 INFO cinder.image.image_utils [req-15dd6dd0-b5d6-468b-bf49-21c46ef93b35 e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Image download 12.00 MB at 2.23 MB/s
+2016-02-25 21:38:15.532 2714 INFO cinder.image.image_utils [req-15dd6dd0-b5d6-468b-bf49-21c46ef93b35 e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Converted 12.00 MB image at 12.00 MB/s
+2016-02-25 21:38:16.545 2714 INFO cinder.volume.flows.manager.create_volume [req-15dd6dd0-b5d6-468b-bf49-21c46ef93b35 e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Volume volume-c7aefb56-5fab-4422-ae58-cb53cfeebb74 (c7aefb56-5fab-4422-ae58-cb53cfeebb74): created successfully
+2016-02-25 21:38:20.833 2714 INFO cinder.volume.targets.lio [req-49283a51-57a4-48a6-aa1f-465aadb1df49 e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Creating iscsi_target for volume: volume-c7aefb56-5fab-4422-ae58-cb53cfeebb74
+2016-02-25 21:38:24.214 2714 WARNING oslo_config.cfg [req-756ecf19-5000-4677-984f-a6ef63dfbc7c e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Option "lock_path" from group "DEFAULT" is deprecated. Use option "lock_path" from group "oslo_concurrency".
+2016-02-25 21:38:31.765 2714 INFO cinder.volume.manager [req-65d76795-4fae-4d23-afb1-6350be1da25c - - - - -] Updating volume status
+2016-02-25 21:39:31.756 2714 INFO cinder.volume.manager [req-3c8901ad-11a5-4491-9109-ffa6f7d07fbf - - - - -] Updating volume status
+2016-02-25 21:40:31.757 2714 INFO cinder.volume.manager [req-d89eafb9-0743-4966-b205-a424456714ab - - - - -] Updating volume status
+2016-02-25 21:41:31.761 2714 INFO cinder.volume.manager [req-86f8408f-968e-40ce-81eb-6273cd6bca07 - - - - -] Updating volume status
+2016-02-25 21:42:31.755 2714 INFO cinder.volume.manager [req-138b945a-94dc-4925-944a-0ceed5a81078 - - - - -] Updating volume status
+2016-02-25 21:43:23.114 2714 INFO cinder.volume.targets.lio [req-444fa70c-507f-4307-bb38-00eb5f56b9f6 e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Removing iscsi_target: c7aefb56-5fab-4422-ae58-cb53cfeebb74
+2016-02-25 21:43:31.759 2714 INFO cinder.volume.manager [req-07d143a6-64a3-4940-a94d-cc696fa35b1b - - - - -] Updating volume status
+2016-02-25 21:44:18.614 2714 INFO cinder.volume.flows.manager.create_volume [req-55ac5662-30b4-48e2-9c5b-2a1495860d4a e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Volume 36a6729c-5fbc-43fc-9f52-a1ee88425f16: being created as image with specification: {'status': u'creating', 'image_location': (None, None), 'volume_size': 2, 'volume_name': u'volume-36a6729c-5fbc-43fc-9f52-a1ee88425f16', 'image_id': u'9535cff0-1980-4ac8-a702-a3b6234c88dd', 'image_service': <cinder.image.glance.GlanceImageService object at 0x40ce150>, 'image_meta': {'status': u'active', 'name': u'cirros_alpha', 'deleted': False, 'container_format': u'bare', 'created_at': datetime.datetime(2016, 2, 25, 20, 49, 16, tzinfo=<iso8601.iso8601.Utc object at 0x3f9de90>), 'disk_format': u'qcow2', 'updated_at': datetime.datetime(2016, 2, 25, 20, 49, 16, tzinfo=<iso8601.iso8601.Utc object at 0x3f9de90>), 'id': u'9535cff0-1980-4ac8-a702-a3b6234c88dd', 'owner': u'300b2cc45c3846939e589310ae714e46', 'min_ram': 0, 'checksum': None, 'min_disk': 0, 'is_public': True, 'deleted_at': None, 'properties': {}, 'size': 13287936}}
+2016-02-25 21:44:31.763 2714 INFO cinder.volume.manager [req-f3ae2568-c08a-4ad6-8a05-c3c7417a2af1 - - - - -] Updating volume status
+2016-02-25 21:44:35.054 2714 INFO cinder.image.image_utils [req-55ac5662-30b4-48e2-9c5b-2a1495860d4a e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Image download 12.00 MB at 0.79 MB/s
+2016-02-25 21:44:36.434 2714 INFO cinder.image.image_utils [req-55ac5662-30b4-48e2-9c5b-2a1495860d4a e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Converted 12.00 MB image at 12.00 MB/s
+2016-02-25 21:44:37.292 2714 INFO cinder.volume.flows.manager.create_volume [req-55ac5662-30b4-48e2-9c5b-2a1495860d4a e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Volume volume-36a6729c-5fbc-43fc-9f52-a1ee88425f16 (36a6729c-5fbc-43fc-9f52-a1ee88425f16): created successfully
+2016-02-25 21:44:39.066 2714 INFO cinder.volume.targets.lio [req-704cfd3c-d483-4b96-9416-7e9ff0db5c7a e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Creating iscsi_target for volume: volume-36a6729c-5fbc-43fc-9f52-a1ee88425f16
+2016-02-25 21:45:31.763 2714 INFO cinder.volume.manager [req-9e2691a3-1ff8-407c-8251-d50c3f625e7f - - - - -] Updating volume status
+2016-02-25 21:46:10.249 2714 INFO cinder.volume.flows.manager.create_volume [req-3308a631-f21e-414c-99c5-f223a10aa79b 8b01dff85bb640f5ac72eb634117d3f1 802906d526ed42e8a5980f390847fa87 - - -] Volume 4c67fd2e-c8e7-4af4-832e-085b77e6d3a6: being created as raw with specification: {'status': u'creating', 'volume_size': 1, 'volume_name': u'volume-4c67fd2e-c8e7-4af4-832e-085b77e6d3a6'}
+2016-02-25 21:46:10.898 2714 INFO cinder.volume.flows.manager.create_volume [req-3308a631-f21e-414c-99c5-f223a10aa79b 8b01dff85bb640f5ac72eb634117d3f1 802906d526ed42e8a5980f390847fa87 - - -] Volume volume-4c67fd2e-c8e7-4af4-832e-085b77e6d3a6 (4c67fd2e-c8e7-4af4-832e-085b77e6d3a6): created successfully
+2016-02-25 21:46:31.759 2714 INFO cinder.volume.manager [req-83c52a89-9f9f-48a3-ab8a-49617e7133cc - - - - -] Updating volume status
+2016-02-25 21:46:41.740 2714 INFO cinder.volume.targets.lio [req-2c123f5e-c01f-4c74-bd1c-ad090d144e83 8b01dff85bb640f5ac72eb634117d3f1 802906d526ed42e8a5980f390847fa87 - - -] Creating iscsi_target for volume: volume-4c67fd2e-c8e7-4af4-832e-085b77e6d3a6
+2016-02-25 21:47:31.762 2714 INFO cinder.volume.manager [req-0444a9b7-8516-4b4a-ae0a-cbde8f32c636 - - - - -] Updating volume status
+2016-02-25 21:48:31.758 2714 INFO cinder.volume.manager [req-828193b6-57d8-46ad-b814-14e09f189ba5 - - - - -] Updating volume status
+2016-02-25 21:49:31.759 2714 INFO cinder.volume.manager [req-4dcaab5c-3d59-4f49-a646-4e62577e0fdd - - - - -] Updating volume status
+2016-02-25 21:49:46.428 2714 INFO cinder.volume.targets.lio [req-ea72651a-abfa-46f3-bc42-b3c3adb25043 8b01dff85bb640f5ac72eb634117d3f1 802906d526ed42e8a5980f390847fa87 - - -] Removing iscsi_target: 4c67fd2e-c8e7-4af4-832e-085b77e6d3a6
+2016-02-25 21:50:02.291 2714 INFO cinder.volume.targets.lio [req-2c255e77-2da3-40e5-a5d6-7ffb20acd7c8 8b01dff85bb640f5ac72eb634117d3f1 802906d526ed42e8a5980f390847fa87 - - -] Creating iscsi_target for volume: volume-4c67fd2e-c8e7-4af4-832e-085b77e6d3a6
+2016-02-25 21:50:31.760 2714 INFO cinder.volume.manager [req-aa5ec16a-019b-47e2-9e74-2e94a0498874 - - - - -] Updating volume status
+2016-02-25 21:51:31.761 2714 INFO cinder.volume.manager [req-f0a30397-d87b-4391-bf99-9cffae8663f9 - - - - -] Updating volume status
+2016-02-25 21:52:31.761 2714 INFO cinder.volume.manager [req-bb336e01-612a-4a39-8aeb-d1399b2a7abd - - - - -] Updating volume status
+2016-02-25 21:53:31.761 2714 INFO cinder.volume.manager [req-34bc114f-f0f0-43c9-8274-0cf888906c94 - - - - -] Updating volume status
+2016-02-25 21:53:58.413 2714 INFO cinder.volume.flows.manager.create_volume [req-c9a893b9-fd60-4bf4-bac9-c18b12aebabb 8b01dff85bb640f5ac72eb634117d3f1 802906d526ed42e8a5980f390847fa87 - - -] Volume 70d3bb8b-64bb-4c5f-906f-c2c799e2ae96: being created as raw with specification: {'status': u'creating', 'volume_size': 1, 'volume_name': u'volume-70d3bb8b-64bb-4c5f-906f-c2c799e2ae96'}
+2016-02-25 21:53:58.959 2714 INFO cinder.volume.flows.manager.create_volume [req-c9a893b9-fd60-4bf4-bac9-c18b12aebabb 8b01dff85bb640f5ac72eb634117d3f1 802906d526ed42e8a5980f390847fa87 - - -] Volume volume-70d3bb8b-64bb-4c5f-906f-c2c799e2ae96 (70d3bb8b-64bb-4c5f-906f-c2c799e2ae96): created successfully
+2016-02-25 21:54:31.763 2714 INFO cinder.volume.manager [req-491e5c9f-6795-4a4f-8f0f-c5963e097b8d - - - - -] Updating volume status
+2016-02-25 21:55:31.772 2714 INFO cinder.volume.manager [req-20b7ad34-d5bb-4bdc-9aa3-3e73f36f6d80 - - - - -] Updating volume status
+2016-02-25 21:56:31.765 2714 INFO cinder.volume.manager [req-d5e46bb8-d89c-4bbf-8bce-5bbb41b867d9 - - - - -] Updating volume status
+2016-02-25 21:57:31.767 2714 INFO cinder.volume.manager [req-929cba64-35a2-4330-9cb9-1df9dea6e9ac - - - - -] Updating volume status
+2016-02-25 21:58:31.766 2714 INFO cinder.volume.manager [req-d547fcdc-1559-44cf-97ad-51cd0e96a30d - - - - -] Updating volume status
+2016-02-25 21:59:31.764 2714 INFO cinder.volume.manager [req-43f70c8e-3b85-421a-8f0b-d9ebd8840934 - - - - -] Updating volume status
+2016-02-25 22:00:31.763 2714 INFO cinder.volume.manager [req-67bb127b-7dcb-496d-a78d-2d67d508a74e - - - - -] Updating volume status
+2016-02-25 22:00:45.917 2714 INFO cinder.volume.targets.lio [req-1005d77c-57b8-428f-8910-3c84af307a68 8b01dff85bb640f5ac72eb634117d3f1 802906d526ed42e8a5980f390847fa87 - - -] Creating iscsi_target for volume: volume-70d3bb8b-64bb-4c5f-906f-c2c799e2ae96
+2016-02-25 22:01:31.761 2714 INFO cinder.volume.manager [req-c084f57b-939e-4534-87b1-d7f8921d6b86 - - - - -] Updating volume status
+2016-02-25 22:02:31.767 2714 INFO cinder.volume.manager [req-dcc8012d-63bd-4322-a9dc-c7cf25b0bb35 - - - - -] Updating volume status
+2016-02-25 22:03:31.764 2714 INFO cinder.volume.manager [req-537a056a-3f6e-4637-91e3-c6378c1ed727 - - - - -] Updating volume status
+2016-02-25 22:04:31.773 2714 INFO cinder.volume.manager [req-58b8f7d6-c1bc-4f38-b7f0-acf795cb15b8 - - - - -] Updating volume status
+2016-02-25 22:05:31.770 2714 INFO cinder.volume.manager [req-03022266-7220-48eb-9468-884b38f17484 - - - - -] Updating volume status
+2016-02-25 22:06:31.768 2714 INFO cinder.volume.manager [req-b235554f-611f-442e-8538-057a575e536c - - - - -] Updating volume status
+2016-02-25 22:06:44.692 2714 INFO cinder.volume.targets.lio [req-e932f3f9-6bb9-4e82-9041-37567f19ff01 8b01dff85bb640f5ac72eb634117d3f1 802906d526ed42e8a5980f390847fa87 - - -] Removing iscsi_target: 70d3bb8b-64bb-4c5f-906f-c2c799e2ae96
+2016-02-25 22:07:15.160 2714 INFO cinder.volume.manager [req-d6073c36-4727-40b4-a4a5-c5b8a6e596de e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] volume 70d3bb8b-64bb-4c5f-906f-c2c799e2ae96: deleting
+2016-02-25 22:07:15.651 2714 INFO cinder.volume.targets.iscsi [req-d6073c36-4727-40b4-a4a5-c5b8a6e596de e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Skipping remove_export. No iscsi_target is presently exported for volume: 70d3bb8b-64bb-4c5f-906f-c2c799e2ae96
+2016-02-25 22:07:16.242 2714 INFO cinder.volume.utils [req-d6073c36-4727-40b4-a4a5-c5b8a6e596de e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Performing secure delete on volume: /dev/mapper/cinder--volumes-volume--70d3bb8b--64bb--4c5f--906f--c2c799e2ae96
+2016-02-25 22:07:25.763 2714 INFO cinder.volume.utils [req-d6073c36-4727-40b4-a4a5-c5b8a6e596de e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Volume copy 1024.00 MB at 112.55 MB/s
+2016-02-25 22:07:26.199 2714 INFO cinder.volume.drivers.lvm [req-d6073c36-4727-40b4-a4a5-c5b8a6e596de e9483918caa940a48fe882ba092c7e0b 300b2cc45c3846939e589310ae714e46 - - -] Successfully deleted volume: 70d3bb8b-64bb-4c5f-906f-c2c799e2ae96
+2016-02-25 22:07:26.309 2714 INFO cinder.volume.manager [req-bcd41c09-e6fb-40ba-b741-84b360e35d12 - - - - -] volume 70d3bb8b-64bb-4c5f-906f-c2c799e2ae96: deleted successfully
+2016-02-25 22:07:26.332 2714 INFO cinder.volume.manager [req-bcd41c09-e6fb-40ba-b741-84b360e35d12 - - - - -] Updating volume status
+2016-02-25 22:07:31.764 2714 INFO cinder.volume.manager [req-90fdc20f-6253-4152-a9b7-08e15e8eb3fc - - - - -] Updating volume status
+2016-02-25 22:08:31.772 2714 INFO cinder.volume.manager [req-ce59ad62-f9c6-4b42-9bc9-c8cf90963068 - - - - -] Updating volume status
+2016-02-25 22:09:31.772 2714 INFO cinder.volume.manager [req-2e37cad2-16c5-4e2c-abab-d6034ff5582a - - - - -] Updating volume status
+2016-02-25 22:10:31.769 2714 INFO cinder.volume.manager [req-27b2178b-7d99-4b99-8db2-cbb452e834e4 - - - - -] Updating volume status
+2016-02-25 22:11:31.777 2714 INFO cinder.volume.manager [req-c80a6d97-bc8e-4c4c-b7c6-f0c0f8d6421e - - - - -] Updating volume status
+2016-02-25 22:12:31.776 2714 INFO cinder.volume.manager [req-e301a215-5b8e-47f8-a0b3-41313d4934be - - - - -] Updating volume status
+2016-02-25 22:13:31.777 2714 INFO cinder.volume.manager [req-86f43a62-b4f8-47b6-a76f-14bb86b089ba - - - - -] Updating volume status
+2016-02-25 22:14:31.773 2714 INFO cinder.volume.manager [req-99911121-533c-4321-acae-21a8a6eaee75 - - - - -] Updating volume status
+2016-02-25 22:15:31.773 2714 INFO cinder.volume.manager [req-7d0a990b-ba5f-4165-9827-c143d09bbbc1 - - - - -] Updating volume status
+2016-02-25 22:16:31.771 2714 INFO cinder.volume.manager [req-c0ffda71-12d9-484d-a2ff-ce8394716b68 - - - - -] Updating volume status
+2016-02-25 22:17:31.778 2714 INFO cinder.volume.manager [req-336a25a8-0829-442d-b5cf-1723fbe20101 - - - - -] Updating volume status
+2016-02-25 22:18:31.774 2714 INFO cinder.volume.manager [req-0bf887cf-62a6-4ae4-bf04-6f9bf6cbdb02 - - - - -] Updating volume status
+2016-02-25 22:19:31.779 2714 INFO cinder.volume.manager [req-2d0cf443-c964-41f4-bd98-f149e6c29b62 - - - - -] Updating volume status
+2016-02-25 22:20:31.773 2714 INFO cinder.volume.manager [req-fbd690e1-4a5e-411b-8bed-59f1b5957fb1 - - - - -] Updating volume status
+2016-02-25 22:21:31.779 2714 INFO cinder.volume.manager [req-48999b37-4e24-4d1b-98a4-364424758bdf - - - - -] Updating volume status
+2016-02-25 22:22:31.783 2714 INFO cinder.volume.manager [req-a17b782e-b8a3-4e0f-b4e4-e0e0e284aa28 - - - - -] Updating volume status
+2016-02-25 22:23:31.782 2714 INFO cinder.volume.manager [req-49fa4845-7050-487b-8627-6965f89ccb12 - - - - -] Updating volume status
+2016-02-25 22:24:31.783 2714 INFO cinder.volume.manager [req-c56d914e-bf70-48c5-9ca9-5e0476ab62e7 - - - - -] Updating volume status
+2016-02-25 22:25:31.780 2714 INFO cinder.volume.manager [req-919653b5-99dd-4c04-aaa0-c05209890115 - - - - -] Updating volume status
+2016-02-25 22:26:31.778 2714 INFO cinder.volume.manager [req-6ff632bd-039f-4191-a25d-b3fb1cf5a957 - - - - -] Updating volume status
+2016-02-25 22:27:31.787 2714 INFO cinder.volume.manager [req-a8f071d4-4ccd-4fef-a23c-8c2393e1aff9 - - - - -] Updating volume status
+2016-02-25 22:28:31.784 2714 INFO cinder.volume.manager [req-516bbb4a-7b00-43e3-82a6-9d3d025a13df - - - - -] Updating volume status
+2016-02-25 22:29:31.783 2714 INFO cinder.volume.manager [req-4c16f4ad-b24f-4e28-98eb-2e49c2b8aa15 - - - - -] Updating volume status
+2016-02-25 22:30:31.787 2714 INFO cinder.volume.manager [req-bd3a04ca-e123-43dd-92bf-cad823a3a54a - - - - -] Updating volume status
+2016-02-25 22:32:31.782 2714 INFO cinder.volume.manager [req-f6314d44-4b25-41c0-9712-2d665c43ebb7 - - - - -] Updating volume status
+2016-02-25 22:33:31.785 2714 INFO cinder.volume.manager [req-1a00142f-77ac-4366-8d56-c90fcff6b6f4 - - - - -] Updating volume status
+2016-02-25 22:34:31.784 2714 INFO cinder.volume.manager [req-41b2fad5-28f2-4160-9a2e-7715f2fd1c8a - - - - -] Updating volume status
+2016-02-25 22:35:31.785 2714 INFO cinder.volume.manager [req-93e23687-722d-46e4-9226-70aed93fbf1b - - - - -] Updating volume status
+2016-02-25 22:36:31.784 2714 INFO cinder.volume.manager [req-5ba6633c-c2bd-4697-8f36-bbadd9715f67 - - - - -] Updating volume status
+2016-02-25 22:37:31.787 2714 INFO cinder.volume.manager [req-d109db60-d18f-4fd2-9ad1-bd59dc19fb69 - - - - -] Updating volume status
+2016-02-25 22:38:31.789 2714 INFO cinder.volume.manager [req-f3aadcee-9693-48e3-bc8c-7b2260f2714a - - - - -] Updating volume status
+2016-02-25 22:39:31.787 2714 INFO cinder.volume.manager [req-654eb0e4-09f2-4b8d-9efa-a1500d33504d - - - - -] Updating volume status
+2016-02-25 22:40:31.789 2714 INFO cinder.volume.manager [req-e186168c-1935-4cd2-a8a2-999c95926ce1 - - - - -] Updating volume status
+2016-02-25 22:41:31.790 2714 INFO cinder.volume.manager [req-9794f629-4df2-49c1-8442-f388bc422776 - - - - -] Updating volume status
+2016-02-25 22:42:31.788 2714 INFO cinder.volume.manager [req-de94eae2-0f3b-4bc7-8c80-dc9850205bcf - - - - -] Updating volume status
+2016-02-25 22:43:31.786 2714 INFO cinder.volume.manager [req-2bcd379e-f13a-4018-96dc-a7c88e077922 - - - - -] Updating volume status
+2016-02-25 22:44:31.792 2714 INFO cinder.volume.manager [req-d7d64745-d0e7-4f16-a295-08f326ec0f84 - - - - -] Updating volume status
+2016-02-25 22:45:31.792 2714 INFO cinder.volume.manager [req-055be8e6-a622-4ab3-b5ed-4659976d1c67 - - - - -] Updating volume status
+2016-02-25 22:46:31.786 2714 INFO cinder.volume.manager [req-71af0e17-6776-45a9-b33f-41b9dc3158ff - - - - -] Updating volume status
+2016-02-25 22:47:31.789 2714 INFO cinder.volume.manager [req-ebe8e302-d623-4bfd-8abe-3b6b9ca064ec - - - - -] Updating volume status
+2016-02-25 22:48:31.788 2714 INFO cinder.volume.manager [req-c2ac638e-abe7-4def-9c6e-e6a3ac446a5f - - - - -] Updating volume status
+2016-02-25 22:49:31.789 2714 INFO cinder.volume.manager [req-7b184822-326d-4191-b6d1-6b0923e5c753 - - - - -] Updating volume status
+2016-02-25 22:50:31.789 2714 INFO cinder.volume.manager [req-0e0ca103-0398-4ce9-bf54-6e6f8c2e0312 - - - - -] Updating volume status
+2016-02-25 22:51:31.791 2714 INFO cinder.volume.manager [req-3891af7d-2028-46e8-9493-7ecd8162327e - - - - -] Updating volume status
+2016-02-25 22:52:31.792 2714 INFO cinder.volume.manager [req-0d9fe271-7c22-4232-b6b8-daca5dc95bbd - - - - -] Updating volume status
+2016-02-25 22:53:31.789 2714 INFO cinder.volume.manager [req-f18711d3-9156-4260-877e-aaa82af5cdbb - - - - -] Updating volume status
+2016-02-25 22:54:31.794 2714 INFO cinder.volume.manager [req-c237f95e-b1b3-44ea-ba63-4b7f4a7cbfb6 - - - - -] Updating volume status
+2016-02-25 22:55:31.795 2714 INFO cinder.volume.manager [req-ed330f64-95a9-4fe5-99a8-059dba160307 - - - - -] Updating volume status
+2016-02-25 22:56:31.803 2714 INFO cinder.volume.manager [req-35b1027f-cc57-488d-883f-b1f91d0a31e6 - - - - -] Updating volume status
+2016-02-25 22:57:31.796 2714 INFO cinder.volume.manager [req-63ec570c-b7e4-4e27-bef0-a055f3d52a7b - - - - -] Updating volume status
+2016-02-25 22:58:31.805 2714 INFO cinder.volume.manager [req-94047dd9-3969-42c1-babb-83d1b68560fc - - - - -] Updating volume status
+2016-02-25 22:59:31.799 2714 INFO cinder.volume.manager [req-b09311e3-e6ef-4fe9-827d-2f2ee128a1ea - - - - -] Updating volume status
+2016-02-25 23:00:31.805 2714 INFO cinder.volume.manager [req-70467e28-98d2-4820-a788-57726f63013a - - - - -] Updating volume status
+2016-02-25 23:01:31.798 2714 INFO cinder.volume.manager [req-d8d7b659-a972-4520-83fb-eb955452ac67 - - - - -] Updating volume status
+2016-02-25 23:02:31.796 2714 INFO cinder.volume.manager [req-ff4d9a66-ddec-4c13-a61a-aef053aef9db - - - - -] Updating volume status
+2016-02-25 23:03:31.798 2714 INFO cinder.volume.manager [req-0cb78a11-5ad7-4eb2-b24e-79bf81e689f3 - - - - -] Updating volume status
+2016-02-25 23:04:31.804 2714 INFO cinder.volume.manager [req-a637d4b6-20c7-4d51-b367-382e697d0737 - - - - -] Updating volume status
+2016-02-25 23:05:31.798 2714 INFO cinder.volume.manager [req-120a20df-bbe5-4d65-8154-88a822678070 - - - - -] Updating volume status
+2016-02-25 23:06:31.801 2714 INFO cinder.volume.manager [req-2a4b07e6-bc0c-42eb-a270-5795ac064346 - - - - -] Updating volume status
+2016-02-25 23:07:31.802 2714 INFO cinder.volume.manager [req-16c421fb-5486-4d74-854d-31170ece2229 - - - - -] Updating volume status
+2016-02-25 23:08:31.805 2714 INFO cinder.volume.manager [req-9657980d-34d4-4dcd-9aae-1e44b7933400 - - - - -] Updating volume status
+2016-02-25 23:09:31.801 2714 INFO cinder.volume.manager [req-5391f668-6399-42c9-9c64-f5a55de9a787 - - - - -] Updating volume status
+2016-02-25 23:10:31.806 2714 INFO cinder.volume.manager [req-25558f13-bd2f-43b8-bea9-e4e70259b6af - - - - -] Updating volume status
+2016-02-25 23:11:31.802 2714 INFO cinder.volume.manager [req-6b09547e-6074-4469-b261-61325c4f3ad6 - - - - -] Updating volume status
+2016-02-25 23:12:31.809 2714 INFO cinder.volume.manager [req-51b52a8e-ea28-4d9e-9dd0-1724dd47845c - - - - -] Updating volume status
+2016-02-25 23:13:31.812 2714 INFO cinder.volume.manager [req-9e8e017b-7b0b-4dac-a9f9-e34456061a22 - - - - -] Updating volume status
+2016-02-25 23:14:31.803 2714 INFO cinder.volume.manager [req-b453f6a8-279d-417f-a74d-fde80ec22991 - - - - -] Updating volume status
+2016-02-25 23:15:31.793 2714 INFO cinder.volume.manager [req-f8725b99-83fb-4f1f-affb-413d17b718de - - - - -] Updating volume status
+2016-02-25 23:16:31.814 2714 INFO cinder.volume.manager [req-7d175694-9adb-4827-b66e-36bf60eee78f - - - - -] Updating volume status
+2016-02-25 23:17:31.806 2714 INFO cinder.volume.manager [req-4f81aad9-4c70-4d49-a9dd-388a4bb7e7d9 - - - - -] Updating volume status
+2016-02-25 23:18:31.811 2714 INFO cinder.volume.manager [req-eac77c64-e7ff-48fa-ae92-8567a80f3e7f - - - - -] Updating volume status
+2016-02-25 23:19:31.810 2714 INFO cinder.volume.manager [req-c46b63b2-2c40-4b11-834d-e0635cb4b643 - - - - -] Updating volume status
+2016-02-25 23:20:31.809 2714 INFO cinder.volume.manager [req-ab671022-cc87-4896-82bd-8572f62bef59 - - - - -] Updating volume status
+2016-02-25 23:21:31.811 2714 INFO cinder.volume.manager [req-72d022a8-c108-4c3d-83f2-0e039138e8b8 - - - - -] Updating volume status
+2016-02-25 23:23:31.803 2714 INFO cinder.volume.manager [req-59a54b83-e749-4e15-96bc-32d4b06f8b82 - - - - -] Updating volume status
+2016-02-25 23:24:31.810 2714 INFO cinder.volume.manager [req-e5818983-2831-4ce4-9aa0-d422653e766f - - - - -] Updating volume status
+2016-02-25 23:25:31.811 2714 INFO cinder.volume.manager [req-28f1a7dc-3349-460a-a489-fbc9b28ce408 - - - - -] Updating volume status
+2016-02-25 23:26:31.809 2714 INFO cinder.volume.manager [req-653c1957-60b7-42ae-90d3-05e727e6e0db - - - - -] Updating volume status
+2016-02-25 23:27:31.810 2714 INFO cinder.volume.manager [req-a04b66b6-820d-49e5-b014-19b56f0720c6 - - - - -] Updating volume status
+2016-02-25 23:28:31.810 2714 INFO cinder.volume.manager [req-e305f25d-afd3-4861-b898-a20828f01cc4 - - - - -] Updating volume status
+2016-02-25 23:29:31.811 2714 INFO cinder.volume.manager [req-d1ca3f50-7deb-4065-8382-5a66f3452ff9 - - - - -] Updating volume status
+2016-02-25 23:30:31.815 2714 INFO cinder.volume.manager [req-e78f311c-391d-4080-83a4-8c23c042b346 - - - - -] Updating volume status
+2016-02-25 23:31:31.821 2714 INFO cinder.volume.manager [req-f4c2554c-9941-4e00-b639-2d1f2c14ae29 - - - - -] Updating volume status
+2016-02-25 23:32:31.812 2714 INFO cinder.volume.manager [req-d0ff20e4-ce7f-4ebb-acd4-7c75292ae143 - - - - -] Updating volume status
+2016-02-25 23:33:31.815 2714 INFO cinder.volume.manager [req-ada59b95-a73d-4f53-acf1-7d227234ae8a - - - - -] Updating volume status
+2016-02-25 23:34:31.812 2714 INFO cinder.volume.manager [req-2798ec52-129b-4b37-bf78-f60974b759c9 - - - - -] Updating volume status
+2016-02-25 23:35:31.816 2714 INFO cinder.volume.manager [req-f57d8ea3-4e41-409c-b394-a1c016c6b758 - - - - -] Updating volume status
+2016-02-25 23:36:31.814 2714 INFO cinder.volume.manager [req-9d0d5ac5-ba0d-4002-a791-35e5a654365e - - - - -] Updating volume status
+2016-02-25 23:37:31.814 2714 INFO cinder.volume.manager [req-0b42bf32-c269-4655-86b8-e6962388554b - - - - -] Updating volume status
+2016-02-25 23:38:31.821 2714 INFO cinder.volume.manager [req-d09601e0-2bf2-4ee3-9fb3-fbc43dce6e8e - - - - -] Updating volume status
+2016-02-25 23:39:31.819 2714 INFO cinder.volume.manager [req-47083913-5a47-451f-97f1-0214b4db8769 - - - - -] Updating volume status
+2016-02-25 23:40:31.814 2714 INFO cinder.volume.manager [req-0e740bbc-1b3e-4eaf-b789-058eef9a0d60 - - - - -] Updating volume status
+2016-02-25 23:41:31.815 2714 INFO cinder.volume.manager [req-cfd1ea55-47dc-434a-9053-7e2cb7f06f72 - - - - -] Updating volume status
+2016-02-25 23:42:31.819 2714 INFO cinder.volume.manager [req-20e65186-8483-4a2a-86a9-e02fa016abb1 - - - - -] Updating volume status
+2016-02-25 23:43:31.816 2714 INFO cinder.volume.manager [req-3ee1ef33-f1e1-4e20-a0e2-021bafc477f5 - - - - -] Updating volume status
+2016-02-25 23:44:31.821 2714 INFO cinder.volume.manager [req-fa36d294-8df5-4b3c-9677-745c37b8df4e - - - - -] Updating volume status
+2016-02-25 23:45:31.817 2714 INFO cinder.volume.manager [req-385d2526-c93e-4849-80b0-194118dcfa24 - - - - -] Updating volume status
+2016-02-25 23:46:31.815 2714 INFO cinder.volume.manager [req-26884337-1050-42db-bb97-839dbd3c00ef - - - - -] Updating volume status
+2016-02-25 23:47:31.820 2714 INFO cinder.volume.manager [req-bdf46a60-36d9-4efa-81d3-4dd8ed62001d - - - - -] Updating volume status
+2016-02-25 23:48:31.821 2714 INFO cinder.volume.manager [req-ebd7e501-e546-4051-b56b-92cb04014fb1 - - - - -] Updating volume status
+2016-02-25 23:49:31.821 2714 INFO cinder.volume.manager [req-da79ada4-4efb-40d7-906d-70c7075e8905 - - - - -] Updating volume status
+2016-02-25 23:50:31.824 2714 INFO cinder.volume.manager [req-53545a75-a865-47ec-a918-6b7ba8b06b99 - - - - -] Updating volume status
+2016-02-25 23:51:31.830 2714 INFO cinder.volume.manager [req-79aabc5e-ac02-4e39-8f68-0d26e676c5b3 - - - - -] Updating volume status
+2016-02-25 23:52:31.824 2714 INFO cinder.volume.manager [req-95c98d54-4ba9-4f58-aedd-2f8bb1967d9a - - - - -] Updating volume status
+2016-02-25 23:53:31.824 2714 INFO cinder.volume.manager [req-11ab00ff-002a-47ef-bd7a-b763af712d9c - - - - -] Updating volume status
+2016-02-25 23:54:31.820 2714 INFO cinder.volume.manager [req-42bd1249-4ced-450c-a64c-1f5ac5a58dc0 - - - - -] Updating volume status
+2016-02-25 23:55:31.823 2714 INFO cinder.volume.manager [req-cdaab41e-e3b9-47cf-beca-f67e53433c52 - - - - -] Updating volume status
+2016-02-25 23:56:31.828 2714 INFO cinder.volume.manager [req-feb36c89-45f8-40e6-a1bc-8e18faacc383 - - - - -] Updating volume status
+2016-02-25 23:57:31.827 2714 INFO cinder.volume.manager [req-70480c28-baf2-42a5-b3e5-f8592d879f5b - - - - -] Updating volume status
+2016-02-25 23:58:31.825 2714 INFO cinder.volume.manager [req-78170408-0f31-446f-9168-707625143aad - - - - -] Updating volume status
+2016-02-25 23:59:31.825 2714 INFO cinder.volume.manager [req-6c6aa1f9-e71f-4521-abb7-e9ff8a9284f5 - - - - -] Updating volume status
+2016-02-26 00:00:31.827 2714 INFO cinder.volume.manager [req-80a5374d-518d-4d73-81d3-cb93055e7f5e - - - - -] Updating volume status
+2016-02-26 00:01:31.831 2714 INFO cinder.volume.manager [req-7a2d620e-70d0-4cb5-ac87-ac00b31e49cd - - - - -] Updating volume status
+2016-02-26 00:02:02.848 1023 INFO cinder.openstack.common.service [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Caught SIGTERM, stopping children
+2016-02-26 00:02:02.897 1023 INFO cinder.openstack.common.service [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Waiting on 1 children to exit
+2016-02-26 00:02:03.565 1023 INFO cinder.openstack.common.service [req-b0819201-3dc2-451d-9f99-8a5905c2c9a9 - - - - -] Child 2714 killed by signal 15
+2016-02-26 14:48:04.060 1044 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 10 attempts left.
+2016-02-26 14:48:14.124 1044 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 9 attempts left.
+2016-02-26 14:48:24.665 1044 INFO cinder.volume.manager [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Determined volume DB was not empty at startup.
+2016-02-26 14:48:24.712 1044 WARNING cinder.volume.targets.lio [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] The lio_initiator_iqns option has been deprecated and no longer has any effect.
+2016-02-26 14:48:25.158 1044 INFO cinder.openstack.common.service [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Starting 1 workers
+2016-02-26 14:48:25.190 1044 INFO cinder.openstack.common.service [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Started child 2686
+2016-02-26 14:48:25.219 2686 INFO cinder.service [-] Starting cinder-volume node (version 2015.1.0)
+2016-02-26 14:48:25.242 2686 INFO cinder.volume.manager [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Starting volume driver LVMVolumeDriver (3.0.0)
+2016-02-26 14:48:25.247 1044 WARNING oslo_config.cfg [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:25.250 1044 WARNING oslo_config.cfg [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:25.251 1044 WARNING oslo_config.cfg [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:25.253 1044 WARNING oslo_config.cfg [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:25.254 1044 WARNING oslo_config.cfg [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:25.256 1044 WARNING oslo_config.cfg [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:25.257 1044 WARNING oslo_config.cfg [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:25.258 1044 WARNING oslo_config.cfg [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:25.263 1044 WARNING oslo_config.cfg [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Option "lock_path" from group "DEFAULT" is deprecated. Use option "lock_path" from group "oslo_concurrency".
+2016-02-26 14:48:26.678 2686 INFO cinder.volume.targets.lio [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Creating iscsi_target for volume: volume-4c67fd2e-c8e7-4af4-832e-085b77e6d3a6
+2016-02-26 14:48:29.629 2686 INFO cinder.volume.targets.lio [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Creating iscsi_target for volume: volume-36a6729c-5fbc-43fc-9f52-a1ee88425f16
+2016-02-26 14:48:31.375 2686 INFO cinder.volume.manager [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Updating volume status
+2016-02-26 14:48:32.137 2686 WARNING oslo_config.cfg [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:32.140 2686 WARNING oslo_config.cfg [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:32.141 2686 WARNING oslo_config.cfg [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:32.142 2686 WARNING oslo_config.cfg [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:32.143 2686 WARNING oslo_config.cfg [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:32.147 2686 WARNING oslo_config.cfg [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-26 14:48:32.205 2686 INFO oslo_messaging._drivers.impl_rabbit [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-26 14:48:32.234 2686 INFO oslo_messaging._drivers.impl_rabbit [req-35bbb494-e6f2-4bb1-b222-37006bb3b5e2 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-26 14:48:33.107 2686 INFO oslo_messaging._drivers.impl_rabbit [req-05fd0110-c472-45a5-ac24-b795ded7217a - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-26 14:48:33.187 2686 INFO oslo_messaging._drivers.impl_rabbit [req-05fd0110-c472-45a5-ac24-b795ded7217a - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-26 14:48:33.190 2686 WARNING oslo_config.cfg [req-05fd0110-c472-45a5-ac24-b795ded7217a - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-26 14:49:21.341 2686 INFO cinder.volume.manager [req-39e03b82-223c-4286-a59a-b8eab8757398 - - - - -] Updating volume status
+2016-02-26 14:50:21.344 2686 INFO cinder.volume.manager [req-9715baf0-8105-4c33-8bfb-33151c651027 - - - - -] Updating volume status
+2016-02-26 14:51:21.343 2686 INFO cinder.volume.manager [req-3ddc436b-e519-495f-b549-f88871bd72f5 - - - - -] Updating volume status
+2016-02-26 14:52:21.338 2686 INFO cinder.volume.manager [req-8f3ad723-91ea-4755-a7eb-ac8ebc3cf168 - - - - -] Updating volume status
+2016-02-26 14:53:21.342 2686 INFO cinder.volume.manager [req-73f6f961-29d9-4df1-9fa5-084081914a0a - - - - -] Updating volume status
+2016-02-26 14:54:21.345 2686 INFO cinder.volume.manager [req-63bd6f62-304b-48a5-a803-ab1578f4aeb1 - - - - -] Updating volume status
+2016-02-26 14:55:21.341 2686 INFO cinder.volume.manager [req-a813d43f-b4a5-444b-bba8-a87658acae96 - - - - -] Updating volume status
+2016-02-26 14:56:21.345 2686 INFO cinder.volume.manager [req-41b4836c-2a8a-4458-8f05-f24508432913 - - - - -] Updating volume status
+2016-02-26 14:57:21.341 2686 INFO cinder.volume.manager [req-d403c3b6-390c-4b8c-ad87-84bbcf93b054 - - - - -] Updating volume status
+2016-02-26 14:58:21.349 2686 INFO cinder.volume.manager [req-dce4b58b-95cd-47fd-ab9a-3dacbf1076db - - - - -] Updating volume status
+2016-02-26 14:59:21.348 2686 INFO cinder.volume.manager [req-0a6fdce0-60d3-40ab-8cb5-91712df992c2 - - - - -] Updating volume status
+2016-02-26 15:00:21.342 2686 INFO cinder.volume.manager [req-3520f9ef-1907-400c-88e9-080848f3edd1 - - - - -] Updating volume status
+2016-02-26 15:01:21.343 2686 INFO cinder.volume.manager [req-3043e8f1-b333-4018-83d6-e9c266ba2d97 - - - - -] Updating volume status
+2016-02-26 15:02:21.346 2686 INFO cinder.volume.manager [req-c68b7645-37d3-4886-9666-a378e2eb32e3 - - - - -] Updating volume status
+2016-02-26 15:03:21.343 2686 INFO cinder.volume.manager [req-c56701de-2a18-4d3e-a36a-3109feb4247b - - - - -] Updating volume status
+2016-02-26 15:04:21.343 2686 INFO cinder.volume.manager [req-5ad5a30e-c5ab-4d8a-8b96-df83d9eeee7b - - - - -] Updating volume status
+2016-02-26 15:05:21.348 2686 INFO cinder.volume.manager [req-6ff6bcfa-39b6-4436-80f2-b4ec69330113 - - - - -] Updating volume status
+2016-02-26 15:06:21.344 2686 INFO cinder.volume.manager [req-da3ea807-c887-450c-9d31-54fdf7866bc4 - - - - -] Updating volume status
+2016-02-26 15:07:21.347 2686 INFO cinder.volume.manager [req-44db037d-b7d9-434d-b7e0-e4b70134c58c - - - - -] Updating volume status
+2016-02-26 15:08:21.350 2686 INFO cinder.volume.manager [req-8fcc9c91-351c-4222-aa8d-e5dc2be9a7fc - - - - -] Updating volume status
+2016-02-26 15:09:21.348 2686 INFO cinder.volume.manager [req-6718dafb-1bba-4eb2-9046-02cc84b4c5b4 - - - - -] Updating volume status
+2016-02-26 15:10:21.347 2686 INFO cinder.volume.manager [req-9fcd97b2-3c24-4212-b650-9e335e735251 - - - - -] Updating volume status
+2016-02-26 15:11:21.347 2686 INFO cinder.volume.manager [req-d966fa57-f37d-44b9-bf87-81f319226beb - - - - -] Updating volume status
+2016-02-26 15:12:21.352 2686 INFO cinder.volume.manager [req-fa89299f-cf3f-4eb8-84cf-f8f60c93efd7 - - - - -] Updating volume status
+2016-02-26 15:13:21.353 2686 INFO cinder.volume.manager [req-60ed5a8a-80c7-49cd-af85-63d495c4f115 - - - - -] Updating volume status
+2016-02-26 15:14:21.356 2686 INFO cinder.volume.manager [req-c4f94b85-67fb-45d7-842d-329e81f4898d - - - - -] Updating volume status
+2016-02-26 15:15:21.376 2686 INFO cinder.volume.manager [req-1c13e389-f8d7-40f1-a6cd-ca4b7eca1f90 - - - - -] Updating volume status
+2016-02-26 15:16:21.367 2686 INFO cinder.volume.manager [req-e452df6b-c756-4cf4-935b-d638d57339f7 - - - - -] Updating volume status
+2016-02-26 15:17:21.363 2686 INFO cinder.volume.manager [req-1f2be10d-a397-458f-a48b-004245187800 - - - - -] Updating volume status
+2016-02-26 15:19:21.357 2686 INFO cinder.volume.manager [req-e88da882-faad-4118-94e7-813ba8669a1b - - - - -] Updating volume status
+2016-02-26 15:21:21.351 2686 INFO cinder.volume.manager [req-fbb7063d-7876-4c9c-a52c-a1443f7ec3a3 - - - - -] Updating volume status
+2016-02-26 15:22:21.355 2686 INFO cinder.volume.manager [req-e5462bbd-ae90-487c-8031-82096e583d4f - - - - -] Updating volume status
+2016-02-26 15:23:21.355 2686 INFO cinder.volume.manager [req-dcf85406-69b8-4e8f-af74-6dfd9f43fa97 - - - - -] Updating volume status
+2016-02-26 15:24:21.350 2686 INFO cinder.volume.manager [req-edc09acd-8d28-43d2-a382-231b9ee46c51 - - - - -] Updating volume status
+2016-02-26 15:25:21.359 2686 INFO cinder.volume.manager [req-a412dfdc-852b-4393-96aa-441fb7c043d8 - - - - -] Updating volume status
+2016-02-26 15:26:21.359 2686 INFO cinder.volume.manager [req-5bc511f3-a271-43e7-b663-c25c2f9752e8 - - - - -] Updating volume status
+2016-02-26 15:27:21.355 2686 INFO cinder.volume.manager [req-637c2a91-e8d1-4579-b8a8-b11db8fe82c4 - - - - -] Updating volume status
+2016-02-26 15:28:21.357 2686 INFO cinder.volume.manager [req-4ae9435f-7af5-417c-ab60-0e5d27297b50 - - - - -] Updating volume status
+2016-02-26 15:29:21.359 2686 INFO cinder.volume.manager [req-0b62d06c-eb03-4f35-9c6e-6cdde58220dc - - - - -] Updating volume status
+2016-02-26 15:30:21.361 2686 INFO cinder.volume.manager [req-074d6b3e-834a-4924-ad86-a268d686f2d4 - - - - -] Updating volume status
+2016-02-26 15:31:21.358 2686 INFO cinder.volume.manager [req-cdd305ab-b08b-4321-a459-87bbab593a02 - - - - -] Updating volume status
+2016-02-26 15:32:21.360 2686 INFO cinder.volume.manager [req-0840488a-301f-421e-9bbf-eb732cfcb6af - - - - -] Updating volume status
+2016-02-26 15:33:21.362 2686 INFO cinder.volume.manager [req-c2e1ab01-a063-49a4-aaa1-b09edde60d34 - - - - -] Updating volume status
+2016-02-26 15:34:21.364 2686 INFO cinder.volume.manager [req-94fd698d-cf37-49af-bc89-8a0f9404f322 - - - - -] Updating volume status
+2016-02-26 15:35:21.360 2686 INFO cinder.volume.manager [req-8779bbf9-59f1-4ae7-844c-2a0919699c52 - - - - -] Updating volume status
+2016-02-26 15:36:21.360 2686 INFO cinder.volume.manager [req-25dc5575-5bb0-43d1-8914-6e0d513bca65 - - - - -] Updating volume status
+2016-02-26 15:37:21.367 2686 INFO cinder.volume.manager [req-f7ac4a70-c4da-4f77-b7ef-33707bd4512a - - - - -] Updating volume status
+2016-02-26 15:38:21.364 2686 INFO cinder.volume.manager [req-338d2925-9dd8-4b10-bec7-1d6a051926c2 - - - - -] Updating volume status
+2016-02-26 15:39:21.373 2686 INFO cinder.volume.manager [req-5728e4d6-016c-45f8-be4b-c038bf58023f - - - - -] Updating volume status
+2016-02-26 15:40:21.365 2686 INFO cinder.volume.manager [req-cee933c7-01cd-4566-aec4-4267dedbe2aa - - - - -] Updating volume status
+2016-02-26 15:41:21.367 2686 INFO cinder.volume.manager [req-91953350-00de-46c6-916b-e58202ce4234 - - - - -] Updating volume status
+2016-02-26 15:42:01.561 1044 INFO cinder.openstack.common.service [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Caught SIGTERM, stopping children
+2016-02-26 15:42:01.568 1044 INFO cinder.openstack.common.service [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Waiting on 1 children to exit
+2016-02-26 15:42:02.125 1044 INFO cinder.openstack.common.service [req-4706bf6a-c2a3-4e46-9715-14f8455d6bf2 - - - - -] Child 2686 killed by signal 15
+2016-02-26 19:39:55.123 1042 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 10 attempts left.
+2016-02-26 19:40:05.160 1042 WARNING oslo_db.sqlalchemy.session [-] SQL connection failed. 9 attempts left.
+2016-02-26 19:40:15.543 1042 INFO cinder.volume.manager [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Determined volume DB was not empty at startup.
+2016-02-26 19:40:15.577 1042 WARNING cinder.volume.targets.lio [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] The lio_initiator_iqns option has been deprecated and no longer has any effect.
+2016-02-26 19:40:15.914 1042 INFO cinder.openstack.common.service [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Starting 1 workers
+2016-02-26 19:40:15.933 1042 INFO cinder.openstack.common.service [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Started child 2755
+2016-02-26 19:40:15.949 2755 INFO cinder.service [-] Starting cinder-volume node (version 2015.1.0)
+2016-02-26 19:40:15.967 2755 INFO cinder.volume.manager [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Starting volume driver LVMVolumeDriver (3.0.0)
+2016-02-26 19:40:15.995 1042 WARNING oslo_config.cfg [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:15.997 1042 WARNING oslo_config.cfg [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Option "rabbit_host" from group "DEFAULT" is deprecated. Use option "rabbit_host" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:15.998 1042 WARNING oslo_config.cfg [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:16.002 1042 WARNING oslo_config.cfg [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:16.004 1042 WARNING oslo_config.cfg [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:16.006 1042 WARNING oslo_config.cfg [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:16.007 1042 WARNING oslo_config.cfg [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:16.009 1042 WARNING oslo_config.cfg [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:16.029 1042 WARNING oslo_config.cfg [req-d4cad761-b227-4037-830c-603f862542f7 - - - - -] Option "lock_path" from group "DEFAULT" is deprecated. Use option "lock_path" from group "oslo_concurrency".
+2016-02-26 19:40:17.631 2755 INFO cinder.volume.targets.lio [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Creating iscsi_target for volume: volume-4c67fd2e-c8e7-4af4-832e-085b77e6d3a6
+2016-02-26 19:40:20.220 2755 INFO cinder.volume.targets.lio [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Creating iscsi_target for volume: volume-36a6729c-5fbc-43fc-9f52-a1ee88425f16
+2016-02-26 19:40:21.923 2755 INFO cinder.volume.manager [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Updating volume status
+2016-02-26 19:40:22.635 2755 WARNING oslo_config.cfg [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Option "rabbit_virtual_host" from group "DEFAULT" is deprecated. Use option "rabbit_virtual_host" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:22.637 2755 WARNING oslo_config.cfg [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Option "rabbit_hosts" from group "DEFAULT" is deprecated. Use option "rabbit_hosts" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:22.639 2755 WARNING oslo_config.cfg [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Option "rabbit_port" from group "DEFAULT" is deprecated. Use option "rabbit_port" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:22.646 2755 WARNING oslo_config.cfg [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Option "rabbit_userid" from group "DEFAULT" is deprecated. Use option "rabbit_userid" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:22.648 2755 WARNING oslo_config.cfg [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Option "rabbit_password" from group "DEFAULT" is deprecated. Use option "rabbit_password" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:22.650 2755 WARNING oslo_config.cfg [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Option "rabbit_use_ssl" from group "DEFAULT" is deprecated. Use option "rabbit_use_ssl" from group "oslo_messaging_rabbit".
+2016-02-26 19:40:22.719 2755 INFO oslo_messaging._drivers.impl_rabbit [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-26 19:40:22.755 2755 INFO oslo_messaging._drivers.impl_rabbit [req-ce3ebfb2-e8a2-4555-95f8-93ea23ef92b0 - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-26 19:40:23.570 2755 INFO oslo_messaging._drivers.impl_rabbit [req-69a3c951-9a57-4dd8-8c51-d005208be22a - - - - -] Connecting to AMQP server on 192.168.0.10:5672
+2016-02-26 19:40:23.604 2755 INFO oslo_messaging._drivers.impl_rabbit [req-69a3c951-9a57-4dd8-8c51-d005208be22a - - - - -] Connected to AMQP server on 192.168.0.10:5672
+2016-02-26 19:40:23.608 2755 WARNING oslo_config.cfg [req-69a3c951-9a57-4dd8-8c51-d005208be22a - - - - -] Option "rabbit_ha_queues" from group "DEFAULT" is deprecated. Use option "rabbit_ha_queues" from group "oslo_messaging_rabbit".
+2016-02-26 19:41:16.651 2755 INFO cinder.volume.manager [req-fc9636d2-9ec7-4172-b7c5-70c9385dd47f - - - - -] Updating volume status
+2016-02-26 19:42:16.652 2755 INFO cinder.volume.manager [req-32fd2e3d-0dd9-4fc1-8fea-649bbd0cb2a8 - - - - -] Updating volume status
+2016-02-26 19:43:16.649 2755 INFO cinder.volume.manager [req-36a665af-2782-46ca-8f70-ca189bb1a3ab - - - - -] Updating volume status
+2016-02-26 19:44:16.650 2755 INFO cinder.volume.manager [req-1fc0c0dc-99ec-4df8-a591-a3cf41fd3c09 - - - - -] Updating volume status
+2016-02-26 19:45:16.649 2755 INFO cinder.volume.manager [req-eda294f0-c3ef-44d9-9caa-2ca6e79e9632 - - - - -] Updating volume status
+2016-02-26 19:46:16.651 2755 INFO cinder.volume.manager [req-996ff13c-e308-4882-a67e-e578914f2ed8 - - - - -] Updating volume status
+2016-02-26 19:47:16.653 2755 INFO cinder.volume.manager [req-09838e78-f4b8-47b1-ad7c-26e104ed3df6 - - - - -] Updating volume status
+2016-02-26 19:48:16.654 2755 INFO cinder.volume.manager [req-1b8ffd7d-2086-4ec3-84e2-42d734b15a85 - - - - -] Updating volume status
+2016-02-26 19:49:16.654 2755 INFO cinder.volume.manager [req-a4a8dd39-2f84-4ae1-9ebd-6c96d67cdd8a - - - - -] Updating volume status
+2016-02-26 19:50:16.652 2755 INFO cinder.volume.manager [req-02dd3873-eb3c-44f2-af37-65e6bfad2c66 - - - - -] Updating volume status
+2016-02-26 19:51:16.654 2755 INFO cinder.volume.manager [req-efd165c8-b859-4927-82bd-e619f5431e45 - - - - -] Updating volume status
+2016-02-26 19:52:16.650 2755 INFO cinder.volume.manager [req-c1a90d43-6205-4f91-b066-e697080c79b7 - - - - -] Updating volume status
+2016-02-26 19:53:16.652 2755 INFO cinder.volume.manager [req-70959104-1c71-4d3c-b8c4-ab2cf723faf0 - - - - -] Updating volume status
+2016-02-26 19:54:16.654 2755 INFO cinder.volume.manager [req-e71810ed-9a8d-44b7-a81c-1819c1da6b67 - - - - -] Updating volume status
+2016-02-26 19:55:16.655 2755 INFO cinder.volume.manager [req-1660268a-e57d-48b6-b611-043888a09d56 - - - - -] Updating volume status
+2016-02-26 19:56:16.653 2755 INFO cinder.volume.manager [req-a0ade070-1835-4366-a89a-8455d90b55e2 - - - - -] Updating volume status
+2016-02-26 19:57:16.654 2755 INFO cinder.volume.manager [req-6825e092-e288-40bf-8f6b-723c731280f2 - - - - -] Updating volume status
+2016-02-26 19:58:16.657 2755 INFO cinder.volume.manager [req-f2e78eea-a6f5-4447-855b-b9da842f2896 - - - - -] Updating volume status
+2016-02-26 19:59:16.656 2755 INFO cinder.volume.manager [req-7af890cc-8223-4f1f-ac98-60e67cb304cd - - - - -] Updating volume status
+2016-02-26 20:00:16.656 2755 INFO cinder.volume.manager [req-3a9223e1-6a43-4f2b-a8b0-e0615d703698 - - - - -] Updating volume status
+2016-02-26 20:01:16.656 2755 INFO cinder.volume.manager [req-533bfb63-0214-4536-a0d8-4c18f3655b8d - - - - -] Updating volume status
+2016-02-26 20:02:16.657 2755 INFO cinder.volume.manager [req-039512b6-bf80-437a-891d-fd6f41d75189 - - - - -] Updating volume status
+2016-02-26 20:03:16.648 2755 INFO cinder.volume.manager [req-c817c0ea-f32c-4a5f-ac85-c5638a106de6 - - - - -] Updating volume status
+2016-02-26 20:04:16.663 2755 INFO cinder.volume.manager [req-33bfd67a-49bb-4cf7-8073-4956a83f2a75 - - - - -] Updating volume status
+2016-02-26 20:05:16.661 2755 INFO cinder.volume.manager [req-c208f779-00b4-4c75-b4e0-97c05c0d11c1 - - - - -] Updating volume status
+2016-02-26 20:06:16.659 2755 INFO cinder.volume.manager [req-7cc087c0-f326-4b30-b149-bbcf7624e0eb - - - - -] Updating volume status
+2016-02-26 20:07:16.660 2755 INFO cinder.volume.manager [req-2d7d3e21-85f6-45db-b627-3a9983d6a57e - - - - -] Updating volume status
+2016-02-26 20:08:16.660 2755 INFO cinder.volume.manager [req-57b0dc5b-2be9-40f7-8c25-dd28a9098f35 - - - - -] Updating volume status
+2016-02-26 20:09:16.659 2755 INFO cinder.volume.manager [req-e1796c9a-b64e-48c5-acb7-25a2b87eb18f - - - - -] Updating volume status
+2016-02-26 20:10:16.660 2755 INFO cinder.volume.manager [req-59fa849f-ab1e-447a-9c6b-2c12f67718dc - - - - -] Updating volume status
+2016-02-26 20:12:16.661 2755 INFO cinder.volume.manager [req-de832484-0d55-45f5-baa6-683b072601e9 - - - - -] Updating volume status
+2016-02-26 20:13:16.661 2755 INFO cinder.volume.manager [req-039eb9a4-bd6e-4e52-a11c-250ac0ea9bc7 - - - - -] Updating volume status
+2016-02-26 20:14:16.663 2755 INFO cinder.volume.manager [req-d96ea954-af0f-456a-8213-f95a689666d2 - - - - -] Updating volume status
+2016-02-26 20:15:16.661 2755 INFO cinder.volume.manager [req-e43e0a11-0596-4bf2-a03d-19ddf9139905 - - - - -] Updating volume status
+2016-02-26 20:16:16.662 2755 INFO cinder.volume.manager [req-be49f41b-b849-4f6f-bc05-640bde4af960 - - - - -] Updating volume status
+2016-02-26 20:17:16.667 2755 INFO cinder.volume.manager [req-3a1fd2d1-9d23-43b7-a601-845bffaf7c69 - - - - -] Updating volume status
+2016-02-26 20:18:16.668 2755 INFO cinder.volume.manager [req-0d91bae7-671d-47d7-9adc-40e209d8759a - - - - -] Updating volume status
+2016-02-26 20:19:16.667 2755 INFO cinder.volume.manager [req-d4c7b20c-b695-493e-b739-4866ab57b3d2 - - - - -] Updating volume status
+2016-02-26 20:20:16.664 2755 INFO cinder.volume.manager [req-845658d5-f22d-43dc-8f62-f8640b17fade - - - - -] Updating volume status
+2016-02-26 20:21:16.667 2755 INFO cinder.volume.manager [req-40dd5756-3e72-49a3-889c-e2ec7b05ec1c - - - - -] Updating volume status
+2016-02-26 20:22:16.670 2755 INFO cinder.volume.manager [req-2f951dba-1bae-4af9-bdef-134311ef4388 - - - - -] Updating volume status
+2016-02-26 20:23:16.666 2755 INFO cinder.volume.manager [req-5c1709b2-c2fa-47a9-92b4-14d73e37103c - - - - -] Updating volume status
+2016-02-26 20:24:16.670 2755 INFO cinder.volume.manager [req-b0d58e91-4da0-4b22-be0b-02ed8897aa47 - - - - -] Updating volume status
+2016-02-26 20:25:16.672 2755 INFO cinder.volume.manager [req-f742840a-e044-4476-b40b-2c6bcfd08858 - - - - -] Updating volume status
+2016-02-26 20:26:16.670 2755 INFO cinder.volume.manager [req-21a1a401-9a0b-4731-a11f-3002d6ab0aec - - - - -] Updating volume status
+2016-02-26 20:27:16.669 2755 INFO cinder.volume.manager [req-808f93d0-a619-4e8b-aa90-7ebd9a8913c6 - - - - -] Updating volume status
+2016-02-26 20:28:16.670 2755 INFO cinder.volume.manager [req-b1b3daa6-77a2-4fda-a4ca-e1bdcd04a4c1 - - - - -] Updating volume status
+2016-02-26 20:29:16.668 2755 INFO cinder.volume.manager [req-51242122-ae98-473c-9f0c-0da973d7a438 - - - - -] Updating volume status
+2016-02-26 20:30:16.668 2755 INFO cinder.volume.manager [req-0eaf9aad-ce89-48a6-ab53-3f0e7e7b9494 - - - - -] Updating volume status
+2016-02-26 20:31:16.672 2755 INFO cinder.volume.manager [req-0208700e-1f49-43e4-a516-7eab1eaf9277 - - - - -] Updating volume status
+2016-02-26 20:32:16.670 2755 INFO cinder.volume.manager [req-e463043e-bf2b-4b95-a574-16dc0a41e9ef - - - - -] Updating volume status
+2016-02-26 20:33:16.673 2755 INFO cinder.volume.manager [req-0867edb4-c3c4-4309-b4d6-c4d418eeeaa6 - - - - -] Updating volume status
+2016-02-26 20:34:16.671 2755 INFO cinder.volume.manager [req-f6ffebfa-5ea5-43d5-b60c-401da4575e9e - - - - -] Updating volume status
+2016-02-26 20:35:16.674 2755 INFO cinder.volume.manager [req-e4a8cdd3-fa3c-4abf-a6ef-7838f4e91884 - - - - -] Updating volume status
+2016-02-26 20:36:16.675 2755 INFO cinder.volume.manager [req-ac98959d-6bcf-462b-8e27-05b4d3587b41 - - - - -] Updating volume status
+2016-02-26 20:37:16.671 2755 INFO cinder.volume.manager [req-d87b6cee-c0f9-4808-9b8b-f27736669da6 - - - - -] Updating volume status
+2016-02-26 20:38:16.673 2755 INFO cinder.volume.manager [req-28a610a1-3012-4bc5-8e70-ae904d2a0adc - - - - -] Updating volume status
+2016-02-26 20:39:16.675 2755 INFO cinder.volume.manager [req-e803a5b0-f4f9-4375-88ae-25351c1fdafb - - - - -] Updating volume status
+2016-02-26 20:40:16.674 2755 INFO cinder.volume.manager [req-9e167aae-17de-4be3-be1d-9a877360b950 - - - - -] Updating volume status
+2016-02-26 20:41:16.676 2755 INFO cinder.volume.manager [req-63a9ab31-d843-4fb6-9915-07cdce434b91 - - - - -] Updating volume status
+2016-02-26 20:42:16.675 2755 INFO cinder.volume.manager [req-0558d85f-e133-4ab2-bba2-a9335b9d643c - - - - -] Updating volume status
+2016-02-26 20:43:16.678 2755 INFO cinder.volume.manager [req-d57b9053-d227-440b-945a-ea6bde840984 - - - - -] Updating volume status
+2016-02-26 20:44:16.687 2755 INFO cinder.volume.manager [req-c118c150-0c35-4c4a-8531-765419ae25d7 - - - - -] Updating volume status
+2016-02-26 20:45:16.678 2755 INFO cinder.volume.manager [req-ccae8968-3b3e-4173-bb77-d6fb98e7f626 - - - - -] Updating volume status
+2016-02-26 20:46:16.679 2755 INFO cinder.volume.manager [req-a65c232e-c7f5-41c7-961a-be1c57de4435 - - - - -] Updating volume status
+2016-02-26 20:47:16.680 2755 INFO cinder.volume.manager [req-921f64d5-654e-4b3e-b0c3-5d747d5865df - - - - -] Updating volume status
+2016-02-26 20:48:16.678 2755 INFO cinder.volume.manager [req-42ca6a55-ed8f-4250-b64b-6e42bf49bf59 - - - - -] Updating volume status
+2016-02-26 20:49:16.681 2755 INFO cinder.volume.manager [req-314c9496-538c-4c7b-8df4-0021297feeba - - - - -] Updating volume status
+2016-02-26 20:50:16.681 2755 INFO cinder.volume.manager [req-2df47610-bc5b-4c1f-b00e-c85aa59fbb52 - - - - -] Updating volume status
+2016-02-26 20:51:16.680 2755 INFO cinder.volume.manager [req-15b8f842-1a18-42d3-bd1d-3bea8298fd5d - - - - -] Updating volume status
+2016-02-26 20:52:16.681 2755 INFO cinder.volume.manager [req-52e00450-f645-4365-b12a-a1234a2f114b - - - - -] Updating volume status
+2016-02-26 20:53:16.682 2755 INFO cinder.volume.manager [req-161445b8-fdd5-492b-92e2-754b91a1b755 - - - - -] Updating volume status
+2016-02-26 20:54:16.682 2755 INFO cinder.volume.manager [req-2fc8e837-fdcd-4ddd-9ac3-ea3ddd52e0c7 - - - - -] Updating volume status
+2016-02-26 20:55:16.686 2755 INFO cinder.volume.manager [req-6e643346-5c06-45de-9597-34d24af155be - - - - -] Updating volume status
+2016-02-26 20:56:16.683 2755 INFO cinder.volume.manager [req-f2d88d9c-c1a2-40d3-81c2-3c05ea903da1 - - - - -] Updating volume status
+2016-02-26 20:57:16.684 2755 INFO cinder.volume.manager [req-4e41f42d-a1af-43fa-95b7-3692910d01e0 - - - - -] Updating volume status
+2016-02-26 20:58:16.674 2755 INFO cinder.volume.manager [req-99480af1-d17a-4d64-852b-a10abe30b730 - - - - -] Updating volume status
+2016-02-26 20:59:16.686 2755 INFO cinder.volume.manager [req-74aaeba4-222e-46b7-9835-6ade1ab43946 - - - - -] Updating volume status
+2016-02-26 21:00:16.685 2755 INFO cinder.volume.manager [req-c6545c40-55c7-4fc0-9900-dffc535488bc - - - - -] Updating volume status
+2016-02-26 21:01:16.686 2755 INFO cinder.volume.manager [req-55725bcc-1230-4438-b6d4-dffbbeda8571 - - - - -] Updating volume status
+2016-02-26 21:02:16.710 2755 INFO cinder.volume.manager [req-9444197d-d776-4820-abfc-032b79475eb2 - - - - -] Updating volume status
+2016-02-26 21:03:16.687 2755 INFO cinder.volume.manager [req-917c6bef-382c-4687-b1a1-a53332b24dc6 - - - - -] Updating volume status
+2016-02-26 21:04:16.688 2755 INFO cinder.volume.manager [req-6bfc00ac-7f73-4d07-8b0a-e662a95a76bf - - - - -] Updating volume status
+2016-02-26 21:05:16.688 2755 INFO cinder.volume.manager [req-163f7e67-884e-4400-ab2c-de2bcc95c994 - - - - -] Updating volume status
+2016-02-26 21:06:16.688 2755 INFO cinder.volume.manager [req-b171fe5c-f2d8-4836-b867-196c252688d1 - - - - -] Updating volume status
+2016-02-26 21:07:16.689 2755 INFO cinder.volume.manager [req-3ba4452d-e9bb-4357-9add-284fcd889efc - - - - -] Updating volume status
+2016-02-26 21:09:16.688 2755 INFO cinder.volume.manager [req-9172d597-eeb7-4ee8-911b-01fe59f7e23c - - - - -] Updating volume status
+2016-02-26 21:10:16.692 2755 INFO cinder.volume.manager [req-e0cbefc4-9366-4485-b162-ef8c4df0a4cf - - - - -] Updating volume status
+2016-02-26 21:11:16.689 2755 INFO cinder.volume.manager [req-43e94e72-fad0-4e06-8d3e-d55a6ab2049e - - - - -] Updating volume status
+2016-02-26 21:12:16.691 2755 INFO cinder.volume.manager [req-d7bb6d35-7e67-4f61-bb05-675a68761574 - - - - -] Updating volume status
+2016-02-26 21:13:16.690 2755 INFO cinder.volume.manager [req-204adece-d980-48ea-9468-d4ce93a47f9a - - - - -] Updating volume status
+2016-02-26 21:14:16.691 2755 INFO cinder.volume.manager [req-28f2a80f-62d3-42e7-8177-eb639a76e577 - - - - -] Updating volume status
+2016-02-26 21:15:16.693 2755 INFO cinder.volume.manager [req-5d7ef049-a72d-4d3f-9676-73868c967b93 - - - - -] Updating volume status
+2016-02-26 21:16:16.690 2755 INFO cinder.volume.manager [req-0a7d8c14-4720-4baa-80b6-2bcc904bf4ae - - - - -] Updating volume status
+2016-02-26 21:17:16.695 2755 INFO cinder.volume.manager [req-9d54e92d-d9ae-4d3a-94b3-28295ed0ede7 - - - - -] Updating volume status
+2016-02-26 21:18:16.694 2755 INFO cinder.volume.manager [req-433fc5bb-b631-4f7d-882e-9f46dc20741f - - - - -] Updating volume status
+2016-02-26 21:19:16.697 2755 INFO cinder.volume.manager [req-6004e666-e755-43d0-9598-3fd51b9e2919 - - - - -] Updating volume status
+2016-02-26 21:20:16.701 2755 INFO cinder.volume.manager [req-9a849539-cadb-4138-95a5-bc6fe922ce50 - - - - -] Updating volume status
+2016-02-26 21:21:16.701 2755 INFO cinder.volume.manager [req-b0f13d0c-3cdd-4b66-94ab-155bf3b160e6 - - - - -] Updating volume status
+2016-02-26 21:22:16.697 2755 INFO cinder.volume.manager [req-7d6c5516-f5c4-41b4-adc3-97f16cb15ec4 - - - - -] Updating volume status
+2016-02-26 21:23:16.704 2755 INFO cinder.volume.manager [req-60dd2da8-c707-49e7-b478-6696208cc446 - - - - -] Updating volume status
+2016-02-26 21:24:16.700 2755 INFO cinder.volume.manager [req-1fd73afe-f291-448b-9b22-a05ff57d8687 - - - - -] Updating volume status
+2016-02-26 21:25:16.701 2755 INFO cinder.volume.manager [req-368455a0-f188-4398-8f2f-024e7f5cf271 - - - - -] Updating volume status
+2016-02-26 21:26:16.696 2755 INFO cinder.volume.manager [req-12f33e24-aba8-49db-9eb6-692fbc1b8bab - - - - -] Updating volume status
+2016-02-26 21:27:16.697 2755 INFO cinder.volume.manager [req-1528e84e-d800-4cc5-8d80-7c262580143f - - - - -] Updating volume status
+2016-02-26 21:28:16.700 2755 INFO cinder.volume.manager [req-7c587516-59b1-4f36-b559-4e77e671f4e0 - - - - -] Updating volume status
+2016-02-26 21:29:16.698 2755 INFO cinder.volume.manager [req-2eda7502-74dc-4171-a859-0dd5ded56bd6 - - - - -] Updating volume status
+2016-02-26 21:30:16.696 2755 INFO cinder.volume.manager [req-f474b7da-aa75-46c0-a238-57f79344f414 - - - - -] Updating volume status
+2016-02-26 21:31:16.699 2755 INFO cinder.volume.manager [req-62530f5d-f1a7-4cbc-b73e-335ab57387de - - - - -] Updating volume status
+2016-02-26 21:32:16.700 2755 INFO cinder.volume.manager [req-719a6ec1-a3c4-426c-b56f-c606312141d2 - - - - -] Updating volume status
+2016-02-26 21:33:16.697 2755 INFO cinder.volume.manager [req-1f41464d-9553-462c-8f1c-5401a4e04a18 - - - - -] Updating volume status
+2016-02-26 21:34:16.701 2755 INFO cinder.volume.manager [req-2c1e8bd6-8c6a-48ee-9bfa-0b3c12e55751 - - - - -] Updating volume status
+2016-02-26 21:35:16.702 2755 INFO cinder.volume.manager [req-2d84e2ad-44e7-4df7-8fa2-0b35018f4cf4 - - - - -] Updating volume status
+2016-02-26 21:36:16.699 2755 INFO cinder.volume.manager [req-0314eb21-a13e-4264-91d9-9faef5dc8add - - - - -] Updating volume status
+2016-02-26 21:37:16.703 2755 INFO cinder.volume.manager [req-3a07ab9d-33f6-4947-a62d-7414b5bb36e8 - - - - -] Updating volume status
+2016-02-26 21:38:16.707 2755 INFO cinder.volume.manager [req-32d6ee37-391c-4630-a805-c74529863aa8 - - - - -] Updating volume status
+2016-02-26 21:39:16.703 2755 INFO cinder.volume.manager [req-4fc1eaae-1d92-45d3-aa2a-eb34807600bf - - - - -] Updating volume status
+2016-02-26 21:40:16.703 2755 INFO cinder.volume.manager [req-1879cb8e-638b-4302-99dc-3fc8add8dd44 - - - - -] Updating volume status
+2016-02-26 21:41:16.706 2755 INFO cinder.volume.manager [req-e7a2db2b-aa64-45fd-b3fd-78ff4e811acb - - - - -] Updating volume status
+2016-02-26 21:42:16.704 2755 INFO cinder.volume.manager [req-d6b26fb2-e5b1-46f3-8067-d61396dce0f3 - - - - -] Updating volume status
+2016-02-26 21:43:16.705 2755 INFO cinder.volume.manager [req-d10be7cf-ddbd-4988-948b-c095f620805e - - - - -] Updating volume status
+2016-02-26 21:44:16.705 2755 INFO cinder.volume.manager [req-ae07301f-fb65-4fb5-aa35-a0be3ea00e6c - - - - -] Updating volume status
+2016-02-26 21:45:16.706 2755 INFO cinder.volume.manager [req-7ab32c2f-e0c9-4c18-aa4c-19b9d5b72521 - - - - -] Updating volume status
+2016-02-26 21:46:16.707 2755 INFO cinder.volume.manager [req-d0ada8cc-d346-4f30-9577-bfea31f21479 - - - - -] Updating volume status
+2016-02-26 21:47:16.708 2755 INFO cinder.volume.manager [req-88693825-345b-476c-aa45-cf0e1bbdb891 - - - - -] Updating volume status
+2016-02-26 21:48:16.706 2755 INFO cinder.volume.manager [req-759f983f-e04c-4765-8af2-4ead8ae8a8e3 - - - - -] Updating volume status
+2016-02-26 21:49:16.705 2755 INFO cinder.volume.manager [req-854092b9-6230-411c-92b0-0c93334172a7 - - - - -] Updating volume status
+2016-02-26 21:50:16.708 2755 INFO cinder.volume.manager [req-5f0dac8a-b2b2-46cb-9aa5-62c3a3578141 - - - - -] Updating volume status
+2016-02-26 21:51:16.705 2755 INFO cinder.volume.manager [req-b1543563-56f3-4f10-a7b4-8b51b076e5a9 - - - - -] Updating volume status
+2016-02-26 21:52:16.709 2755 INFO cinder.volume.manager [req-4e21404e-7416-4161-9e14-88a0a21b15cd - - - - -] Updating volume status
+2016-02-26 21:53:16.709 2755 INFO cinder.volume.manager [req-b6504833-447f-4a9c-ba23-5c9d2e52fa74 - - - - -] Updating volume status
+2016-02-26 21:54:16.711 2755 INFO cinder.volume.manager [req-34326f31-efb0-46cc-aa93-263e2de3e4c0 - - - - -] Updating volume status
+2016-02-26 21:55:16.714 2755 INFO cinder.volume.manager [req-ee08f75d-b639-41ae-b06d-501ecf398d49 - - - - -] Updating volume status
+2016-02-26 21:57:16.713 2755 INFO cinder.volume.manager [req-daab7a5b-19ca-4036-85d6-26b5ae027d48 - - - - -] Updating volume status
+2016-02-26 21:58:16.712 2755 INFO cinder.volume.manager [req-b4f046f3-a43d-49e8-a53c-c63a73888475 - - - - -] Updating volume status
+2016-02-26 21:59:16.715 2755 INFO cinder.volume.manager [req-8d251e43-2be8-456e-b9a2-f3fa463c16bb - - - - -] Updating volume status
+2016-02-26 22:00:16.717 2755 INFO cinder.volume.manager [req-687f2430-c4f1-42cb-8016-fafad4ce5bcd - - - - -] Updating volume status
+2016-02-26 22:01:16.715 2755 INFO cinder.volume.manager [req-b1461bab-d79b-408e-b18c-1e5a28f837d6 - - - - -] Updating volume status
+2016-02-26 22:02:16.713 2755 INFO cinder.volume.manager [req-12aeea57-652e-4086-9fc1-d4f543f968ed - - - - -] Updating volume status
+2016-02-26 22:03:16.720 2755 INFO cinder.volume.manager [req-0c8f1453-c878-4a1b-99d9-5bf7eed22f8a - - - - -] Updating volume status
+2016-02-26 22:04:16.712 2755 INFO cinder.volume.manager [req-58adc18b-af2c-41a6-a44b-d333a452c102 - - - - -] Updating volume status
+2016-02-26 22:05:16.715 2755 INFO cinder.volume.manager [req-2aa6577f-1fab-46fc-b26a-d04f822e593e - - - - -] Updating volume status
+2016-02-26 22:06:16.715 2755 INFO cinder.volume.manager [req-fc1b979c-372b-4cdd-bf3c-3d246311ee94 - - - - -] Updating volume status
+2016-02-26 22:07:16.719 2755 INFO cinder.volume.manager [req-49689f01-dc01-40c2-be0e-99c99b13ffa8 - - - - -] Updating volume status
+2016-02-26 22:08:16.717 2755 INFO cinder.volume.manager [req-4a03bdec-ca65-4988-aa4f-5addf8bd0345 - - - - -] Updating volume status
+2016-02-26 22:09:16.720 2755 INFO cinder.volume.manager [req-190723f4-465c-40b0-88fc-95f69849523f - - - - -] Updating volume status
+2016-02-26 22:10:16.717 2755 INFO cinder.volume.manager [req-a9933929-f899-48b4-a6ee-98553cdd4e89 - - - - -] Updating volume status
+2016-02-26 22:11:16.717 2755 INFO cinder.volume.manager [req-1210d9c9-3cd8-4243-8dae-bd41fb3e2fd2 - - - - -] Updating volume status
+2016-02-26 22:12:16.719 2755 INFO cinder.volume.manager [req-5ceb2ac0-3c33-402a-a84b-139fbc23398e - - - - -] Updating volume status
+2016-02-26 22:13:16.719 2755 INFO cinder.volume.manager [req-6b2b28c1-8cee-4718-9191-4ba80d14c0ba - - - - -] Updating volume status
+2016-02-26 22:14:16.721 2755 INFO cinder.volume.manager [req-930be508-4961-4901-9cc0-065c2c351b90 - - - - -] Updating volume status
+2016-02-26 22:15:16.723 2755 INFO cinder.volume.manager [req-4ee437dd-4ce2-436b-b6cf-5e9e5ab9095f - - - - -] Updating volume status
+2016-02-26 22:16:16.720 2755 INFO cinder.volume.manager [req-cfe4305e-72b5-4e1c-a67b-f5cf72c13d47 - - - - -] Updating volume status
+2016-02-26 22:17:16.721 2755 INFO cinder.volume.manager [req-179b4317-8e93-4320-9a15-413033187385 - - - - -] Updating volume status
+2016-02-26 22:18:16.721 2755 INFO cinder.volume.manager [req-b9722875-26be-49d5-96c9-a45804284c8b - - - - -] Updating volume status
+2016-02-26 22:19:16.723 2755 INFO cinder.volume.manager [req-f3829730-664a-4f42-8924-f60b3baa99d2 - - - - -] Updating volume status
+2016-02-26 22:20:16.722 2755 INFO cinder.volume.manager [req-67cabe6d-cf28-4677-a6f6-24fd723119b1 - - - - -] Updating volume status
+2016-02-26 22:21:16.722 2755 INFO cinder.volume.manager [req-feb80272-0b57-4c35-9b99-03459d0db985 - - - - -] Updating volume status
+2016-02-26 22:22:16.724 2755 INFO cinder.volume.manager [req-804fce3a-57f8-49ef-a6f1-f0196f770d4c - - - - -] Updating volume status
+2016-02-26 22:23:16.722 2755 INFO cinder.volume.manager [req-494e7de3-582e-45a1-bc5c-9ab002d99be6 - - - - -] Updating volume status
+2016-02-26 22:24:16.722 2755 INFO cinder.volume.manager [req-0b0f657e-edf3-4107-aae3-27102d15acca - - - - -] Updating volume status
+2016-02-26 22:25:16.724 2755 INFO cinder.volume.manager [req-80a4ffb1-1bb5-45f6-beed-cc480fbe187d - - - - -] Updating volume status
+2016-02-26 22:26:16.729 2755 INFO cinder.volume.manager [req-aabd74ee-fbfc-4d0e-9a56-b015c0e1e39c - - - - -] Updating volume status
+2016-02-26 22:27:16.726 2755 INFO cinder.volume.manager [req-8ae5840a-aeae-426c-8e79-7570a8b3ad13 - - - - -] Updating volume status
+2016-02-26 22:28:16.726 2755 INFO cinder.volume.manager [req-5517cfd9-7c92-4b24-8ba7-4b4dcbea0e74 - - - - -] Updating volume status
+2016-02-26 22:29:16.725 2755 INFO cinder.volume.manager [req-de5140d3-6f1c-440e-9393-528a8699fa4a - - - - -] Updating volume status
+2016-02-26 22:30:16.727 2755 INFO cinder.volume.manager [req-4effe5e9-8678-4bc5-b57c-742342caa45d - - - - -] Updating volume status
+2016-02-26 22:31:16.728 2755 INFO cinder.volume.manager [req-d5e5ff54-fa52-4344-a68f-cd24c49d5b5d - - - - -] Updating volume status
+2016-02-26 22:32:16.732 2755 INFO cinder.volume.manager [req-9d5dfb6b-94df-4a44-8e67-fb7d126a856f - - - - -] Updating volume status
+2016-02-26 22:33:16.730 2755 INFO cinder.volume.manager [req-a759b6d8-99bc-4e77-9d55-eef7af106c6e - - - - -] Updating volume status
+2016-02-26 22:34:16.729 2755 INFO cinder.volume.manager [req-eb75cff8-1b0d-4037-823b-8e8bf4eceabc - - - - -] Updating volume status
+2016-02-26 22:35:16.731 2755 INFO cinder.volume.manager [req-fd1b4082-6055-426b-b237-bd1b253b7f25 - - - - -] Updating volume status
+2016-02-26 22:36:16.733 2755 INFO cinder.volume.manager [req-c662566a-cfd0-464f-87b6-78c06da649b9 - - - - -] Updating volume status
+2016-02-26 22:37:16.731 2755 INFO cinder.volume.manager [req-b70ade4d-e4bc-4c0c-8393-29c2789afd0b - - - - -] Updating volume status
+2016-02-26 22:38:16.731 2755 INFO cinder.volume.manager [req-71530ef0-003c-4b0b-a73a-83a952249e3c - - - - -] Updating volume status
+2016-02-26 22:39:16.731 2755 INFO cinder.volume.manager [req-70f4ad3b-f6b0-4c50-9227-846bc451c4b2 - - - - -] Updating volume status
+2016-02-26 22:40:16.734 2755 INFO cinder.volume.manager [req-ab35319f-c8cf-4481-9e88-fe682130115e - - - - -] Updating volume status
+2016-02-26 22:41:16.732 2755 INFO cinder.volume.manager [req-dc922dda-0ffb-4611-903f-1a33083a4735 - - - - -] Updating volume status
+2016-02-26 22:42:16.736 2755 INFO cinder.volume.manager [req-7f1fda3e-eabd-4fd7-b0a0-6f02b3ca34f4 - - - - -] Updating volume status
+2016-02-26 22:43:16.739 2755 INFO cinder.volume.manager [req-1bd3bc79-2f94-4ba2-9132-8ea9f4b7f4f2 - - - - -] Updating volume status
+2016-02-26 22:44:16.737 2755 INFO cinder.volume.manager [req-b8d7d772-615f-4ece-9f12-1e68f34c0ba8 - - - - -] Updating volume status
+2016-02-26 22:45:16.736 2755 INFO cinder.volume.manager [req-88abf95c-baee-4111-bdf7-353f18a0160d - - - - -] Updating volume status
+2016-02-26 22:46:16.737 2755 INFO cinder.volume.manager [req-4b1f1822-61da-4312-bb9c-9a234ba165c9 - - - - -] Updating volume status
+2016-02-26 22:47:16.739 2755 INFO cinder.volume.manager [req-cfe7e9c3-fade-4646-8fdf-276371a73d1a - - - - -] Updating volume status
+2016-02-26 22:48:16.737 2755 INFO cinder.volume.manager [req-ed260826-f91f-4495-b583-e786d21992f8 - - - - -] Updating volume status
+2016-02-26 22:49:16.738 2755 INFO cinder.volume.manager [req-92b33c45-784b-42ff-a3da-5159d58c2de4 - - - - -] Updating volume status
+2016-02-26 22:50:16.746 2755 INFO cinder.volume.manager [req-1bbc6d34-b15c-4885-8b70-663beb44eaec - - - - -] Updating volume status
+2016-02-26 22:51:16.744 2755 INFO cinder.volume.manager [req-8592708d-e6a6-4067-83f5-eaaebd092a82 - - - - -] Updating volume status
+2016-02-26 22:52:16.747 2755 INFO cinder.volume.manager [req-0c38de37-5f85-418b-ba85-03db89a92031 - - - - -] Updating volume status
